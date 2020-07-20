@@ -77,7 +77,7 @@
 Things you should know -
 
 - 🔭 <b>Currently working on:</b> Typescript, Express REST, PostgresSQL, Docker
-- 🌱 <b>Getting better at:</b> Kotlin, Flutter, Nest.JS, Agile Software Development, Technical Product Management
+- 🌱 <b>Getting better at:</b> Kotlin, Flutter, Nest.JS, Python, Agile Software Development, Technical Product Management
 <!-- - 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)
 - 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation -->
 <!-- - 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations -->
