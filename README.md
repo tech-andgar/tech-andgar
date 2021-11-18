@@ -99,6 +99,9 @@ Things you should know -
 <p/>
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=andgar2010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/andgar2010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andgar2010&show_icons=true&include_all_commits=true&theme=solarized-dark&hide_border=true" alt="andgar2010's github stats" /></a>
 
 <a href="https://github.com/andgar2010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andgar2010&layout=compact&theme=solarized-dark&hide_border=true&hide=javascript,php,css,PLpgSQL,Hack,html" /></a>
@@ -111,6 +114,8 @@ Things you should know -
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dart - Use late allocation if possible](https://tech-andgar.me/posts/dart-late-keyword/)
+- [Flutter Test Coverage](https://tech-andgar.me/posts/flutter-test-coverage/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
