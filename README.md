@@ -116,6 +116,9 @@ Things you should know -
 <!-- BLOG-POST-LIST:START -->
 - [Dart - Use late allocation if possible](https://tech-andgar.me/posts/dart-late-keyword/)
 - [Flutter Test Coverage](https://tech-andgar.me/posts/flutter-test-coverage/)
+- [About](https://tech-andgar.me/about/)
+- [Cofiguration server](https://tech-andgar.me/posts/notes-config-server/)
+- [Contact](https://tech-andgar.me/contact/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
