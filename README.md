@@ -22,7 +22,7 @@
 
 ### Technical Skills
 
-#### Language:
+#### Languages:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -35,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code> -->
-  
+
 #### Data:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
@@ -59,13 +59,12 @@
 
 #### Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-  
-  
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg"></code>
+<code><img height="20" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code> -->
 </p>
@@ -98,6 +97,21 @@ Things you should know -
 <p align='center'>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=andgar2010.visitor-badge">
 <p/>
+
+
+<a href="https://github.com/andgar2010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andgar2010&show_icons=true&include_all_commits=true&theme=solarized-dark&hide_border=true" alt="andgar2010's github stats" /></a>
+
+<a href="https://github.com/andgar2010/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andgar2010&layout=compact&theme=solarized-dark&hide_border=true&hide=javascript,php,css,PLpgSQL,Hack,html" /></a>
+
+<img align="center" src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,dart,json,java,javascript,mysql,perl,scss,shell,typescript,vue" />
+
+<br />
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tech_andgar)
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **andgar2010/andgar2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
