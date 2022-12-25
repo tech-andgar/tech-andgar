@@ -58,7 +58,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code> -->
 
 #### Tools:
-<code><img height="20" src="https://blog.frankel.ch/assets/resources/github-actions-maven-releases/git-hub-actions.svg"></code>
+<code><img height="20" src="https://us-browse.startpage.com/av/anon-image?piurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F44036562%3Fs%3D280%26v%3D4&sp=1671946258T658c1d4301e41a9c811f22317fad0f158765c501d7d9d01f6e99d2f95b53de79"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"></code>
 <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
