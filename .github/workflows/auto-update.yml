@@ -1,0 +1,27 @@
+name: Auto Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */1 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dart-lang/setup-dart@v1.3
+
+      - name: Install dependencies
+        run: dart pub get
+
+      - name: Auto Update README
+        run: dart run
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '[Scheduled] Auto Update'
+          commit_user_name: 'Andrés García'
+          commit_user_email: dev@tech-andgar.me
+          commit_author: 'Andres Garcia <dev@tech-andgar.me>'
