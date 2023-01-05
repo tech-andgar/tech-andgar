@@ -85,10 +85,10 @@ Things you should know -
 #### Others
 -->
 
-- [nomina](https://github.com/twitter-dart/nomina)
+- [nomina](https://github.com/andgar2010/nomina)
 - [solid-example](https://github.com/andgar2010/solid-example)
 - [http_exception [WIP]](https://github.com/andgar2010/http_exception)
-- [clean_architecture_counter [WIP]](https://github.com/duolingo-dart/clean_architecture_counter)
+- [clean_architecture_counter [WIP]](https://github.com/andgar2010/clean_architecture_counter)
 <!-- - [project](https://github.com/user/project) (10+ ⭐) -->
 
 ## **_Experiences / Technical Skills_**
