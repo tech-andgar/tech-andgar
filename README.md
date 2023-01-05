@@ -36,7 +36,7 @@ Things you should know -
 - 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation -->
 <!-- - 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations -->
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:dev@tech-andgar.me" target="_blank">
-  <img alt="Mail Badge" src="https://img.shields.io/badge/dev@tech--andgar.me-c14438?style=flat&logo=Gmail&logoColor=white"  >
+  <img alt="Mail Badge" src="https://img.shields.io/badge/dev@tech--andgar.me-c14438?style=flat&logo=mail&logoColor=white"  >
   </a>
 <!-- - ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh: -->
 <!-- - 🔭 <b>Currently working on:</b> Kotlin, GraphQL, IBM MFP, AWS, Django REST
