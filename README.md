@@ -48,8 +48,8 @@ Things you should know -
 - ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh: -->
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
-🤖 **Fun fact 1**: I'm currently [the 137th most active GitHub committer in Colombia](https://commits.top/colombia.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the 147th most active GitHub contributor in Colombia](https://commits.top/colombia_public.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 122nd most active GitHub committer in Colombia](https://commits.top/colombia.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the 134th most active GitHub contributor in Colombia](https://commits.top/colombia_public.html).</br>
 
 <!-- MY-RANK-IN-GITHUB:END -->
 
