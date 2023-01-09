@@ -21,23 +21,21 @@
   -->
 </p>
 
-
-✨ I write simple, stupid and hence, readable "okay" codes with less WTFs/min from code reviews - mostly in <a href="https://github.com/flutter" target="_blank">Flutter</a>, <a href="https://github.com/nodejs" target="_blank">nodejs</a>.
+✨ I write simple, stupid and hence, readable "okay" codes with less WTFs/min from code reviews - mostly in [Flutter](https://github.com/flutter), [Node.js](https://github.com/nodejs).
 
 <!-- ✨ <b>Work Domain:</b> SaaS, Mobile Solutions (App, AR), Cloud Solutions (CRM, ERP, HRM), mobile Sales Force Automation (mSFA)
+-->
 
-✨ <b>Industries:</b> Offshore IT Industry, Digital Agency, EdTech, Logistics & Supply Chain, Insurance. -->
+✨ **Industries:** Offshore IT Industry, Digital Agency, Education, Finance.
 
 Things you should know -
 
-- 🔭 <b>Currently working on:</b> Dart & Flutter
-- 🌱 <b>Getting better at:</b> Flutter, Swift, Kotlin, Agile Software Development, Technical Product Management
+- 🔭 **Currently working on:** Dart & Flutter
+- 🌱 **Getting better at:** Flutter, Swift, Kotlin, Agile Software Development, Technical Product Management
 <!-- - 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)
 - 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation -->
 <!-- - 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations -->
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:dev@tech-andgar.me" target="_blank">
-  <img alt="Mail Badge" src="https://custom-icon-badges.demolab.com/badge/dev@tech--andgar.me-c14438?style=for-the-badge&logo=mail"  >
-  </a>
+- 📫 **Reach me out:** Shoot a mail at [<img alt="Mail Badge" src="https://custom-icon-badges.demolab.com/badge/dev@tech--andgar.me-c14438?style=for-the-badge&logo=mail">](mailto:dev@tech-andgar.me)
 <!-- - ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh: -->
 <!-- - 🔭 <b>Currently working on:</b> Kotlin, GraphQL, IBM MFP, AWS, Django REST
 - 🌱 <b>Getting better at:</b> Jamstack, Scala, Agile Software Development, Technical Product Management
@@ -93,11 +91,13 @@ Things you should know -
 #### Others
 -->
 
-- [nomina](https://github.com/andgar2010/nomina)
-- [solid-example](https://github.com/andgar2010/solid-example)
-- [http_exception [WIP]](https://github.com/andgar2010/http_exception)
-- [clean_architecture_counter [WIP]](https://github.com/andgar2010/clean_architecture_counter)
-<!-- - [project](https://github.com/user/project) (10+ ⭐) -->
+- [nomina básico en colombia (Vue.js v2)](https://github.com/andgar2010/nomina)
+- [solid-example (Dart & Typescript)](https://github.com/andgar2010/solid-example)
+<!--
+- [http_exception (Dart) [WIP]](https://github.com/andgar2010/http_exception)
+- [clean_architecture_counter (Flutter & Dart) [WIP]](https://github.com/andgar2010/clean_architecture_counter)
+- [project](https://github.com/user/project) (10+ ⭐)
+-->
 
 ## **_Experiences / Technical Skills_**
 
@@ -140,6 +140,7 @@ Things you should know -
 <details>
     <summary><b><em>⚡️ IDE / Editor</em></b></summary>
 
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Sublime](https://img.shields.io/badge/sublime%20text-FF9800.svg?style=for-the-badge&logo=sublimetext&logoColor=black)
@@ -209,70 +210,73 @@ Things you should know -
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=MicrosoftOffice&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBSStudio&logoColor=white)
 ![TeamViewer](https://img.shields.io/badge/TeamViewer-004680.svg?style=for-the-badge&logo=TeamViewer&logoColor=white)
-![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED.svg?style=for-the-badge&logo=VSCodium&logoColor=white)
 ![Zoho](https://img.shields.io/badge/Zoho-C8202B.svg?style=for-the-badge&logo=Zoho&logoColor=white)
 
-### Worked (Alphabetical order)
+<details>
+  <summary><b><em>Worked (Alphabetical order)</em></b></summary>
 
-![Adobe Premiere Pro](https://img.shields.io/badge/multimedia-adobe%20premiere%20pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe Dreamweaver](https://img.shields.io/badge/editor-Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=AdobeDreamweaver&logoColor=white)
-![Apache](https://img.shields.io/badge/tools-apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Cordova](https://img.shields.io/badge/tools-apache%20cordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=white)
-![Apache Netbeans](https://img.shields.io/badge/editor-apache%20netbeans%20ide-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/framework-bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bun](https://img.shields.io/badge/tools-bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![ClickUp](https://img.shields.io/badge/tools-clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
-![Composer](https://img.shields.io/badge/tools-composer-885630.svg?style=for-the-badge&logo=composer&logoColor=white)
-![cPanel](https://img.shields.io/badge/OS-cpanel-FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
-![Debian](https://img.shields.io/badge/OS-debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
-![Deno](https://img.shields.io/badge/framework-deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/iaas-digitalocean-F08705.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/tools-docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Eslint](https://img.shields.io/badge/tools-eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
-![EditorConfig](https://img.shields.io/badge/tools-editorconfig-FEFEFE.svg?style=for-the-badge&logo=editorconfig&logoColor=black)
-![Fastify](https://img.shields.io/badge/framework-Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white)
-![Fastlane](https://img.shields.io/badge/tools-Fastlane-00F200.svg?style=for-the-badge&logo=Fastlane&logoColor=black)
-![FileZilla](https://img.shields.io/badge/tools-FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white)
-![Figma](https://img.shields.io/badge/multimedia-Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Fluid Attack](https://custom-icon-badges.demolab.com/badge/Security-Fluid%20Attack-bf0b1a.svg?style=for-the-badge&logo=fluid%20attack&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/multimedia-Font%20Awesome-528DD7.svg?style=for-the-badge&logo=FontAwesome&logoColor=white)
-![GIMP](https://img.shields.io/badge/multimedia-GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/api-Google%20Maps%20API-4285F4.svg?style=for-the-badge&logo=GoogleMaps&logoColor=white)
-![GraphQL](https://img.shields.io/badge/data-graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![Inkscape](https://img.shields.io/badge/multimedia-Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
-![Insomnia](https://img.shields.io/badge/tools-insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
-![JSON](https://img.shields.io/badge/data-JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
-![JSON Web Tokens](https://img.shields.io/badge/Security-JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
-![Laragon](https://img.shields.io/badge/tools-Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white)
-![Laravel](https://img.shields.io/badge/framework-Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Security-Let's%20Encrypt-003A70.svg?style=for-the-badge&logo=LetsEncrypt&logoColor=white)
-![LoopBack](https://img.shields.io/badge/framework-LoopBack-3F5DFF.svg?style=for-the-badge&logo=LoopBack&logoColor=white)
-![Material Design](https://img.shields.io/badge/framework-Material%20Design-757575.svg?style=for-the-badge&logo=MaterialDesign&logoColor=white)
-![NGINX](https://img.shields.io/badge/tools-NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
-![npm](https://img.shields.io/badge/tools-npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![OpenStreetMap API](https://img.shields.io/badge/api-OpenStreetMap%20API-7EBC6F.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/tools-phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
-![PM2](https://img.shields.io/badge/tools-PM2-2B037A.svg?style=for-the-badge&logo=PM2&logoColor=white)
-![Podman](https://img.shields.io/badge/tools-podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
-![Postman](https://img.shields.io/badge/tools-postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![PowerShell](https://img.shields.io/badge/tools-PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
-![Prettier](https://img.shields.io/badge/tools-Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=white)
-![PWA](https://img.shields.io/badge/Platform-PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
-![Quasar](https://img.shields.io/badge/framework-Quasar-1976D2.svg?style=for-the-badge&logo=Quasar&logoColor=white)
-![Sass](https://img.shields.io/badge/language-Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
-![Sentry](https://img.shields.io/badge/tools-Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
-![SonarQube](https://img.shields.io/badge/tools-SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white)
-![Swagger](https://img.shields.io/badge/API-Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=white)
-![ts-node](https://img.shields.io/badge/tools-tsnode-3178C6.svg?style=for-the-badge&logo=tsnode&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VM-VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![VMware](https://img.shields.io/badge/VM-VMware%20Worksation-607078.svg?style=for-the-badge&logo=VMware&logoColor=white)
-![Vue.js](https://img.shields.io/badge/framework-Vue.js%20V2-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
-![WebRTC](https://img.shields.io/badge/multimedia-WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
-![WordPress](https://img.shields.io/badge/framework-WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Yarn](https://img.shields.io/badge/tools-Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
-![Zorin](https://img.shields.io/badge/OS-Zorin-0CC1F3.svg?style=for-the-badge&logo=Zorin&logoColor=white)
-![Zotero](https://img.shields.io/badge/tools-Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white)
+  ![Adobe Dreamweaver](https://img.shields.io/badge/editor-Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=AdobeDreamweaver&logoColor=white)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/multimedia-adobe%20premiere%20pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+  ![Apache](https://img.shields.io/badge/tools-apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+  ![Apache Cordova](https://img.shields.io/badge/tools-apache%20cordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=white)
+  ![Apache Netbeans](https://img.shields.io/badge/editor-apache%20netbeans%20ide-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/framework-bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Bun](https://img.shields.io/badge/tools-bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+  ![ClickUp](https://img.shields.io/badge/tools-clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+  ![Composer](https://img.shields.io/badge/tools-composer-885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+  ![cPanel](https://img.shields.io/badge/OS-cpanel-FF6C2C.svg?style=for-the-badge&logo=cpanel&logoColor=white)
+  ![Debian](https://img.shields.io/badge/OS-debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white)
+  ![Deno](https://img.shields.io/badge/framework-deno-000000.svg?style=for-the-badge&logo=deno&logoColor=white)
+  ![DigitalOcean](https://img.shields.io/badge/iaas-digitalocean-F08705.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+  ![Docker](https://img.shields.io/badge/tools-docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![ePayco](https://custom-icon-badges.demolab.com/badge/Payment%20Gateway-ePayco-1c0e49.svg?style=for-the-badge&logo=ePayco&logoColor=white)
+  ![Eslint](https://img.shields.io/badge/tools-eslint-4B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+  ![EditorConfig](https://img.shields.io/badge/tools-editorconfig-FEFEFE.svg?style=for-the-badge&logo=editorconfig&logoColor=white)
+  ![Fastify](https://img.shields.io/badge/framework-Fastify-000000.svg?style=for-the-badge&logo=Fastify&logoColor=white)
+  ![Fastlane](https://img.shields.io/badge/tools-Fastlane-00F200.svg?style=for-the-badge&logo=Fastlane&logoColor=white)
+  ![FileZilla](https://img.shields.io/badge/tools-FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white)
+  ![Figma](https://img.shields.io/badge/multimedia-Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+  ![Fluid Attack](https://custom-icon-badges.demolab.com/badge/Security-Fluid%20Attack-bf0b1a.svg?style=for-the-badge&logo=fluid%20attack&logoColor=white)
+  ![Font Awesome](https://img.shields.io/badge/multimedia-Font%20Awesome-528DD7.svg?style=for-the-badge&logo=FontAwesome&logoColor=white)
+  ![GIMP](https://img.shields.io/badge/multimedia-GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
+  ![Google Maps API](https://img.shields.io/badge/api-Google%20Maps%20API-4285F4.svg?style=for-the-badge&logo=GoogleMaps&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/data-graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Inkscape](https://img.shields.io/badge/multimedia-Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
+  ![Insomnia](https://img.shields.io/badge/tools-insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+  ![JSON](https://img.shields.io/badge/data-JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white)
+  ![JSON Web Tokens](https://img.shields.io/badge/Security-JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSONWebTokens&logoColor=white)
+  ![Laragon](https://img.shields.io/badge/tools-Laragon-0E83CD.svg?style=for-the-badge&logo=Laragon&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/framework-Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
+  ![Let's Encrypt](https://img.shields.io/badge/Security-Let's%20Encrypt-003A70.svg?style=for-the-badge&logo=LetsEncrypt&logoColor=white)
+  ![LoopBack](https://img.shields.io/badge/framework-LoopBack-3F5DFF.svg?style=for-the-badge&logo=LoopBack&logoColor=white)
+  ![Material Design](https://img.shields.io/badge/framework-Material%20Design-757575.svg?style=for-the-badge&logo=MaterialDesign&logoColor=white)
+  ![NGINX](https://img.shields.io/badge/tools-NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+  ![npm](https://img.shields.io/badge/tools-npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![OpenStreetMap API](https://img.shields.io/badge/api-OpenStreetMap%20API-7EBC6F.svg?style=for-the-badge&logo=OpenStreetMap&logoColor=white)
+  ![Payvalida](https://custom-icon-badges.demolab.com/badge/Payment%20Gateway-Payvalida-6630FF.svg?style=for-the-badge&logo=Payvalida&logoColor=white)
+  ![phpMyAdmin](https://img.shields.io/badge/tools-phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
+  ![PM2](https://img.shields.io/badge/tools-PM2-2B037A.svg?style=for-the-badge&logo=PM2&logoColor=white)
+  ![Podman](https://img.shields.io/badge/tools-podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+  ![Postman](https://img.shields.io/badge/tools-postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/tools-PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/tools-Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=white)
+  ![PWA](https://img.shields.io/badge/Platform-PWA-5A0FC8.svg?style=for-the-badge&logo=PWA&logoColor=white)
+  ![Quasar](https://img.shields.io/badge/framework-Quasar-1976D2.svg?style=for-the-badge&logo=Quasar&logoColor=white)
+  ![Sass](https://img.shields.io/badge/language-Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+  ![Sentry](https://img.shields.io/badge/tools-Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
+  ![SonarQube](https://img.shields.io/badge/tools-SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/API-Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+  ![ts-node](https://img.shields.io/badge/tools-tsnode-3178C6.svg?style=for-the-badge&logo=tsnode&logoColor=white)
+  ![VirtualBox](https://img.shields.io/badge/VM-VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
+  ![VMware](https://img.shields.io/badge/VM-VMware%20Worksation-607078.svg?style=for-the-badge&logo=VMware&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/framework-Vue.js%20V2-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
+  ![WebRTC](https://img.shields.io/badge/multimedia-WebRTC-333333.svg?style=for-the-badge&logo=WebRTC&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/framework-WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  ![Yarn](https://img.shields.io/badge/tools-Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white)
+  ![Zorin](https://img.shields.io/badge/OS-Zorin-0CC1F3.svg?style=for-the-badge&logo=Zorin&logoColor=white)
+  ![Zotero](https://img.shields.io/badge/tools-Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white)
 
+  </details>
 </details>
 
 ---
