@@ -300,8 +300,13 @@ Things you should know -
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andgar2010&layout=compact&theme=solarized-dark&hide_border=false&hide=javascript,php,css,PLpgSQL,Hack,html"/>
 </p>
 
+
 <p>
 <img align="center" src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,dart,json,java,javascript,mysql,perl,scss,shell,typescript,vue" />
+</p>
+
+<p>
+<img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=andgar2010" />
 </p>
 </details>
 
