@@ -91,7 +91,7 @@ Things you should know -
 #### Others
 -->
 
-- [nomina básico en colombia (Vue.js v2)](https://github.com/andgar2010/nomina)
+- [nomina básico en colombia (Vue.js v3)](https://github.com/andgar2010/nomina)
 - [solid-example (Dart & Typescript)](https://github.com/andgar2010/solid-example)
 <!--
 - [http_exception (Dart) [WIP]](https://github.com/andgar2010/http_exception)
