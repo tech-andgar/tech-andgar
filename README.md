@@ -302,7 +302,7 @@ Things you should know -
 
 
 <p>
-<img align="center" src="http://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,dart,json,java,javascript,mysql,perl,scss,shell,typescript,vue" />
+<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,CSS,dart,HTML,Kotlin,java,javascript,json,mysql,php,perl,PLpgSQL,SQL,shell,typescript,vue" />
 </p>
 
 <p>
