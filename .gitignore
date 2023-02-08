@@ -4,3 +4,4 @@ packages
 .packages
 .dart_tool/
 coverage
+.env

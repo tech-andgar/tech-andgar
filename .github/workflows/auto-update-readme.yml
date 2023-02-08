@@ -1,9 +1,9 @@
-name: Auto Update
+name: Auto Update Readme
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       - name: Install dependencies
         run: dart pub get
 
-      - name: Auto Update README
+      - name: Auto Update Readme
         run: dart run
 
       - uses: stefanzweifel/git-auto-commit-action@v4
