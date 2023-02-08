@@ -1,17 +1,12 @@
-import 'dart:io';
-
 import 'package:html/parser.dart';
-import 'package:http/http.dart';
+import 'package:http/http.dart' as http;
 
 const _myRankInGitHubSectionStart =
     '<!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->';
 const _myRankInGitHubSectionEnd = '<!-- MY-RANK-IN-GITHUB:END -->';
 
-Future<void> main(List<String> arguments) async {
-  final readme = File('README.md');
-  String content = readme.readAsStringSync();
-
-  content = _replaceFileContent(
+Future<String> overwriteContentRankingGithub(String content) async {
+  return _replaceFileContent(
     content,
     _myRankInGitHubSectionStart,
     _myRankInGitHubSectionEnd,
@@ -22,18 +17,17 @@ Future<void> main(List<String> arguments) async {
 
 ''',
   );
-
-  readme.writeAsStringSync(content);
 }
 
 Future<String> _getRankAsGitHubCommitter() async {
-  final response = await get(Uri.https('commits.top', '/colombia.html'));
+  final response = await http.get(Uri.https('commits.top', '/colombia.html'));
 
   return _getRank(response.body);
 }
 
 Future<String> _getRankAsGitHubContributor() async {
-  final response = await get(Uri.https('commits.top', '/colombia_public.html'));
+  final response =
+      await http.get(Uri.https('commits.top', '/colombia_public.html'));
 
   return _getRank(response.body);
 }

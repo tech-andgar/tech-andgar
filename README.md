@@ -1,4 +1,6 @@
-<h2 align="center">Hey! 👋 This is Andrés García. 😄</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=1500&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey!%2C👋+I'm+Andrés García+😄" align="middle" alt="Hey, 👋 I'm Andrés García 😄 animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=500&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
+
 <h4 align="center">💼 Software Engineer - 🏭 Flutter Developer FullStack</h4>
 <p align="center">
   <a href="https://link.tech-andgar.me/linkedin" target="_blank">
@@ -325,6 +327,13 @@ Things you should know -
 <!-- BLOG-POST-LIST:END -->
 
 </details>
+
+---
+
+## **_Do you know..._**
+
+<!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
+  <!-- PHOTO-DAY-NASA:END -->
 
 ---
 
