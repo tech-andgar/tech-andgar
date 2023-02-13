@@ -305,11 +305,15 @@ Things you should know -
 </p>
 
 <p>
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,CSS,dart,HTML,Kotlin,java,javascript,json,mysql,php,perl,PLpgSQL,SQL,shell,typescript,vue" />
+  <a href="https://profile.codersrank.io/user/andgar2010#Tech%20Skills" target="_blank">
+    <img align="center" alt="Tech Skills Chart of Andrés García on Codersrank" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,CSS,dart,Kotlin,java,javascript,mysql,php,perl,PLpgSQL,SQL,shell,typescript,vue">
+  </a>
 </p>
 
 <p>
-<img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=andgar2010" />
+  <a href="https://profile.codersrank.io/user/andgar2010#Scores%20&%20Badges" target="_blank">
+    <img align="center" alt="Scores & Badges of Andrés García on Codersrank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=andgar2010">
+  </a>
 </p>
 </details>
 
