@@ -336,13 +336,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg" width="500" height="500" alt="2023-03-19 Equinox at the Pyramid of the Feathered Serpent NASA">
+    <a href="https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg" width="500" height="500" alt="2023-03-21 Dark Nebulae and Star Formation in Taurus NASA">
     </a>
     <div>
-        <h4>Equinox at the Pyramid of the Feathered Serpent</h4>
-        <time>2023-03-19</time>
-        <p>To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. Tomorrow marks another equinox -- not only at Temple of Kukulcán, but all over planet Earth.</p>
+        <h4>Dark Nebulae and Star Formation in Taurus</h4>
+        <time>2023-03-21</time>
+        <p>Can dust be beautiful? Yes, and it can also be useful.  The Taurus molecular cloud has several bright stars, but it is the dark dust that really draws attention.  The pervasive dust has waves and ripples and makes picturesque dust bunnies, but perhaps more importantly, it marks regions where interstellar gas is dense enough to gravitationally contract to form stars. In the image center is a light cloud lit by neighboring stars that is home not only to a famous nebula, but to a very young and massive famous star.  Both the star, T Tauri, and the nebula, Hind's Variable Nebula, are seen to vary dramatically in brightness -- but not necessarily at the same time, adding to the mystery of this intriguing region. T Tauri and similar stars are now generally recognized to be Sun-like stars that are less than a few million years old and so still in the early stages of formation. The featured image spans about four degrees not far from the Pleiades star cluster, while the featured dust field lies about 400 light-years away.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
