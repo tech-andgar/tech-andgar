@@ -315,6 +315,13 @@ Things you should know -
     <img align="center" alt="Scores & Badges of Andrés García on Codersrank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=andgar2010">
   </a>
 </p>
+
+
+<p>
+  <a href="https://lapras.com/public/tech-andgar" target="_blank">
+    <img align="center" alt="Score of Andrés García on LAPRAS" src="https://lapras-card-generator.vercel.app/?e=2.16&b=3.36&i=2.75&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=en">
+  </a>
+</p>
 </details>
 
 <details>
