@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg" width="500" height="500" alt="2023-03-25 Venus and the Da Vinci Glow NASA">
+    <a href="https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg" width="500" height="500" alt="2023-03-27 Aurora Over Arctic Henge NASA">
     </a>
     <div>
-        <h4>Venus and the Da Vinci Glow</h4>
-        <time>2023-03-25</time>
-        <p>On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth's brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.</p>
+        <h4>Aurora Over Arctic Henge</h4>
+        <time>2023-03-27</time>
+        <p>Reports of powerful solar flares started a seven-hour quest north to capture modern monuments against an aurora-filled sky.  The peaks of iconic Arctic Henge in Raufarhöfn in northern Iceland were already aligned with the stars: some are lined up toward the exact north from one side and toward exact south from the other. The featured image, taken after sunset late last month, looks directly south, but since the composite image covers so much of the sky, the north star Polaris is actually visible at the very top of the frame. Also visible are familiar constellations including the Great Bear (Ursa Major) on the left, and the Hunter (Orion) on the lower right. The quest was successful.  The sky lit up dramatically with bright and memorable auroras that shimmered with amazing colors including red, pink, yellow, and green -- sometimes several at once.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
