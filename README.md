@@ -332,7 +332,7 @@ Things you should know -
 - [Flutter Test Coverage](https://tech-andgar.me/posts/flutter-test-coverage/)
 - [About](https://tech-andgar.me/about/)
 - [Cofiguration server](https://tech-andgar.me/posts/notes-config-server/)
-- [Contact](https://tech-andgar.me/contact/)
+- [Fix Error 15517 MS SQL SERVER](https://tech-andgar.me/posts/fix-error-ms-sql-server/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
