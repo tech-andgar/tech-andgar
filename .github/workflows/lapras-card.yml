@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "andgar2010"
+          SHARE_ID: "tech-andgar"
           LANG: "en"
           UPDATE_TIME: "false"
