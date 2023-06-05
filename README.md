@@ -319,9 +319,8 @@ Things you should know -
 
 <p>
   <!--START_SECTION:lapras-card-->
-    <a href="https://lapras.com/public/tech-andgar" target="_blank" rel="noopener noreferrer">
-      <img align="center" alt="Score of Andrés García on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.34&b=3.48&i=3.01&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
-  <!--END_SECTION:lapras-card-->
+<a href="https://lapras.com/public/andgar2010" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>
+<!--END_SECTION:lapras-card-->
 </p>
 </details>
 
