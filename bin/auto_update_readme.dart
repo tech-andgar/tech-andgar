@@ -6,7 +6,7 @@ Future<void> main(List<String> arguments) async {
   final readme = File('README.md');
   String contentReadme = readme.readAsStringSync();
 
-  String contentGithub = await overwriteContentRankingGithub(contentReadme);
+  // String contentGithub = await overwriteContentRankingGithub(contentReadme);
   String contentPhotoDayNasa = await overwriteContentPhotoDayNasa(contentReadme);
 
   readme.writeAsStringSync(contentGithub);
