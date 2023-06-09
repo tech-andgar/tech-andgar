@@ -9,6 +9,6 @@ Future<void> main(List<String> arguments) async {
   // String contentGithub = await overwriteContentRankingGithub(contentReadme);
   String contentPhotoDayNasa = await overwriteContentPhotoDayNasa(contentReadme);
 
-  readme.writeAsStringSync(contentGithub);
+  // readme.writeAsStringSync(contentGithub);
   readme.writeAsStringSync(contentPhotoDayNasa);
 }
