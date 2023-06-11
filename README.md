@@ -366,7 +366,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tech_andgar)
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=andgar2010.visitor-badge">
+  <img align='center' src="https://komarev.com/ghpvc/?username=andgar2010&label=Profile%20views&color=blue&style=flat">
 <p/>
 
 <!--
