@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/IssMoon_Yang_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2306/IssMoon_Yang_960.jpg" width="500" height="500" alt="2023-06-12 The Largest Satellites of Earth NASA">
+    <a href="https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2306/Shark_Kennedy_960.jpg" width="500" height="500" alt="2023-06-14 The Shark Nebula NASA">
     </a>
     <div>
-        <h4>The Largest Satellites of Earth</h4>
-        <time>2023-06-12</time>
-        <p>What’s that near the Moon? It’s the International Space Station (ISS). Although the ISS may appear to be physically near the Moon, it is not — it is physically near the Earth. In low Earth orbit and circulating around our big blue marble about every 90 minutes, the ISS was captured photographically as it crossed nearly in front of the Moon. The Moon, itself in a month-long orbit around the Earth, shows a crescent phase as only a curving sliver of its Sun-illuminated half is visible from the Earth. The featured image was taken in late March from Shanghai, China and shows not only details of Earth's largest human-made satellite, but details of the cratered and barren surface of Earth's largest natural satellite. Over the next few years, humanity is planning to send more people and machines to the Moon than ever before.</p>
+        <h4>The Shark Nebula</h4>
+        <time>2023-06-14</time>
+        <p>There is no sea on Earth large enough to contain the Shark nebula. This predator apparition poses us no danger as it is composed only of interstellar gas and dust. Dark dust like that featured here is somewhat like cigarette smoke and created in the cool atmospheres of giant stars. After being expelled with gas and gravitationally recondensing, massive stars may carve intricate structures into their birth cloud using their high energy light and fast stellar winds as sculpting tools.  The heat they generate evaporates the murky molecular cloud as well as causing ambient hydrogen gas to disperse and glow red.  During disintegration, we humans can enjoy imagining these great clouds as common icons, like we do for water clouds on Earth. Including smaller dust nebulae such as Lynds Dark Nebula 1235 and Van den Bergh 149 & 150, the Shark nebula spans about 15 light years and lies about 650 light years away toward the constellation of the King of Aethiopia (Cepheus).</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
