@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2306/NanduMilkyWay_Bouvier_1080.jpg" width="500" height="500" alt="2023-06-20 The Ñandú in the Milky Way NASA">
+    <a href="https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2306/PIA24547_fig1_1024.jpg" width="500" height="500" alt="2023-06-24 3D Ingenuity NASA">
     </a>
     <div>
-        <h4>The Ñandú in the Milky Way</h4>
-        <time>2023-06-20</time>
-        <p>Have you seen the bird in the Milky Way? Beyond the man in the Moon, the night sky is filled with stories, and cultures throughout history have projected some of their most enduring legends onto the stars and dust above.  Generations of people see these celestial icons, hear their associated stories, and pass them down. Pictured here is not only a segment of the central band of our Milky Way galaxy, but, according to folklore of several native peoples of Uruguay, the outline of a great bird called Ñandú. Furthermore, Ñandú's footprint is associated with the Southern Cross asterism. In the foreground, in silhouette, is a statue of María Micaela Guyunusa, an indigenous woman of the Charrúa people who lived in the 1800s and endures as a symbol of colonial resistance.  The composite image was taken in mid-April in Cabo Polonio, Uruguay, with the Atlantic Ocean in the background.</p>
+        <h4>3D Ingenuity</h4>
+        <time>2023-06-24</time>
+        <p>The multicolor, stereo imaging Mastcam-Z on the Perseverance rover zoomed in to capture this 3D close-up (get out your red/blue glasses) of the Mars Ingenuity helicopter on mission sol 45. That's Earth-date 2021 April 5. Casting a shadow on the Martian surface, Ingenuity is standing alone on its four landing legs next to the rover's wheel tracks. The experimental helicopter's solar panel, charging batteries that keep it warm through the cold Martian nights and power its flight, sits just above Ingenuity's two 1.2 meter (4 foot) long counter-rotating blades. Thirteen sols later, on April 19, Ingenuity became the first aircraft to perform powered, controlled flight on another planet. It has since gone on to complete more than 50 flights through the thin atmosphere of Mars.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
