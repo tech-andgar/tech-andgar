@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2306/BeltofEverest_Mukherjee_960.jpg" width="500" height="500" alt="2023-06-26 The Belt of Venus over Mount Everest NASA">
+    <a href="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png">
+      <img src="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png" width="500" height="500" alt="2023-06-27 MAVEN's Ultraviolet Mars NASA">
     </a>
     <div>
-        <h4>The Belt of Venus over Mount Everest</h4>
-        <time>2023-06-26</time>
-        <p>You've surely seen it, but you might not have noticed it.  During a cloudless twilight, just before sunrise or after sunset, part of the atmosphere above the horizon appears slightly dark and off-color.  Called the Belt of Venus, this transitional band between the dark eclipsed sky and the bright day sky can be seen most prominently in the direction opposite the Sun.  Straight above, blue sky is normal sunlight reflecting off the atmosphere, while near the horizon the clear sky can appear more orange or red.  In the Belt of Venus, the atmosphere reflects more light from the setting (or rising) Sun and so appears more red.  Featured here, the Belt of Venus was photographed over several Himalayan mountains including, second from the right, Mount Everest, the tallest mountain on Earth.  Although usually not mentioned, the belt is frequently caught by accident in other photographs.</p>
+        <h4>MAVEN's Ultraviolet Mars</h4>
+        <time>2023-06-27</time>
+        <p>These two global views of Mars were captured at ultraviolet wavelengths, beyond the spectrum visible to human eyes. Recorded by the MAVEN spacecraft's Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the Red Planet's surface features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars' south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere's summer season. On the right, the northern hemisphere's polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars' tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind since 2014.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
