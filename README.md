@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png">
-      <img src="https://apod.nasa.gov/apod/image/2306/MavenMars2panel.png" width="500" height="500" alt="2023-06-27 MAVEN's Ultraviolet Mars NASA">
+    <a href="https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg" width="500" height="500" alt="2023-06-29 A Message from the Gravitational Universe NASA">
     </a>
     <div>
-        <h4>MAVEN's Ultraviolet Mars</h4>
-        <time>2023-06-27</time>
-        <p>These two global views of Mars were captured at ultraviolet wavelengths, beyond the spectrum visible to human eyes. Recorded by the MAVEN spacecraft's Imaging Ultraviolet Spectrograph instrument in July 2022 (left) and January 2023, three otherwise invisible ultraviolet bands are mapped into red, green, and blue colors. That color scheme presents the Red Planet's surface features in shades of tan and green. Haze and clouds appear white or blue, while high altitude ozone takes on a dramatic purple hue. On the left, Mars' south polar ice cap is in brilliant white at the bottom but shrinking during the southern hemisphere's summer season. On the right, the northern hemisphere's polar region is seen shrouded in clouds and atmospheric ozone. Known to some as the Mars Atmosphere and Volatile EvolutioN spacecraft, MAVEN has been exploring Mars' tenuous upper atmosphere, ionosphere, and its interactions with the Sun and solar wind since 2014.</p>
+        <h4>A Message from the Gravitational Universe</h4>
+        <time>2023-06-29</time>
+        <p>Monitoring 68 pulsars with very large radio telescopes, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) has uncovered evidence for the gravitational wave (GW) background by carefully measuring slight shifts in the arrival times of pulses.  These shifts are correlated between different pulsars in a way that indicates that they are caused by GWs. This GW background is likely due to hundreds of thousands or even millions of supermassive black hole binaries.  Teams in Europe, Asia and Australia have also independently reported their results today. Previously, the LIGO and Virgo detectors have detected higher-frequency GWs from the merging of individual pairs of massive orbiting objects, such as stellar-mass black holes. The featured illustration highlights this spacetime-shaking result by depicting two orbiting supermassive black holes and several of the pulsars that would appear to have slight timing shifts.  The imprint these GWs make on spacetime itself is illustrated by a distorted grid.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
