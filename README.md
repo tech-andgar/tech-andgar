@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2306/Gwb_Nanograv_960_annotated.jpg" width="500" height="500" alt="2023-06-29 A Message from the Gravitational Universe NASA">
+    <a href="https://apod.nasa.gov/apod/image/2306/phas_jpl_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2306/phas_jpl_960.jpg" width="500" height="500" alt="2023-06-30 Orbits of Potentially Hazardous Asteroids NASA">
     </a>
     <div>
-        <h4>A Message from the Gravitational Universe</h4>
-        <time>2023-06-29</time>
-        <p>Monitoring 68 pulsars with very large radio telescopes, the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) has uncovered evidence for the gravitational wave (GW) background by carefully measuring slight shifts in the arrival times of pulses.  These shifts are correlated between different pulsars in a way that indicates that they are caused by GWs. This GW background is likely due to hundreds of thousands or even millions of supermassive black hole binaries.  Teams in Europe, Asia and Australia have also independently reported their results today. Previously, the LIGO and Virgo detectors have detected higher-frequency GWs from the merging of individual pairs of massive orbiting objects, such as stellar-mass black holes. The featured illustration highlights this spacetime-shaking result by depicting two orbiting supermassive black holes and several of the pulsars that would appear to have slight timing shifts.  The imprint these GWs make on spacetime itself is illustrated by a distorted grid.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</p>
+        <h4>Orbits of Potentially Hazardous Asteroids</h4>
+        <time>2023-06-30</time>
+        <p>Are asteroids dangerous? Some are, but the likelihood of a dangerous asteroid striking the Earth during any given year is low. Because some past mass extinction events have been linked to asteroid impacts, however, humanity has made it a priority to find and catalog those asteroids that may one day affect life on Earth. Pictured here are the orbits of the over 1,000 known Potentially Hazardous Asteroids (PHAs). These documented tumbling boulders of rock and ice are over 140 meters across and will pass within 7.5 million kilometers of Earth -- about 20 times the distance to the Moon. Although none of them will strike the Earth in the next 100 years -- not all PHAs have been discovered, and past 100 years, many orbits become hard to predict. Were an asteroid of this size to impact the Earth, it could raise dangerous tsunamis, for example. To investigate Earth-saving strategies, NASA successfully tested the Double Asteroid Redirection Test (DART) mission last year. Of course, rocks and ice bits of much smaller size strike the Earth every day, usually pose no danger, and sometimes create memorable fireball and meteor displays.    Today is: Asteroid Day</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
