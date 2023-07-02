@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2306/phas_jpl_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2306/phas_jpl_960.jpg" width="500" height="500" alt="2023-06-30 Orbits of Potentially Hazardous Asteroids NASA">
+    <a href="https://apod.nasa.gov/apod/image/2307/DracoTrio_TeamOmicron1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2307/DracoTrio_TeamOmicron1024.jpg" width="500" height="500" alt="2023-07-01 Three Galaxies in Draco NASA">
     </a>
     <div>
-        <h4>Orbits of Potentially Hazardous Asteroids</h4>
-        <time>2023-06-30</time>
-        <p>Are asteroids dangerous? Some are, but the likelihood of a dangerous asteroid striking the Earth during any given year is low. Because some past mass extinction events have been linked to asteroid impacts, however, humanity has made it a priority to find and catalog those asteroids that may one day affect life on Earth. Pictured here are the orbits of the over 1,000 known Potentially Hazardous Asteroids (PHAs). These documented tumbling boulders of rock and ice are over 140 meters across and will pass within 7.5 million kilometers of Earth -- about 20 times the distance to the Moon. Although none of them will strike the Earth in the next 100 years -- not all PHAs have been discovered, and past 100 years, many orbits become hard to predict. Were an asteroid of this size to impact the Earth, it could raise dangerous tsunamis, for example. To investigate Earth-saving strategies, NASA successfully tested the Double Asteroid Redirection Test (DART) mission last year. Of course, rocks and ice bits of much smaller size strike the Earth every day, usually pose no danger, and sometimes create memorable fireball and meteor displays.    Today is: Asteroid Day</p>
+        <h4>Three Galaxies in Draco</h4>
+        <time>2023-07-01</time>
+        <p>This tantalizing trio of galaxies sometimes called the Draco Group, is located in the northern constellation of (you guessed it) Draco, the Dragon. From left to right are face-on spiral NGC 5985, elliptical galaxy NGC 5982, and edge-on spiral NGC 5981, all found within this single telescopic field of view that spans a little more than the width of the full moon. While the group is far too small to be a galaxy cluster, and has not been catalogued as a compact galaxy group, the three galaxies all do lie roughly 100 million light-years from planet Earth. Not as well known as other tight groupings of galaxies, the contrast in visual appearance still makes this triplet an attractive subject for astroimagers. On close examination with spectrographs, the bright core of striking spiral NGC 5985 shows prominent emission in specific wavelengths of light, prompting astronomers to classify it as a Seyfert, a type of active galaxy. This impressively deep exposure hints at a faint dim halo along with sharp-edged shells surrounding elliptical NGC 5982, evidence of past galactic mergers. It also reveals many even more distant background galaxies.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
