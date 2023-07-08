@@ -1,9 +1,9 @@
 name: LAPRAS Card
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
   update-card:
@@ -14,4 +14,6 @@ jobs:
         with:
           SHARE_ID: "tech-andgar"
           LANG: "en"
+          CARD_WIDTH: "400"
           UPDATE_TIME: "false"
+          IS_CENTER: "true"
