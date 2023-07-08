@@ -24,7 +24,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: '[Bot] Auto Update'
+          commit_message: '[Bot] Auto Update Readme'
           commit_user_name: 'Andrés García'
           commit_user_email: dev@tech-andgar.me
           commit_author: 'Andres Garcia <dev@tech-andgar.me>'
