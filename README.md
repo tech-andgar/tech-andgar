@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2307/MeteorMountain_Roemmelt_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2307/MeteorMountain_Roemmelt_960.jpg" width="500" height="500" alt="2023-07-16 Meteor and Milky Way over the Alps NASA">
+    <a href="https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2307/CwLeo_Hubble_960.jpg" width="500" height="500" alt="2023-07-17 Shells and Arcs around Star CW Leonis NASA">
     </a>
     <div>
-        <h4>Meteor and Milky Way over the Alps</h4>
-        <time>2023-07-16</time>
-        <p>Now this was a view with a thrill. From Mount Tschirgant in the Alps, you can see not only nearby towns and distant Tyrolean peaks, but also, weather permitting, stars, nebulas, and the band of the Milky Way Galaxy. What made the arduous climb worthwhile this night, though, was another peak -- the peak of the 2018 Perseids Meteor Shower. As hoped, dispersing clouds allowed a picturesque sky-gazing session that included many faint meteors, all while a carefully positioned camera took a series of exposures. Suddenly, a thrilling meteor -- bright and colorful -- slashed down right next to the nearly vertical band of the Milky Way.  As luck would have it, the camera caught it too.  Therefore, a new image in the series was quickly taken with one of the sky-gazers posing on the nearby peak. Later, all of the images were digitally combined.</p>
+        <h4>Shells and Arcs around Star CW Leonis</h4>
+        <time>2023-07-17</time>
+        <p>What's happening around this star? No one is sure. CW Leonis is the closest carbon star, a star that appears orange because of atmospheric carbon dispersed from interior nuclear fusion. But CW Leonis also appears engulfed in a gaseous carbon-rich nebula. What causes the nebula's complexity is unknown, but its geometry of shells and arcs are surely intriguing. The featured image by the Hubble Space Telescope details this complexity. The low surface gravity of carbon stars enhances their ability to expel carbon and carbon compounds into space. Some of this carbon ends up forming dark dust that is commonly seen in the nebulas of young star-forming regions and the disks of galaxies.  Humans and all Earth-based life are carbon-based, and at least some of our carbon was likely once circulating in the atmospheres of near-death stars like carbon stars.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
