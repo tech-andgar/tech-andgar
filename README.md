@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2308/M82_HubblePathak_1080.jpg" width="500" height="500" alt="2023-08-02 M82: Galaxy with a Supergalactic Wind NASA">
+    <a href="https://apod.nasa.gov/apod/image/2308/FalconHeavyRedstoneHaskell1024.jpeg">
+      <img src="https://apod.nasa.gov/apod/image/2308/FalconHeavyRedstoneHaskell1024.jpeg" width="500" height="500" alt="2023-08-03 The Falcon and the Redstone NASA">
     </a>
     <div>
-        <h4>M82: Galaxy with a Supergalactic Wind</h4>
-        <time>2023-08-02</time>
-        <p>Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic highlights a specific color of red light strongly emitted by ionized hydrogen gas, showing detailed filaments of this gas and dust.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).   APOD in world languages: Arabic, Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Croatian, Czech, Dutch, French, German, Hebrew, Indonesian, Japanese, Montenegrin, Polish, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, and  Ukrainian</p>
+        <h4>The Falcon and the Redstone</h4>
+        <time>2023-08-03</time>
+        <p>In a photo from the early hours of July 29 (UTC), a Redstone rocket and Mercury capsule are on display at Cape Canaveral Launch Complex 5. Beyond the Redstone, the 8 minute long exposure has captured the arcing launch streak of a SpaceX Falcon Heavy rocket. The Falcon's heavy communications satellite payload, at a record setting 9 metric tons, is bound for geosynchronous orbit some 22,000 miles above planet Earth. The historic launch of a Redstone rocket carried astronaut Alan Shepard on a suborbital spaceflight in May 1961 to an altitude of about 116 miles. Near the top of the frame, this Falcon rocket's two reusable side boosters separate and execute brief entry burns. They returned to land side by side at Canaveral's Landing Zone 1 and 2 in the distance.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
