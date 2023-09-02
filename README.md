@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2308/Crew_7_Nebula_Seeley-1_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2308/Crew_7_Nebula_Seeley-1_1024.jpg" width="500" height="500" alt="2023-08-31 The Crew-7 Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2309/M13-totale-en-cours-crop8_1024.jpg" width="500" height="500" alt="2023-09-01 The Great Globular Cluster in Hercules NASA">
     </a>
     <div>
-        <h4>The Crew-7 Nebula</h4>
-        <time>2023-08-31</time>
-        <p>Not the James Webb Space Telescope's latest view of a distant galactic nebula, this illuminated cloud of gas and dust dazzled early morning spacecoast skygazers on August 26. The snapshot was taken about 2 minutes after the launch of of a Falcon 9 rocket on the SpaceX Crew-7 mission, the seventh commercial crew rotation mission for the International Space Station. It captures drifting plumes and exhaust from the separated first and second stage illuminated against the still dark skies. Near the center of the image, within the ragged blueish ring, are two bright points of light. The lower one is the second stage of the rocket carrying 4 humans to space in a Crew Dragon spacecraft. The bright point above is the Falcon 9 first stage booster orienting itself for the trip back to Landing Zone-1 at Cape Canaveral, planet Earth.</p>
+        <h4>The Great Globular Cluster in Hercules</h4>
+        <time>2023-09-01</time>
+        <p>In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. The remarkable range of brightness recorded in this image follows stars into the dense cluster core.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
