@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2309/SuperBlueMoon_Saragozza_960.jpg" width="500" height="500" alt="2023-09-05 Blue Supermoon Beyond Syracuse NASA">
+    <a href="https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2309/TheLargeMagellanicCloud1024.jpg" width="500" height="500" alt="2023-09-07 The Large Cloud of Magellan NASA">
     </a>
     <div>
-        <h4>Blue Supermoon Beyond Syracuse</h4>
-        <time>2023-09-05</time>
-        <p>The last full moon was doubly unusual. First of all, it was a blue moon.  A modern definition of a blue moon is a second full moon to occur during one calendar month.  Since there are 13 full moons in 2023, one month has to have two -- and that month was August.  The first full moon was on August 1 and named a Sturgeon Moon. The second reason that the last full moon was unusual was because it was a supermoon.  A modern definition of supermoon is a moon that reaches its full phase when it is relatively close to Earth -- and so appears a bit larger and brighter than average.  Pictured, the blue supermoon of 2023 was imaged hovering far behind a historic castle and lighthouse in Syracuse, Sicily, Italy.    Gallery: Selected August 2023 supermoon images submitted to APOD</p>
+        <h4>The Large Cloud of Magellan</h4>
+        <time>2023-09-07</time>
+        <p>The 16th century Portuguese navigator Ferdinand Magellan and his crew had plenty of time to study the southern sky during the first circumnavigation of planet Earth. As a result, two fuzzy cloud-like objects easily visible to southern hemisphere skygazers are known as the Clouds of Magellan, now understood to be satellite galaxies of our much larger, spiral Milky Way galaxy. About 160,000 light-years distant in the constellation Dorado, the Large Magellanic Cloud is seen in this sharp galaxy portrait. Spanning about 15,000 light-years or so, it is the most massive of the Milky Way's satellite galaxies and is the home of the closest supernova in modern times, SN 1987A.  The prominent patch above center is 30 Doradus, also known as the magnificent Tarantula Nebula, a giant star-forming region about 1,000 light-years across.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
