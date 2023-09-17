@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg" width="500" height="500" alt="2023-09-15 Venus, Moon, and the Smoking Mountain NASA">
+    <a href="https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg" width="500" height="500" alt="2023-09-16 Fireball over Iceland NASA">
     </a>
     <div>
-        <h4>Venus, Moon, and the Smoking Mountain</h4>
-        <time>2023-09-15</time>
-        <p>Venus has returned as a brilliant morning star. From a window seat on a flight to Mexico City, the bright celestial beacon was captured just before sunrise in this astronomical snapshot, taken on September 12. Venus, at the upper right, shared the early predawn skies with an old crescent Moon. Seen from this stratospheric perspective, both mountain peaks and clouds appear in silhouette along a glowing eastern horizon. The dramatic, long, low cloud bank was created by venting from planet Earth's active volcano Popocatépetl.</p>
+        <h4>Fireball over Iceland</h4>
+        <time>2023-09-16</time>
+        <p>On September 12, from a location just south of the Arctic Circle, stones of Iceland's modern Arctic Henge point skyward in this startling scene. Entertaining an intrepid group of aurora hunters during a geomagnetic storm, alluring northern lights dance across the darkened sky when a stunning fireball meteor explodes. Awestruck, the camera-equipped skygazers captured video and still images of the boreal bolide, at its peak about as bright as a full moon. Though quickly fading from view, the fireball left a lingering visible trail or persistent train. The wraith-like trail was seen for minutes wafting in the upper atmosphere at altitudes of 60 to 90 kilometers along with the auroral glow.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
