@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_960.jpg" width="500" height="500" alt="2023-10-18 Dust and the Western Veil Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg" width="500" height="500" alt="2023-10-19 A Sunrise at Sunset Point NASA">
     </a>
     <div>
-        <h4>Dust and the Western Veil Nebula</h4>
-        <time>2023-10-18</time>
-        <p>It's so big it is easy to miss. The entire Veil Nebula spans six times the diameter of the full moon, but is so dim you need binoculars to see it. The nebula was created about 15,000 years ago when a star in the constellation of the Swan (Cygnus) exploded. The spectacular explosion would have appeared brighter than even Venus for a week - but there is no known record of it.  Pictured is the western edge of the still-expanding gas cloud. Notable gas filaments include the Witch's Broom Nebula on the upper left near the bright foreground star 52 Cygni, and Fleming's Triangular Wisp (formerly known as Pickering's Triangle) running diagonally up the image middle.  What is rarely imaged -- but seen in the featured long exposure across many color bands -- is the reflecting brown dust that runs vertically up the image left, dust likely created in the cool atmospheres of massive stars.</p>
+        <h4>A Sunrise at Sunset Point</h4>
+        <time>2023-10-19</time>
+        <p>This timelapse series captured on October 14 is set against the sunrise view from Sunset Point, Bryce Canyon, planet Earth. Of course on that date the New Moon caught up with the Sun in the canyon's morning skies. Local temperatures fell as the Moon's shadow swept across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape. In the timelapse series, images were taken at 2 minute intervals. The camera and solar filter were fixed to a tripod to follow the phases of the annular solar eclipse.   APOD Album: Annular Solar Eclipse of 2023 October</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
