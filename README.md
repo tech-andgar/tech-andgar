@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg" width="500" height="500" alt="2023-11-06 Red Aurora over Italy NASA">
+    <a href="https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_960.jpg" width="500" height="500" alt="2023-11-08 Perseus Galaxy Cluster from Euclid NASA">
     </a>
     <div>
-        <h4>Red Aurora over Italy</h4>
-        <time>2023-11-06</time>
-        <p>What was that red glow on the horizon last night? Aurora. Our unusually active Sun produced a surface explosion a few days ago that sent out a burst of electrons, protons, and more massive charged nuclei. This coronal mass ejection (CME) triggered auroras here on Earth that are being reported unusually far south in Earth's northern hemisphere.  For example, this was the first time that the astrophotographer captured aurora from her home country of Italy. Additionally, many images from these auroras appear quite red in color.  In the featured image, the town of Comelico Superiore in the Italian Alps is visible in the foreground, with the central band of our Milky Way galaxy seen rising from the lower left. What draws the eye the most, though, is the bright red aurora on the far right. The featured image is a composite with the foreground and background images taken consecutively with the same camera and from the same location.   Aurora Album: Selected images sent in to APOD</p>
+        <h4>Perseus Galaxy Cluster from Euclid</h4>
+        <time>2023-11-08</time>
+        <p>There's a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid's 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid's initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
