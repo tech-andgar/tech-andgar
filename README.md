@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_960.jpg" width="500" height="500" alt="2023-11-13 Andromeda over the Alps NASA">
+    <a href="https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg" width="500" height="500" alt="2023-11-14 Three Planets Rock NASA">
     </a>
     <div>
-        <h4>Andromeda over the Alps</h4>
-        <time>2023-11-13</time>
-        <p>Have you ever seen the Andromeda galaxy? Although M31 appears as a faint and fuzzy blob to the unaided eye, the light you see will be over two million years old, making it likely the oldest light you ever will see directly. The featured image captured Andromeda just before it set behind the Swiss Alps early last year. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details. The image is composite of foreground and background images taken consecutively with the same camera and from the same location.  Recent data indicate that our Milky Way Galaxy will collide and coalesce with Andromeda galaxy in a few billion years.   Follow APOD on Facebook in: Arabic, English, Catalan, Portuguese, or Taiwanese</p>
+        <h4>Three Planets Rock</h4>
+        <time>2023-11-14</time>
+        <p>In the fading darkness before dawn, a tilted triangle appeared to balance atop a rock formation off the southern tip of Sicily.  Making up the points of the triangle are three of the four brightest objects visible in Earth’s sky: Jupiter, Venus and the Moon.  Though a thin waning crescent, most of the moon’s disk is visible due to earthshine.  Captured in this image on 2022 April 27, Venus (center) and Jupiter (left) are roughly three degrees apart --  and were headed toward a close conjunction.  Conjunctions of Venus and Jupiter occur about once a year and are visible either in the east before sunrise or in the west after sunset.  The featured image was taken about an hour before the arrival of the brightest object in Earth’s sky – the Sun.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
