@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg" width="500" height="500" alt="2023-11-15 M1: The Incredible Expanding Crab NASA">
+    <a href="https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg" width="500" height="500" alt="2023-11-16 Daytime Moon Meets Morning Star NASA">
     </a>
     <div>
-        <h4>M1: The Incredible Expanding Crab</h4>
-        <time>2023-11-15</time>
-        <p>Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.</p>
+        <h4>Daytime Moon Meets Morning Star</h4>
+        <time>2023-11-16</time>
+        <p>Venus now appears as Earth's brilliant morning star, shining above the southeastern horizon before dawn. For early morning risers, the silvery celestial beacon rose predawn in a close pairing with a waning crescent Moon on Thursday, November 9. But from some northern locations, the Moon was seen to occult or pass in front of Venus. From much of Europe, the lunar occultation could be viewed in daylight skies. This time series composite follows the daytime approach of Moon and morning star in blue skies from Warsaw, Poland. The progression of eight sharp telescopic snapshots, made between 10:56am and 10:58am local time, runs from left to right, when Venus winked out behind the bright lunar limb.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
