@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg" width="500" height="500" alt="2023-11-16 Daytime Moon Meets Morning Star NASA">
+    <a href="https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2_1200.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2_1200.jpg" width="500" height="500" alt="2023-11-17 Nightlights in Qeqertaq NASA">
     </a>
     <div>
-        <h4>Daytime Moon Meets Morning Star</h4>
-        <time>2023-11-16</time>
-        <p>Venus now appears as Earth's brilliant morning star, shining above the southeastern horizon before dawn. For early morning risers, the silvery celestial beacon rose predawn in a close pairing with a waning crescent Moon on Thursday, November 9. But from some northern locations, the Moon was seen to occult or pass in front of Venus. From much of Europe, the lunar occultation could be viewed in daylight skies. This time series composite follows the daytime approach of Moon and morning star in blue skies from Warsaw, Poland. The progression of eight sharp telescopic snapshots, made between 10:56am and 10:58am local time, runs from left to right, when Venus winked out behind the bright lunar limb.</p>
+        <h4>Nightlights in Qeqertaq</h4>
+        <time>2023-11-17</time>
+        <p>Light pollution is usually not a problem in Qeqertaq. In western Greenland the remote coastal village boasted a population of 114 in 2020. Lights still shine in its dark skies though. During planet Earth's recent intense geomagnetic storm, on November 6 these beautiful curtains of aurora borealis fell over the arctic realm. On the eve of the coming weeks of polar night at 70 degrees north latitude, the inspiring display of northern lights is reflected in the waters of Disko Bay. In this view from the isolated settlement a lone iceberg is illuminated by shore lights as it drifts across the icy sea.  Weekend Watch: The Leonid Meteor Shower.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
