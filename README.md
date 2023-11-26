@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png">
-      <img src="https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png" width="500" height="500" alt="2023-11-24 Stereo Jupiter near Opposition NASA">
+    <a href="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg" width="500" height="500" alt="2023-11-25 Little Planet Aurora NASA">
     </a>
     <div>
-        <h4>Stereo Jupiter near Opposition</h4>
-        <time>2023-11-24</time>
-        <p>Jupiter looks sharp in these two rooftop telescope images. Both were captured on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is still prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the Solar System's ruling gas giant in 3D.</p>
+        <h4>Little Planet Aurora</h4>
+        <time>2023-11-25</time>
+        <p>Immersed in an eerie greenish light, this rugged little planet appears to be home to stunning water falls and an impossibly tall mountain. It's planet Earth of course. On the night of November 9 the nadir-centered 360 degree mosaic was captured by digital camera from the Kirkjufell mountain area of western Iceland. Curtains of shimmering Aurora Borealis or Northern Lights provide the pale greenish illumination. The intense auroral display was caused by solar activity that rocked Earth's magnetosphere in early November and produced strong geomagnetic storms. Kirkjufell mountain itself stands at the top of the stereographic projection's circular horizon. Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above Kirkjufell's peak. At lower right the compact Pleiades star cluster and truly giant planet Jupiter also shine in this little planet's night sky.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
