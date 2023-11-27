@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg" width="500" height="500" alt="2023-11-25 Little Planet Aurora NASA">
+    <a href="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg" width="500" height="500" alt="2023-11-26 A Dust Jet from the Surface of Comet 67P NASA">
     </a>
     <div>
-        <h4>Little Planet Aurora</h4>
-        <time>2023-11-25</time>
-        <p>Immersed in an eerie greenish light, this rugged little planet appears to be home to stunning water falls and an impossibly tall mountain. It's planet Earth of course. On the night of November 9 the nadir-centered 360 degree mosaic was captured by digital camera from the Kirkjufell mountain area of western Iceland. Curtains of shimmering Aurora Borealis or Northern Lights provide the pale greenish illumination. The intense auroral display was caused by solar activity that rocked Earth's magnetosphere in early November and produced strong geomagnetic storms. Kirkjufell mountain itself stands at the top of the stereographic projection's circular horizon. Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above Kirkjufell's peak. At lower right the compact Pleiades star cluster and truly giant planet Jupiter also shine in this little planet's night sky.</p>
+        <h4>A Dust Jet from the Surface of Comet 67P</h4>
+        <time>2023-11-26</time>
+        <p>Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA's Rosetta spacecraft not only imaged a jet emerging from Comet 67P/Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta's mission ended with a controlled impact onto Comet 67P's surface.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
