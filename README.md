@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2312/StartrailsBeijingAncientObservatory-3_1024.jpg" width="500" height="500" alt="2023-12-02 Startrails over Beijing Ancient Observatory NASA">
+    <a href="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg" width="500" height="500" alt="2023-12-04 Plane Crossing Crescent Moon NASA">
     </a>
     <div>
-        <h4>Startrails over Beijing Ancient Observatory</h4>
-        <time>2023-12-02</time>
-        <p>You can take a subway ride to visit this observatory in Beijing, China but you won't find any telescopes there. Starting in the 1400s astronomers erected devices at the Beijing Ancient Observatory site to enable them to accurately measure and track the positions of naked-eye stars and planets. Some of the large, ornate astronomical instruments are still standing. You can even see stars from the star observation platform today, but now only the very brightest celestial beacons are visible against the city lights. In this time series of exposures from a camera fixed to a tripod to record graceful arcing startrails, the brightest trail is actually the Moon. Its broad arc is seen behind the ancient observatory's brass armillary sphere. Compare this picture from the Beijing Ancient Observatory taken in September 2023 to one taken in 1895.</p>
+        <h4>Plane Crossing Crescent Moon</h4>
+        <time>2023-12-04</time>
+        <p>No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane's contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
