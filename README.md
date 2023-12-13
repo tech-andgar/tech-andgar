@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2312/BigDipperMt2_Cullen_960.jpg" width="500" height="500" alt="2023-12-10 Big Dipper over Pyramid Mountain NASA">
+    <a href="https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2312/ArcticNight_Cobianchi_1080.jpg" width="500" height="500" alt="2023-12-12 Aurora and Milky Way over Norway NASA">
     </a>
     <div>
-        <h4>Big Dipper over Pyramid Mountain</h4>
-        <time>2023-12-10</time>
-        <p>When did you first learn to identify this group of stars? Although they are familiar to many people around the world, different cultures have associated this asterism with different icons and folklore. Known in the USA as the Big Dipper, the stars are part of a constellation designated by the International Astronomical Union in 1922 as the Great Bear (Ursa Major).  The recognized star names of these stars are (left to right) Alkaid, Mizar/Alcor, Alioth, Megrez, Phecda, Merak, and Dubhe.  Of course, stars in any given constellation are unlikely to be physically related. But surprisingly, most of the Big Dipper stars do seem to be headed in the same direction as they plough through space, a property they share with other stars spread out over an even larger area across the sky.  Their measured common motion suggests that they all belong to a loose, nearby star cluster, thought to be on average only about 75 light-years away and up to 30 light-years across. The cluster is more properly known as the Ursa Major Moving Group. The featured image captured the iconic stars in 2017 above Pyramid Mountain in Alberta, Canada.   Night Sky Network webinar: APOD editor to review coolest space images of 2023</p>
+        <h4>Aurora and Milky Way over Norway</h4>
+        <time>2023-12-12</time>
+        <p>What are these two giant arches across the sky? Perhaps the more familiar one, on the left, is the central band of our Milky Way Galaxy. This grand disk of stars and nebulas here appears to encircle much of the southern sky. Visible below the stellar arch is the rusty-orange planet Mars and the extended Andromeda galaxy. But this night had more!  For a few minutes during this cold arctic night, a second giant arch appeared  encircling part of the northern sky: an aurora. Auroras are much closer than stars as they are composed of glowing air high in Earth's atmosphere.  Visible outside the green auroral arch is the group of stars popularly known as the Big Dipper.  The featured digital composite of 20 images was captured in mid-November 2022 over the Lofoten Islands in Norway.    APOD Year in Review (2023): RJN's Night Sky Network Lecture</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
