@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/PIA20522enceladusC.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2312/PIA20522enceladusC.jpg" width="500" height="500" alt="2023-12-16 Crescent Enceladus NASA">
+    <a href="https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2312/Geminids_Hongyang_1080.jpg" width="500" height="500" alt="2023-12-17 Geminids over China's Nianhu Lake NASA">
     </a>
     <div>
-        <h4>Crescent Enceladus</h4>
-        <time>2023-12-16</time>
-        <p>Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.</p>
+        <h4>Geminids over China's Nianhu Lake</h4>
+        <time>2023-12-17</time>
+        <p>Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken a few days ago through dark skies from Nianhu Lake in China. Over 100 bright meteor streaks from the Geminids meteor shower are visible.    APOD Year in Review (2023): RJN's Night Sky Network Lecture</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
