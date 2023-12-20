@@ -11,14 +11,15 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      - uses: PrimeEagle/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_LANGUAGES: 12
+          IGNORE_LANGUAGES: "Markdown,Visual Basic.NET,Visual Basic 6.0,VBA,ASP.NET"
       - name: Commit & Push
         run: |
           git config user.name 'Andrés García'
           git config user.email dev@tech-andgar.me
           git add -A .
-          git commit -m "[Bot] Generated Profile 3D"
-          git push
+          git diff --staged --exit-code || (git commit -m "[Bot] Generated Profile 3D" && git push)
