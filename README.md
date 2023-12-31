@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/STScI-UranusJWSTcrop.png">
-      <img src="https://apod.nasa.gov/apod/image/2312/STScI-UranusJWSTcrop.png" width="500" height="500" alt="2023-12-29 Shakespeare in Space NASA">
+    <a href="https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg" width="500" height="500" alt="2023-12-30 The Last Full Moon NASA">
     </a>
     <div>
-        <h4>Shakespeare in Space</h4>
-        <time>2023-12-29</time>
-        <p>In 1986, Voyager 2 became the only spacecraft to explore ice giant planet Uranus close up. Still, this newly released image from the NIRCam (Near-Infrared Camera) on the James Webb Space Telescope offers a detailed look at the distant world. The tilted outer planet rotates on its axis once in about 17 hours. Its north pole is presently pointed near our line of sight, offering direct views of its northern hemisphere and a faint but extensive system of rings. Of the giant planet's 27 known moons, 14 are annotated in the image. Mixed with fuzzy background galaxies, the brighter moons show hints of Webb's characteristic diffraction spikes. And though these worlds of the outer Solar System were unknown in Shakespearean times, all but two of the 27 Uranian moons are named for characters in the English bard's plays.</p>
+        <h4>The Last Full Moon</h4>
+        <time>2023-12-30</time>
+        <p>Known to some in the northern hemisphere as December's Cold Moon or the Long Night Moon, the last full moon of 2023 is rising in this surreal mountain and skyscape. The Daliesque scene was captured in a single exposure with a camera and long telephoto lens near Monte Grappa, Italy. The full moon is not melting, though. Its stretched and distorted appearance near the horizon is caused as refraction along the line of sight changes and creates shifting images or mirages of the bright lunar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Other effects of atmospheric refraction produced by the long sight-line to this full moon rising include the thin red rim seen faintly on the distorted lower edge of the Moon and a thin green rim along the top.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
