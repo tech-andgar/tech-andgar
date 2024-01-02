@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2312/2023_12_27-fullmoon1024.jpg" width="500" height="500" alt="2023-12-30 The Last Full Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2401/ngc1232b_vlt_960.jpg" width="500" height="500" alt="2024-01-01 NGC 1232: A Grand Design Spiral Galaxy NASA">
     </a>
     <div>
-        <h4>The Last Full Moon</h4>
-        <time>2023-12-30</time>
-        <p>Known to some in the northern hemisphere as December's Cold Moon or the Long Night Moon, the last full moon of 2023 is rising in this surreal mountain and skyscape. The Daliesque scene was captured in a single exposure with a camera and long telephoto lens near Monte Grappa, Italy. The full moon is not melting, though. Its stretched and distorted appearance near the horizon is caused as refraction along the line of sight changes and creates shifting images or mirages of the bright lunar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Other effects of atmospheric refraction produced by the long sight-line to this full moon rising include the thin red rim seen faintly on the distorted lower edge of the Moon and a thin green rim along the top.</p>
+        <h4>NGC 1232: A Grand Design Spiral Galaxy</h4>
+        <time>2024-01-01</time>
+        <p>Galaxies are fascinating not only for what is visible, but for what is invisible. Grand spiral galaxy NGC 1232, captured in detail by one of the Very Large Telescopes, is a good example.  The visible is dominated by millions of bright stars and dark dust, caught up in a gravitational swirl of spiral arms revolving about the center. Open clusters containing bright blue stars can be seen sprinkled along these spiral arms, while dark lanes of dense interstellar dust can be seen sprinkled between them. Less visible, but detectable, are billions of dim normal stars and vast tracts of interstellar gas, together wielding such high mass that they dominate the dynamics of the inner galaxy.  Leading theories indicate that even greater amounts of matter are invisible, in a form we don't yet know. This pervasive dark matter is postulated, in part, to explain the motions of the visible matter in the outer regions of galaxies.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
