@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/Image964_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2401/Image964_1024.jpg" width="500" height="500" alt="2024-01-05 Trapezium: At the Heart of Orion NASA">
+    <a href="https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2401/CatsEye_HubblePohl_960.jpg" width="500" height="500" alt="2024-01-07 The Cat's Eye Nebula in Optical and X-ray NASA">
     </a>
     <div>
-        <h4>Trapezium: At the Heart of Orion</h4>
-        <time>2024-01-05</time>
-        <p>Near the center of this sharp cosmic portrait, at the heart of the Orion Nebula, are four hot, massive stars known as the Trapezium. Gathered within a region about 1.5 light-years in radius, they dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years would make it one of the closest known black holes to planet Earth.</p>
+        <h4>The Cat's Eye Nebula in Optical and X-ray</h4>
+        <time>2024-01-07</time>
+        <p>To some it looks like a cat's eye. To others, perhaps like a giant cosmic conch shell.  It is actually one of the brightest and most highly detailed planetary nebula known, composed of gas expelled in the brief yet glorious phase near the end of life of a Sun-like star. This nebula's dying central star may have produced the outer circular concentric shells by shrugging off outer layers in a series of regular convulsions. The formation of the beautiful, complex-yet-symmetric inner structures, however, is not well understood. The featured image is a composite of a digitally sharpened Hubble Space Telescope image with X-ray light captured by the orbiting Chandra Observatory.  The exquisite floating space statue spans over half a light-year across. Of course, gazing into this Cat's Eye, humanity may well be seeing the fate of our sun, destined to enter its own planetary nebula phase of evolution ... in about 5 billion years.   Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
