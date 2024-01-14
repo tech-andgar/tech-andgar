@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/HimmlichesDreieckSaarburg_TWAN_mercurybildweb1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2401/HimmlichesDreieckSaarburg_TWAN_mercurybildweb1024.jpg" width="500" height="500" alt="2024-01-12 Good Morning Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2401/22halo_Zboran1115.jpg" width="500" height="500" alt="2024-01-13 Circling the Sun NASA">
     </a>
     <div>
-        <h4>Good Morning Moon</h4>
-        <time>2024-01-12</time>
-        <p>Yesterday, the Moon was New. But on January 9, early morning risers around planet Earth were treated to the sight of an old Moon, low in the east as the sky grew bright before dawn. Above the city of Saarburg in Rhineland-Palatinate, western Germany, this simple snapshot found the waning Moon's sunlit crescent just before sunrise. But also never wandering far from the Sun in Earth's sky, inner planets Venus and Mercury shared the cold morning skyview. In the foreground are the historic city's tower and castle with ruins from the 10th century.</p>
+        <h4>Circling the Sun</h4>
+        <time>2024-01-13</time>
+        <p>rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year, perihelion was on January 2 at 01:00 UTC, with the Earth about 3 million miles closer to the Sun than it was at aphelion (last July 6), the farthest point in its elliptical orbit. Of course, distance from the Sun doesn't determine the seasons, and it doesn't the determine size of Sun halos. Easier to see with the Sun hidden behind a tall tree trunk, this beautiful ice halo forms a 22 degree-wide circle around the Sun, recorded while strolling through the countryside near Heroldstatt, Germany. The Sun halo's 22 degree angular diameter is determined by the six-sided geometry of water ice crystals drifting high in planet Earth's atmosphere.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
