@@ -341,13 +341,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg" width="500" height="500" alt="2024-01-25 Jyväskylä in the Sky NASA">
+    <a href="https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg" width="500" height="500" alt="2024-01-26 Epsilon Tauri: Star with Planet NASA">
     </a>
     <div>
-        <h4>Jyväskylä in the Sky</h4>
-        <time>2024-01-25</time>
-        <p>You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night.</p>
+        <h4>Epsilon Tauri: Star with Planet</h4>
+        <time>2024-01-26</time>
+        <p>silon Tauri lies 146 light-years away. A K-type red giant star, epsilon Tau is cooler than the Sun, but with about 13 times the solar radius it has nearly 100 times the solar luminosity. A member of the Hyades open star cluster the giant star is known by the proper name Ain, and along with brighter giant star Aldebaran, forms the eyes of Taurus the Bull. Surrounded by dusty, dark clouds in Taurus, epsilon Tau is also known to have a planet. Discovered by radial velocity measurements in 2006, Epsilon Tauri b is a gas giant planet larger than Jupiter with an orbital period of 1.6 years. And though the exoplanet can't be seen directly, on a dark night its parent star epsilon Tauri is easily visible to the unaided eye.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
