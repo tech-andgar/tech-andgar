@@ -292,7 +292,7 @@ Things you should know -
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andgar2010&theme=onedark&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=andgar2010&margin-w=15&include_all_commits=true&count_private=true)
 
-[![contributions](https://github-contributor-stats.vercel.app/api?username=andgar2010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=andgar2010&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+[![contributions](https://github-contributor-stats.vercel.app/api?username=andgar2010&limit=12&theme=tokyonight&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=andgar2010&limit=12&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <p>
