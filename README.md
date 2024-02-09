@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/Antennae_Biggs_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2402/Antennae_Biggs_960.jpg" width="500" height="500" alt="2024-02-07 The Heart Shaped Antennae Galaxies NASA">
+    <a href="https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA1024.png">
+      <img src="https://apod.nasa.gov/apod/image/2402/NGC104_RGB_NASA1024.png" width="500" height="500" alt="2024-02-08 Globular Star Cluster 47 Tuc NASA">
     </a>
     <div>
-        <h4>The Heart Shaped Antennae Galaxies</h4>
-        <time>2024-02-07</time>
-        <p>Are these two galaxies really attracted to each other? Yes, gravitationally, and the result appears as an enormous iconic heart -- at least for now. Pictured is the pair of galaxies cataloged as NGC 4038 and NGC 4039,known as the Antennae Galaxies.  Because they are only 60 million light years away, close by intergalactic standards, the pair is one of the best studied interacting galaxies on the night sky. Their strong attraction began about a billion years ago when they passed unusually close to each other.  As the two galaxies interact, their stars rarely collide, but new stars are formed when their interstellar gases crash together.  Some new stars have already formed, for example, in the long antennae seen extending out from the sides of the dancing duo. By the time the galaxy merger is complete, likely over a billion years from now, billions of new stars may have formed.   Open Science: Browse 3,300+ codes in the Astrophysics Source Code Library</p>
+        <h4>Globular Star Cluster 47 Tuc</h4>
+        <time>2024-02-08</time>
+        <p>Globular star cluster 47 Tucanae is a jewel of the southern sky. Also known as NGC 104, it roams the halo of our Milky Way Galaxy along with some 200 other globular star clusters. The second brightest globular cluster (after Omega Centauri) as seen from planet Earth, 47 Tuc lies about 13,000 light-years away. It can be spotted with the naked-eye close on the sky to the Small Magellanic Cloud in the constellation of the Toucan. The dense cluster is made up of hundreds of thousands of stars in a volume only about 120 light-years across. Red giant stars on the outskirts of the cluster are easy to pick out as yellowish stars in this sharp telescopic portrait. Tightly packed globular cluster 47 Tuc is also home to a star with the closest known orbit around a black hole.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
