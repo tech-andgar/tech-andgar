@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_960.jpg" width="500" height="500" alt="2024-02-13 A January Wolf Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2402/RosetteCone_Bernard_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2402/RosetteCone_Bernard_960.jpg" width="500" height="500" alt="2024-02-14 Rosette Deep Field NASA">
     </a>
     <div>
-        <h4>A January Wolf Moon</h4>
-        <time>2024-02-13</time>
-        <p>Did you see the full moon last month? During every month, on average, a full moon occurs in the skies over planet Earth. This is because the Moon takes a month to complete another orbit around our home planet, goes through all of its phases, and once again has its entire Earth-facing half lit by reflected sunlight.  Many indigenous cultures give each full moon a name, and this past full moon's names include the Ice Moon, the Stay at Home Moon, and the Quiet Moon. Occurring in January on the modern western calendar, several cultures have also named the most recent full moon the Wolf Moon, in honor of the famous howling animal. Featured here above the Italian Alps mountains, this past Wolf Moon was captured in combined long and short exposure images.  The image is striking because, to some, the surrounding clouds appear as a wolf's mouth ready to swallow the Wolf Moon, while others see the Moon as a wolf's eye.</p>
+        <h4>Rosette Deep Field</h4>
+        <time>2024-02-14</time>
+        <p>Can you find the Rosette Nebula? The large, red, and flowery-looking nebula on the upper left may seem the obvious choice, but that is actually just diffuse hydrogen emission surrounding the Cone and Fox Fur Nebulas. The famous Rosette Nebula is really located on the lower right and connected to the other nebulas by irregular filaments.  Because the featured image of Rosetta's field is so wide and deep, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
