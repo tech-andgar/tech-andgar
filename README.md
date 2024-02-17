@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2402/ngc253_STXL6303_RC14_LHaRGB_2023_1024.jpg" width="500" height="500" alt="2024-02-15 NGC 253: Dusty Island Universe NASA">
+    <a href="https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett800.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2402/12P_Pons_Brooks_2024_02_11_185335PST_JuneLake_DEBartlett800.jpg" width="500" height="500" alt="2024-02-16 Structure in the Tail of Comet 12P/Pons-Brooks NASA">
     </a>
     <div>
-        <h4>NGC 253: Dusty Island Universe</h4>
-        <time>2024-02-15</time>
-        <p>Shiny NGC 253 is one of the brightest spiral galaxies visible, and also one of the dustiest.  Some call it the Silver Coin Galaxy for its appearance in small telescopes, or just the Sculptor Galaxy for its location within the boundaries of the southern constellation Sculptor.  Discovered in 1783 by mathematician and astronomer Caroline Herschel, the dusty island universe lies a mere 10 million light-years away. About 70 thousand light-years across, NGC 253 is the largest member of the Sculptor Group of Galaxies, the nearest to our own Local Group of Galaxies.  In addition to its spiral dust lanes, tendrils of dust seem to be rising from its galactic disk laced with young star clusters and star forming regions in this colorful galaxy portrait. The high dust content accompanies frantic star formation, earning NGC 253 the designation of a starburst galaxy. NGC 253 is also known to be a strong source of high-energy x-rays and gamma rays, likely due to massive black holes near the galaxy's center.</p>
+        <h4>Structure in the Tail of Comet 12P/Pons-Brooks</h4>
+        <time>2024-02-16</time>
+        <p>Heading for its next perihelion passage on April 21, Comet 12P/Pons-Brooks is growing brighter. The greenish coma of this periodic Halley-type comet has become relatively easy to observe in small telescopes. But the bluish ion tail now streaming from the active comet's coma and buffeted by the solar wind, is faint and difficult to follow. Still, in this image stacked exposures made on the night of February 11 reveal the fainter tail's detailed structures. The frame spans over two degrees across a background of faint stars and background galaxies toward the northern constellation Lacerta. Of course Comet 12P's April 21 perihelion passage will be only two weeks after the April 8 total solar eclipse, putting the comet in planet Earth's sky along with a totally eclipsed Sun.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
