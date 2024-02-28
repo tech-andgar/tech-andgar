@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2402/PhoenixAurora_Helgason_960.jpg" width="500" height="500" alt="2024-02-25 A Phoenix Aurora over Iceland NASA">
+    <a href="https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2402/Simeis147_Vetter_960.jpg" width="500" height="500" alt="2024-02-27 Supernova Remnant Simeis 147 NASA">
     </a>
     <div>
-        <h4>A Phoenix Aurora over Iceland</h4>
-        <time>2024-02-25</time>
-        <p>All of the other aurora watchers had gone home. By 3:30 am in Iceland, on a quiet September night, much of that night's auroras had died down. Suddenly, unexpectedly, a new burst of particles streamed down from space, lighting up the Earth's atmosphere once again. This time, surprisingly, pareidoliacally, the night lit up with an  amazing shape reminiscent of a giant phoenix. With camera equipment at the ready, two quick sky images were taken, followed immediately by a third of the land.  The mountain in the background is Helgafell, while the small foreground river is called Kaldá, both located about 30 kilometers north of Iceland's capital Reykjavík. Seasoned skywatchers will note that just above the mountain, toward the left, is the constellation of Orion, while the Pleiades star cluster is also visible just above the frame center.  The 2016 aurora, which lasted only a minute and was soon gone forever --  would possibly be dismissed as a fanciful fable -- were it not captured in the featured, digitally-composed, image mosaic.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <h4>Supernova Remnant Simeis 147</h4>
+        <time>2024-02-27</time>
+        <p>It's easy to get lost following the intricate, looping, and twisting filaments of supernova remnant Simeis 147.  Also cataloged as Sharpless 2-240, the filamentary nebula goes by the popular nickname the Spaghetti Nebula.  Seen toward the boundary of the constellations of the Bull (Taurus) and the Charioteer (Auriga), the impressive gas structure covers nearly 3 degrees on the sky, equivalent to 6 full moons. That's about 150 light-years at the stellar debris cloud's estimated distance of 3,000 light-years.  This composite image includes data taken through narrow-band filters isolating emission from hydrogen (red) and oxygen (blue) glowing gas. The supernova remnant has an estimated age of about 40,000 years, meaning light from this massive stellar explosion first reached the Earth when woolly mammoths roamed free.  Besides the expanding remnant, this cosmic catastrophe left behind a pulsar, a spinning neutron star that is the remnant of the original star's core.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
