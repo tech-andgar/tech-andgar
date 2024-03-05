@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png">
-      <img src="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png" width="500" height="500" alt="2024-03-02 Odysseus on the Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/PillarsMongolia_Liao_960.jpg" width="500" height="500" alt="2024-03-04 Light Pillars Over Inner Mongolia NASA">
     </a>
     <div>
-        <h4>Odysseus on the Moon</h4>
-        <time>2024-03-02</time>
-        <p>Methalox rocket engine firing, Odysseus' landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines Nova-C moon lander. Following the landing on February 22, broken landing legs, visible in the image, ultimately left the lander at rest but tilted. Odysseus' gentle lean into a sloping lunar surface preserved the phone booth-sized lander's ability to operate, collect solar power, and return images and data to Earth. Its exact landing site in the Moon's far south polar region was imaged by NASA's Lunar Reconnaissance Orbiter. Donated by NASA, the American flag seen on the lander's central panel is 1970 Apollo program flight hardware.</p>
+        <h4>Light Pillars Over Inner Mongolia</h4>
+        <time>2024-03-04</time>
+        <p>What's happening across that field?  Pictured here are not auroras but nearby light pillars, a phenomenon typically much closer.   In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground in a form of light snow  sometimes known as a crystal fog.  These ice crystals may then reflect ground lights in columns not unlike a Sun pillar.  The featured image was taken last month across the Wulan Butong Grasslands in Inner Mongolia, China.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
