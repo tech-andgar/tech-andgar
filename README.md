@@ -47,12 +47,6 @@ Things you should know -
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:contact@saad.ninja" target="_blank">contact@saad.ninja</a>
 - ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh: -->
 
-<!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
-🤖 **Fun fact 1**: I'm currently [the 108th most active GitHub committer in Colombia](https://commits.top/colombia.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the 119th most active GitHub contributor in Colombia](https://commits.top/colombia_public.html).</br>
-
-<!-- MY-RANK-IN-GITHUB:END -->
-
 <p align="left">
   <a href="https://github.com/andgar2010?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andgar2010?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
