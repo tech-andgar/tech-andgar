@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2403/FullPlantonMoon_Horalek_1022.jpg" width="500" height="500" alt="2024-03-11 A Full Plankton Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/RocketSpiral_Yang_960.jpg" width="500" height="500" alt="2024-03-12 A Galaxy-Shaped Rocket Exhaust Spiral NASA">
     </a>
     <div>
-        <h4>A Full Plankton Moon</h4>
-        <time>2024-03-11</time>
-        <p>What glows in the night? This night featured a combination of usual and unusual glows. Perhaps the most usual glow was from the Moon, a potentially familiar object. The full Moon's nearly vertical descent results from the observer being near Earth's equator. As the Moon sets, air and aerosols in Earth's atmosphere preferentially scatter out blue light, making the Sun-reflecting satellite appear reddish when near the horizon.                                                                        Perhaps the most unusual glow was from the bioluminescent plankton, likely less familiar objects. These microscopic creatures glow blue, it is thought, primarily to surprise and deter predators. In this case, the glow was caused primarily by plankton-containing waves crashing onto the beach. The image was taken on Soneva Fushi Island, Maldives just over one year ago.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
+        <h4>A Galaxy-Shaped Rocket Exhaust Spiral</h4>
+        <time>2024-03-12</time>
+        <p>What's that over the horizon? What may look like a strangely nearby galaxy is actually a normal rocket's exhaust plume -- but unusually backlit.  Although the SpaceX Falcon 9 rocket was launched from Vandenberg Space Force Base in California, USA, its burned propellant was visible over a much wider area, with the featured photograph being taken from Akureyri, Iceland. The huge spaceship was lifted off a week ago, and the resulting spectacle was captured soon afterward with a single 10-second smartphone exposure, before it quickly dissipated. Like noctilucent clouds, the plume's brightness is caused by the Twilight Effect, where an object is high enough to be illuminated by the twilight Sun, even when the observer on the ground experiences the darkness of night. The spiral shape is caused by the Falcon  rocket reorienting to release satellites in different directions. Stars and faint green and red aurora appear in the background of this extraordinary image.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
