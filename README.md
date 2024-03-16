@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2403/Seagull_Lacroce_1080.jpg" width="500" height="500" alt="2024-03-13 The Seagull Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/Image133k_n1055_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/Image133k_n1055_1024.jpg" width="500" height="500" alt="2024-03-15 Portrait of NGC 1055 NASA">
     </a>
     <div>
-        <h4>The Seagull Nebula</h4>
-        <time>2024-03-13</time>
-        <p>A broad expanse of glowing gas and dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker: the Seagull Nebula. This portrait of the cosmic bird covers a 2.5-degree wide swath across the plane of the Milky Way, near the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). Of course, the region includes objects with other catalog designations: notably NGC 2327, a compact, dusty emission and reflection nebula with an embedded massive star that forms the bird's head. Likely part of a larger shell structure swept up by successive supernova explosions, the broad Seagull Nebula is cataloged as Sh2-296 and IC 2177. The prominent bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.   Almost Hyperspace: Random APOD Generator</p>
+        <h4>Portrait of NGC 1055</h4>
+        <time>2024-03-15</time>
+        <p>Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But the telltale pinkish star forming regions are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bulge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
