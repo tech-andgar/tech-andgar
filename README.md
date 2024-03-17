@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/Image133k_n1055_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2403/Image133k_n1055_1024.jpg" width="500" height="500" alt="2024-03-15 Portrait of NGC 1055 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/ELT_2024-03-13_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/ELT_2024-03-13_1024.jpg" width="500" height="500" alt="2024-03-16 ELT and the Milky Way NASA">
     </a>
     <div>
-        <h4>Portrait of NGC 1055</h4>
-        <time>2024-03-15</time>
-        <p>Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But the telltale pinkish star forming regions are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bulge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.</p>
+        <h4>ELT and the Milky Way</h4>
+        <time>2024-03-16</time>
+        <p>The southern winter Milky Way sprawls across this night skyscape. Looking due south, the webcam view was recorded near local midnight on March 11 in dry, dark skies over the central Chilean Atacama desert. Seen below the graceful arc of diffuse starlight are satellite galaxies of the mighty Milky Way, also known as the Large and Small Magellanic clouds. In the foreground is the site of the European Southern Observatory's 40-metre-class Extremely Large Telescope (ELT). Under construction at the 3000 metre summit of Cerro Armazones, the ELT is on track to become planet Earth's biggest Eye on the Sky.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
