@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2403/PIA19363_1024.jpg" width="500" height="500" alt="2024-03-23 Ares 3 Landing Site: The Martian Revisited NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg" width="500" height="500" alt="2024-03-24 Looking Back at an Eclipsed Earth NASA">
     </a>
     <div>
-        <h4>Ares 3 Landing Site: The Martian Revisited</h4>
-        <time>2024-03-23</time>
-        <p>This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the scifi novel The Martian by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site corresponding to the coordinates of this cropped HiRISE frame. For scale Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.</p>
+        <h4>Looking Back at an Eclipsed Earth</h4>
+        <time>2024-03-24</time>
+        <p>Here is what the Earth looks like during a solar eclipse. The shadow of the Moon can be seen darkening part of Earth. This shadow moved across the Earth at nearly 2000 kilometers per hour. Only observers near the center of the dark circle see a total solar eclipse - others see a partial eclipse where only part of the Sun appears blocked by the Moon. This spectacular picture of the 1999 August 11 solar eclipse was one of the last ever taken from the Mir space station. The two bright spots that appear on the upper left are thought to be Jupiter and Saturn. Mir was deorbited in a controlled re-entry in 2001. A new solar eclipse will occur over North America in about two weeks.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
