@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2403/eclipse99_mir_960.jpg" width="500" height="500" alt="2024-03-24 Looking Back at an Eclipsed Earth NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg" width="500" height="500" alt="2024-03-26 Comet Pons-Brooks' Ion Tail NASA">
     </a>
     <div>
-        <h4>Looking Back at an Eclipsed Earth</h4>
-        <time>2024-03-24</time>
-        <p>Here is what the Earth looks like during a solar eclipse. The shadow of the Moon can be seen darkening part of Earth. This shadow moved across the Earth at nearly 2000 kilometers per hour. Only observers near the center of the dark circle see a total solar eclipse - others see a partial eclipse where only part of the Sun appears blocked by the Moon. This spectacular picture of the 1999 August 11 solar eclipse was one of the last ever taken from the Mir space station. The two bright spots that appear on the upper left are thought to be Jupiter and Saturn. Mir was deorbited in a controlled re-entry in 2001. A new solar eclipse will occur over North America in about two weeks.</p>
+        <h4>Comet Pons-Brooks' Ion Tail</h4>
+        <time>2024-03-26</time>
+        <p>Comet Pons-Brooks has quite a tail to tell.  First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures.  In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind.  The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun.  Comet 12P/Pons–Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night.  The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye --  during the day -- to those in the path of totality of the coming solar eclipse on April 8.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
