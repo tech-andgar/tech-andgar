@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2403/CometPons_Peirce_1080.jpg" width="500" height="500" alt="2024-03-26 Comet Pons-Brooks' Ion Tail NASA">
+    <a href="https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2403/ComaCluster_Hua_960.jpg" width="500" height="500" alt="2024-03-27 The Coma Cluster of Galaxies NASA">
     </a>
     <div>
-        <h4>Comet Pons-Brooks' Ion Tail</h4>
-        <time>2024-03-26</time>
-        <p>Comet Pons-Brooks has quite a tail to tell.  First discovered in 1385, this erupting dirty snowball loops back into our inner Solar System every 71 years and, this time, is starting to put on a show for deep camera exposures.  In the featured picture, the light blue stream is the ion tail which consists of charged molecules pushed away from the comet's nucleus by the solar wind.  The ion tail, shaped by the Sun's wind and the comet's core's rotation, always points away from the Sun.  Comet 12P/Pons–Brooks is now visible with binoculars in the early evening sky toward the northwest, moving perceptibly from night to night.  The frequently flaring comet is expected to continue to brighten, on the average, and may even become visible with the unaided eye --  during the day -- to those in the path of totality of the coming solar eclipse on April 8.</p>
+        <h4>The Coma Cluster of Galaxies</h4>
+        <time>2024-03-27</time>
+        <p>Almost every object in the featured photograph is a galaxy.  The Coma Cluster of Galaxies pictured here is one of the densest clusters known - it contains thousands of galaxies.  Each of these galaxies houses billions of stars - just as our own Milky Way Galaxy does.  Although nearby when compared to most other clusters, light from the Coma Cluster still takes hundreds of millions of years to reach us.  In fact, the Coma Cluster is so big it takes light millions of years just to go from one side to the other.  Most galaxies in Coma and other clusters are ellipticals, while most galaxies outside of clusters are spirals.  The nature of Coma's X-ray emission is still being investigated.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
