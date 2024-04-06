@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg" width="500" height="500" alt="2024-04-04 Comet Pons-Brooks at Night NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/CoronaGraph_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2404/CoronaGraph_1024.jpg" width="500" height="500" alt="2024-04-05 The Solar Corona Unwrapped NASA">
     </a>
     <div>
-        <h4>Comet Pons-Brooks at Night</h4>
-        <time>2024-04-04</time>
-        <p>In dark evening skies over June Lake, northern hemisphere, planet Earth, Comet 12P/Pons-Brooks stood just above the western horizon on March 30. Its twisted turbulent ion tail and diffuse greenish coma are captured in this two degree wide telescopic field of view along with bright yellowish star Hamal also known as Alpha Arietis. Now Pons-Brooks has moved out of the northern night though, approaching perihelion on April 21. On April 8 you might still spot the comet in daytime skies. But to do it, you will have to stand in the path of totality and look away from the spectacle of an alluring solar corona and totally eclipsed Sun.   NASA Coverage: Total Solar Eclipse of 2024 April 8</p>
+        <h4>The Solar Corona Unwrapped</h4>
+        <time>2024-04-05</time>
+        <p>Changes in the alluring solar corona are detailed in this creative composite image mapping the dynamic outer atmosphere of the Sun during two separate total solar eclipses. Unwrapped from the complete circle of the eclipsed Sun's edge to a rectangle and mirrored, the entire solar corona is shown during the 2017 eclipse (bottom) seen from Jackson Hole, Wyoming, and the 2023 eclipse from Exmouth, Western Australia. While the 2017 eclipse was near a minimum in the Sun's 11 year activity cycle, the 2023 eclipse was closer to solar maximum. The 2023 solar corona hints at the dramatically different character of the active Sun, with many streamers and pinkish prominences arising along the solar limb. Of course, the solar corona is only easily visible to the eye while standing in the shadow of the Moon.   NASA Coverage: Total Solar Eclipse of 2024 April 8</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
