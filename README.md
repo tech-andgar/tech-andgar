@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg" width="500" height="500" alt="2024-04-07 A Total Solar Eclipse over Wyoming NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg" width="500" height="500" alt="2024-04-08 The Changing Ion Tail of Comet Pons-Brooks NASA">
     </a>
     <div>
-        <h4>A Total Solar Eclipse over Wyoming</h4>
-        <time>2024-04-07</time>
-        <p>Will the sky be clear enough to see the eclipse? This question is already on the minds of many North Americans hoping to see tomorrow's solar eclipse.  This question was also on the mind of many people attempting to see the total solar eclipse that crossed North America in August 2017.  Then, the path of total darkness shot across the mainland of the USA from coast to coast, from Oregon to South Carolina -- but, like tomorrow's event, a partial eclipse occurred above most of North America.  Unfortunately, in 2017, many locations saw predominantly clouds. One location that did not was a bank of the Green River Lakes, Wyoming.  Intermittent clouds were far enough away to allow the center image of the featured composite sequence to be taken, an image that shows the corona of the Sun extending out past the central dark Moon that blocks our familiar Sun. The surrounding images show the partial phases of the solar eclipse both before and after totality.   NASA Coverage: Tomorrow's Total Solar Eclipse</p>
+        <h4>The Changing Ion Tail of Comet Pons-Brooks</h4>
+        <time>2024-04-08</time>
+        <p>How does a comet tail change? It depends on the comet.  The ion tail of Comet 12P/Pons–Brooks has been changing markedly, as detailed in the featured image sequenced over nine days from March 6 to 14 (top to bottom).  On some days, the comet's ion tail was relatively long and complex, but not every day.  Reasons for tail changes include the rate of ejection of material from the comet's nucleus, the strength and complexity of the passing solar wind, and the rotation rate of the comet.  Over the course of a week, apparent changes even include a change of perspective from the Earth. In general, a comet's ion tail will point away from the Sun, as gas expelled is pushed out by the Sun's wind. Today, Pons-Brooks may become a rare comet suddenly visible in the middle of the day for those able to see the Sun totally eclipsed by the Moon.   NASA Coverage: Today's Total Solar Eclipse  Total Eclipse Imagery: Notable Submissions to APOD</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
