@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg" width="500" height="500" alt="2024-04-10 Planets Around a Total Eclipse NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg" width="500" height="500" alt="2024-04-11 Eclipse in Seven NASA">
     </a>
     <div>
-        <h4>Planets Around a Total Eclipse</h4>
-        <time>2024-04-10</time>
-        <p>What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.  On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.   Monday's Eclipse Imagery: Notable Submissions to APOD</p>
+        <h4>Eclipse in Seven</h4>
+        <time>2024-04-11</time>
+        <p>Start at the upper left above and you can follow the progress of April 8's total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon's shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.   Monday's Eclipse Imagery: Notable Submissions to APOD</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
