@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg" width="500" height="500" alt="2024-04-11 Eclipse in Seven NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg" width="500" height="500" alt="2024-04-12 Total Totality NASA">
     </a>
     <div>
-        <h4>Eclipse in Seven</h4>
-        <time>2024-04-11</time>
-        <p>Start at the upper left above and you can follow the progress of April 8's total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon's shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.   Monday's Eclipse Imagery: Notable Submissions to APOD</p>
+        <h4>Total Totality</h4>
+        <time>2024-04-12</time>
+        <p>Baily's beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon's edge from beginning through the end of totality during April 8's solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon's shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
