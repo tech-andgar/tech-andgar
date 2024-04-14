@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/image0tseKorona_1100.jpg" width="500" height="500" alt="2024-04-12 Total Totality NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png">
+      <img src="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png" width="500" height="500" alt="2024-04-13 Palm Tree Partial Eclipse NASA">
     </a>
     <div>
-        <h4>Total Totality</h4>
-        <time>2024-04-12</time>
-        <p>Baily's beads often appear at the boundaries of the total phase of an eclipse of the Sun. Pearls of sunlight still beaming through gaps in the rugged terrain along the lunar limb silhouette, their appearance is recorded in this dramatic timelapse composite. The series of images follows the Moon's edge from beginning through the end of totality during April 8's solar eclipse from Durango, Mexico. They also capture pinkish prominences of plasma arcing high above the edge of the active Sun. One of the first places in North America visited by the Moon's shadow on April 8, totality in Durango lasted about 3 minutes and 46 seconds.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
+        <h4>Palm Tree Partial Eclipse</h4>
+        <time>2024-04-13</time>
+        <p>Only those along the narrow track of the Moon's shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
