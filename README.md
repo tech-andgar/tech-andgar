@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png">
-      <img src="https://apod.nasa.gov/apod/image/2404/pinholepalm1024.png" width="500" height="500" alt="2024-04-13 Palm Tree Partial Eclipse NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg" width="500" height="500" alt="2024-04-15 The Cigar Galaxy from Hubble and Webb NASA">
     </a>
     <div>
-        <h4>Palm Tree Partial Eclipse</h4>
-        <time>2024-04-13</time>
-        <p>Only those along the narrow track of the Moon's shadow on April 8 saw a total solar eclipse. But most of North America still saw a partial eclipse of the Sun. From Clearwater, Florida, USA this single snapshot captured multiple images of that more widely viewed celestial event without observing the Sun directly. In the shade of a palm tree, criss-crossing fronds are projecting recognizable eclipse images on the ground, pinhole camera style.  In Clearwater the maximum eclipse phase was about 53 percent.   Solar Eclipse Imagery: Notable Submissions to APOD</p>
+        <h4>The Cigar Galaxy from Hubble and Webb</h4>
+        <time>2024-04-15</time>
+        <p>Something strange happened to this galaxy, but what? Known as the Cigar Galaxy and cataloged as M82, red glowing gas and dust are being cast out from the center.  Although this starburst galaxy was surely stirred up by a recent pass near its neighbor, large spiral galaxy M81, this doesn't fully explain the source of the red-glowing outwardly expanding gas and dust.  Evidence indicates that this material is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind. In the featured images, a Hubble Space Telescope image in visible light is shown on the left, while a James Webb Space Telescope image of the central region in infrared light is shown on the right.  Detailed inspection of the new Webb image shows, unexpectedly, that this red-glowing dust is associated with hot plasma. Research into the nature of this strange nearby galaxy will surely continue.    Total Eclipse Imagery: Notable Submissions to APOD</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
