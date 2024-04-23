@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/tse2024Dobbs_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/tse2024Dobbs_1024.jpg" width="500" height="500" alt="2024-04-20 Diamonds in the Sky NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg" width="500" height="500" alt="2024-04-22 Moon and Smoke Rings from Mt. Etna NASA">
     </a>
     <div>
-        <h4>Diamonds in the Sky</h4>
-        <time>2024-04-20</time>
-        <p>When the dark shadow of the Moon raced across North America on April 8, sky watchers along the shadow's narrow central path were treated to a total solar eclipse. During the New Moon's shadow play diamonds glistened twice in the eclipse-darkened skies. The transient celestial jewels appeared immediately before and after the total eclipse phase. That's when the rays of a vanishing and then emerging sliver of solar disk are just visible behind the silhouetted Moon's edge, creating the appearance of a shiny diamond set in a dark ring. This dramatic timelapse composite from north-central Arkansas captures both diamond ring moments of this total solar eclipse. The diamond rings are separated by the ethereal beauty of the solar corona visible during totality.</p>
+        <h4>Moon and Smoke Rings from Mt. Etna</h4>
+        <time>2024-04-22</time>
+        <p>Yes, but can your volcano do this? To the surprise of some, Mt. Etna emits, on occasion, smoke rings. Technically known as vortex rings, the walls of the volcano slightly slow the outside of emitted smoke puffs, causing the inside gas to move faster.  A circle of low pressure develops so that the emitted puff of volcanic gas and ash loops around in a ring, a familiar geometric structure that can be surprisingly stable as it rises. Smoke rings are quite rare and need a coincidence of the right geometry  of the vent, the right speed of ejected smoke, and the relative calmness of the outside atmosphere.  In the featured image taken about two weeks ago from Gangi, Sicily, Italy, multiple volcanic smoke rings are visible.  The scene is shaded by the red light of a dawn Sun, while a crescent Moon is visible in the background.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
