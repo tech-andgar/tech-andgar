@@ -1,5 +1,5 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=1500&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey!%2C👋+I'm+Andrés García+😄" align="middle" alt="Hey, 👋 I'm Andrés García 😄 animated typed out">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=500&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=1500&color=36BCF7FF&center=true&vCenter=true&width=940&height=50&lines=Hey!%2C👋+I'm+Andrés García+😄" align="middle" alt="Hey, 👋 I'm Andrés García 😄 animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=500&color=36BCF7FF&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
 
 <h4 align="center">💼 Software Engineer - 🏭 Flutter Developer FullStack</h4>
 <p align="center">
