@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_960.jpg" width="500" height="500" alt="2024-04-24 Dragon's Egg Bipolar Emission Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png">
+      <img src="https://apod.nasa.gov/apod/image/2404/stsci-xNGC604NIRcam1024.png" width="500" height="500" alt="2024-04-25 NGC 604: Giant Stellar Nursery NASA">
     </a>
     <div>
-        <h4>Dragon's Egg Bipolar Emission Nebula</h4>
-        <time>2024-04-24</time>
-        <p>How did a star form this beautiful nebula?  In the middle of emission nebula NGC 6164 is an unusually massive star.  The central star has been compared to an oyster's pearl and an egg protected by the mythical sky dragons of Ara.  The star, visible in the center of the featured image and catalogued as HD 148937, is so hot that the ultraviolet light it emits heats up gas that surrounds it.  That gas was likely thrown off from the star previously, possibly the result of a gravitational interaction with a looping stellar companion.  Expelled material might have been channeled by the magnetic field of the massive star, in all creating the symmetric shape of the bipolar nebula.  NGC 6164 spans about four light years and is located about 3,600 light years away toward the southern constellation Norma.   New Mirror: APOD now available via WhatsApp</p>
+        <h4>NGC 604: Giant Stellar Nursery</h4>
+        <time>2024-04-25</time>
+        <p>Located some 3 million light-years away in the arms of nearby spiral galaxy M33, giant stellar nursery NGC 604 is about 1,300 light-years across. That's nearly 100 times the size of the Milky Way's Orion Nebula, the closest large star forming region to planet Earth. In fact, among the star forming regions within the Local Group of galaxies, NGC 604 is second in size only to 30 Doradus, also known as the Tarantula Nebula in the Large Magellanic Cloud. Cavernous bubbles and cavities in NGC 604 fill this stunning infrared image from the James Webb Space Telescope's NIRCam. They are carved out by energetic stellar winds from the region's more than 200 hot, massive, young stars, all still in early stages of their lives.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
