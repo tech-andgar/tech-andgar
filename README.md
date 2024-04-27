@@ -11,13 +11,13 @@
   <a href="https://stackoverflow.com/u/11040422" target="_blank">
     <img alt="Andrés García on Stackoverflow" src="http://saad.ninja/img/temp/stackoverflow.png" width="40" height="40" >
   </a>
-  <a href="https://twitter.com/andgar2010" target="_blank">
+  <a href="https://twitter.com/tech-andgar" target="_blank">
     <img alt="Andrés García Twitter" src="http://saad.ninja/img/temp/twitter.png" width="40" height="40" >
   </a>
-  <a href="https://medium.com/@andgar2010/" target="_blank">
+  <a href="https://medium.com/@tech-andgar/" target="_blank">
     <img alt="Andrés García on Medium" src="http://saad.ninja/img/temp/medium.png" width="40" height="40" >
   </a>
-  <a href="https://dev.to/andgar2010" target="_blank">
+  <a href="https://dev.to/tech-andgar" target="_blank">
     <img alt="Andrés García on Dev" src="http://saad.ninja/img/temp/dev.png" width="40" height="40" >
   </a>
   -->
@@ -48,11 +48,11 @@ Things you should know -
 - ⚡ <b>Rolling in godspeed:</b> Redefining EdTech in :bangladesh: -->
 
 <p align="left">
-  <a href="https://github.com/andgar2010?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andgar2010?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/tech-andgar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tech-andgar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/andgar2010?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andgar2010?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/tech-andgar?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tech-andgar?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
@@ -87,11 +87,11 @@ Things you should know -
 #### Others
 -->
 
-- [nomina básico en colombia (Vue.js v3)](https://github.com/andgar2010/nomina)
-- [solid-example (Dart & Typescript)](https://github.com/andgar2010/solid-example)
+- [nomina básico en colombia (Vue.js v3)](https://github.com/tech-andgar/nomina)
+- [solid-example (Dart & Typescript)](https://github.com/tech-andgar/solid-example)
 <!--
-- [http_exception (Dart) [WIP]](https://github.com/andgar2010/http_exception)
-- [clean_architecture_counter (Flutter & Dart) [WIP]](https://github.com/andgar2010/clean_architecture_counter)
+- [http_exception (Dart) [WIP]](https://github.com/tech-andgar/http_exception)
+- [clean_architecture_counter (Flutter & Dart) [WIP]](https://github.com/tech-andgar/clean_architecture_counter)
 - [project](https://github.com/user/project) (10+ ⭐)
 -->
 
@@ -284,32 +284,32 @@ Things you should know -
 
   ![Profile Github 3D](./profile-3d-contrib/profile-night-green.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andgar2010&theme=onedark&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=andgar2010&margin-w=15&include_all_commits=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tech-andgar&theme=onedark&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=tech-andgar&margin-w=15&include_all_commits=true&count_private=true)
 
-[![contributions](https://github-contributor-stats.vercel.app/api?username=andgar2010&limit=12&theme=tokyonight&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=andgar2010&limit=12&theme=tokyonight&combine_all_yearly_contributions=true)
+[![contributions](https://github-contributor-stats.vercel.app/api?username=tech-andgar&limit=12&theme=tokyonight&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app/api?username=tech-andgar&limit=12&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andgar2010&layout=compact&theme=solarized-dark" alt="andgar2010" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tech-andgar&layout=compact&theme=solarized-dark" alt="tech-andgar" />
 </p>
 
 <p>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=andgar2010&count_private=true&theme=solarized-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="andgar2010's github stats"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tech-andgar&count_private=true&theme=solarized-dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="tech-andgar's github stats"/>
 </p>
 
 <p>
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andgar2010&layout=compact&theme=solarized-dark&hide_border=false&hide=javascript,php,css,PLpgSQL,Hack,html"/>
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-andgar&layout=compact&theme=solarized-dark&hide_border=false&hide=javascript,php,css,PLpgSQL,Hack,html"/>
 </p>
 
 <p>
-  <a href="https://profile.codersrank.io/user/andgar2010#Tech%20Skills" target="_blank">
-    <img align="center" alt="Tech Skills Chart of Andrés García on Codersrank" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=andgar2010&padding=30&skills=batchfile,c,C%23,CSS,dart,Kotlin,java,javascript,mysql,php,perl,PLpgSQL,SQL,shell,typescript,vue">
+  <a href="https://profile.codersrank.io/user/tech-andgar#Tech%20Skills" target="_blank">
+    <img align="center" alt="Tech Skills Chart of Andrés García on Codersrank" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tech-andgar&padding=30&skills=batchfile,c,C%23,CSS,dart,Kotlin,java,javascript,mysql,php,perl,PLpgSQL,SQL,shell,typescript,vue">
   </a>
 </p>
 
 <p>
-  <a href="https://profile.codersrank.io/user/andgar2010#Scores%20&%20Badges" target="_blank">
-    <img align="center" alt="Scores & Badges of Andrés García on Codersrank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=andgar2010">
+  <a href="https://profile.codersrank.io/user/tech-andgar#Scores%20&%20Badges" target="_blank">
+    <img align="center" alt="Scores & Badges of Andrés García on Codersrank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tech-andgar">
   </a>
 </p>
 
@@ -356,16 +356,16 @@ Things you should know -
 
 I'm looking for sponsors to support my open source development, I appreciate your support! :)
 
-[![GitHub sponsors](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/andgar2010)
-[![GitHub sponsors count](https://img.shields.io/github/sponsors/andgar2010?color=orange&style=for-the-badge)](https://github.com/sponsors/andgar2010)
+[![GitHub sponsors](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/tech-andgar)
+[![GitHub sponsors count](https://img.shields.io/github/sponsors/tech-andgar?color=orange&style=for-the-badge)](https://github.com/sponsors/tech-andgar)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tech_andgar)
 
 <p align='center'>
-  <img align='center' src="https://komarev.com/ghpvc/?username=andgar2010&label=Profile%20views&color=blue&style=flat">
+  <img align='center' src="https://komarev.com/ghpvc/?username=tech-andgar&label=Profile%20views&color=blue&style=flat">
 <p/>
 
 <!--
-**andgar2010/andgar2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tech-andgar/tech-andgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
