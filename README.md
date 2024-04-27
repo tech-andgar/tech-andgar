@@ -11,13 +11,13 @@
   <a href="https://stackoverflow.com/u/11040422" target="_blank">
     <img alt="Andrés García on Stackoverflow" src="http://saad.ninja/img/temp/stackoverflow.png" width="40" height="40" >
   </a>
-  <a href="https://twitter.com/tech-andgar" target="_blank">
+  <a href="https://link.tech-andgar.me/twitter" target="_blank">
     <img alt="Andrés García Twitter" src="http://saad.ninja/img/temp/twitter.png" width="40" height="40" >
   </a>
   <a href="https://medium.com/@tech-andgar/" target="_blank">
     <img alt="Andrés García on Medium" src="http://saad.ninja/img/temp/medium.png" width="40" height="40" >
   </a>
-  <a href="https://dev.to/tech-andgar" target="_blank">
+  <a href="https://dev.to/andgar2010" target="_blank">
     <img alt="Andrés García on Dev" src="http://saad.ninja/img/temp/dev.png" width="40" height="40" >
   </a>
   -->
@@ -302,13 +302,13 @@ Things you should know -
 </p>
 
 <p>
-  <a href="https://profile.codersrank.io/user/tech-andgar#Tech%20Skills" target="_blank">
+  <a href="https://profile.codersrank.io/user/andgar2010#Tech%20Skills" target="_blank">
     <img align="center" alt="Tech Skills Chart of Andrés García on Codersrank" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tech-andgar&padding=30&skills=batchfile,c,C%23,CSS,dart,Kotlin,java,javascript,mysql,php,perl,PLpgSQL,SQL,shell,typescript,vue">
   </a>
 </p>
 
 <p>
-  <a href="https://profile.codersrank.io/user/tech-andgar#Scores%20&%20Badges" target="_blank">
+  <a href="https://profile.codersrank.io/user/andgar2010#Scores%20&%20Badges" target="_blank">
     <img align="center" alt="Scores & Badges of Andrés García on Codersrank" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tech-andgar">
   </a>
 </p>
@@ -361,7 +361,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tech_andgar)
 
 <p align='center'>
-  <img align='center' src="https://komarev.com/ghpvc/?username=tech-andgar&label=Profile%20views&color=blue&style=flat">
+  <img align='center' src="https://komarev.com/ghpvc/?username=andgar2010&label=Profile%20views&color=blue&style=flat">
 <p/>
 
 <!--
