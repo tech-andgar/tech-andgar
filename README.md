@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2405/BhShredder_NASA_1080.jpg" width="500" height="500" alt="2024-05-05 A Black Hole Disrupts a Passing Star NASA">
+    <a href="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg" width="500" height="500" alt="2024-05-07 Black Hole Accreting with Jet NASA">
     </a>
     <div>
-        <h4>A Black Hole Disrupts a Passing Star</h4>
-        <time>2024-05-05</time>
-        <p>What happens to a star that goes near a black hole? If the star directly impacts a massive black hole, then the star falls in completely -- and everything vanishes. More likely, though, the star goes close enough to have the black hole's gravity pull away its outer layers, or disrupt, the star. Then, most of the star's gas does not fall into the black hole.  These stellar tidal disruption events can be as bright as a supernova, and an increasing amount of them are being discovered by automated sky surveys. In the featured artist's illustration, a star has just passed a massive black hole and sheds gas that continues to orbit.  The inner edge of a disk of gas and dust surrounding the black hole is heated by the disruption event and may glow long after the star  is gone.    Hole New Worlds: It's Black Hole Week at NASA!</p>
+        <h4>Black Hole Accreting with Jet</h4>
+        <time>2024-05-07</time>
+        <p>What happens when a black hole devours a star?  Many details remain unknown, but observations are providing new clues. In 2014, a powerful explosion was recorded by the ground-based robotic telescopes of the All Sky Automated Survey for SuperNovae (Project ASAS-SN), with followed-up observations by instruments including NASA's Earth-orbiting Swift satellite. Computer modeling of these emissions fit a star being ripped apart by a distant supermassive black hole.  The results of such a collision are portrayed in the featured artistic illustration. The black hole itself is a depicted as a tiny black dot in the center. As matter falls toward the hole, it collides with other matter and heats up. Surrounding the black hole is an accretion disk of hot matter that used to be the star, with a jet emanating from the black hole's spin axis.   Fall towards eternity: It's Black Hole Week at NASA!</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
