@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2405/BlackHole_Simonnet_960.jpg" width="500" height="500" alt="2024-05-07 Black Hole Accreting with Jet NASA">
+    <a href="https://apod.nasa.gov/apod/image/2405/pia23122c-16_1067.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2405/pia23122c-16_1067.jpg" width="500" height="500" alt="2024-05-09 The Galaxy, the Jet, and a Famous Black Hole NASA">
     </a>
     <div>
-        <h4>Black Hole Accreting with Jet</h4>
-        <time>2024-05-07</time>
-        <p>What happens when a black hole devours a star?  Many details remain unknown, but observations are providing new clues. In 2014, a powerful explosion was recorded by the ground-based robotic telescopes of the All Sky Automated Survey for SuperNovae (Project ASAS-SN), with followed-up observations by instruments including NASA's Earth-orbiting Swift satellite. Computer modeling of these emissions fit a star being ripped apart by a distant supermassive black hole.  The results of such a collision are portrayed in the featured artistic illustration. The black hole itself is a depicted as a tiny black dot in the center. As matter falls toward the hole, it collides with other matter and heats up. Surrounding the black hole is an accretion disk of hot matter that used to be the star, with a jet emanating from the black hole's spin axis.   Fall towards eternity: It's Black Hole Week at NASA!</p>
+        <h4>The Galaxy, the Jet, and a Famous Black Hole</h4>
+        <time>2024-05-09</time>
+        <p>Bright elliptical galaxy Messier 87 (M87) is home to the supermassive black hole captured in 2017 by planet Earth's Event Horizon Telescope in the first ever image of a black hole. Giant of the Virgo galaxy cluster about 55 million light-years away, M87 is rendered in blue hues in this infrared image from the Spitzer Space telescope.  Though M87 appears mostly featureless and cloud-like, the Spitzer image does record details of relativistic jets blasting from the galaxy's central region. Shown in the inset at top right, the jets themselves span thousands of light-years. The brighter jet seen on the right is approaching and close to our line of sight. Opposite, the shock created by the otherwise unseen receding jet lights up a fainter arc of material. Inset at bottom right, the historic black hole image is shown in context at the center of giant galaxy, between the relativistic jets. Completely unresolved in the Spitzer image, the supermassive black hole surrounded by infalling material is the source of enormous energy driving the relativistic jets from the center of active galaxy M87. The Event Horizon Telescope image of M87 has been enhanced to reveal a sharper view of the famous supermassive black hole.   It's inescapable: Black Hole Week at NASA!</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
