@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/pia23122c-16_1067.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2405/pia23122c-16_1067.jpg" width="500" height="500" alt="2024-05-09 The Galaxy, the Jet, and a Famous Black Hole NASA">
+    <a href="https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg" width="500" height="500" alt="2024-05-11 AR 3664: Giant Sunspot Group NASA">
     </a>
     <div>
-        <h4>The Galaxy, the Jet, and a Famous Black Hole</h4>
-        <time>2024-05-09</time>
-        <p>Bright elliptical galaxy Messier 87 (M87) is home to the supermassive black hole captured in 2017 by planet Earth's Event Horizon Telescope in the first ever image of a black hole. Giant of the Virgo galaxy cluster about 55 million light-years away, M87 is rendered in blue hues in this infrared image from the Spitzer Space telescope.  Though M87 appears mostly featureless and cloud-like, the Spitzer image does record details of relativistic jets blasting from the galaxy's central region. Shown in the inset at top right, the jets themselves span thousands of light-years. The brighter jet seen on the right is approaching and close to our line of sight. Opposite, the shock created by the otherwise unseen receding jet lights up a fainter arc of material. Inset at bottom right, the historic black hole image is shown in context at the center of giant galaxy, between the relativistic jets. Completely unresolved in the Spitzer image, the supermassive black hole surrounded by infalling material is the source of enormous energy driving the relativistic jets from the center of active galaxy M87. The Event Horizon Telescope image of M87 has been enhanced to reveal a sharper view of the famous supermassive black hole.   It's inescapable: Black Hole Week at NASA!</p>
+        <h4>AR 3664: Giant Sunspot Group</h4>
+        <time>2024-05-11</time>
+        <p>Right now, one of the largest sunspot groups in recent history is crossing the Sun. Active Region 3664 is not only big -- it's violent, throwing off clouds of particles into the Solar System. Some of these CMEs are already impacting the Earth, and others might follow.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge. When impacting Earth's upper atmosphere, these particles can produce beautiful auroras, with some auroras already being reported unusually far south.  Pictured here, AR3664 and its dark sunspots were captured yesterday in visible light from Rome, Italy. The AR3664 sunspot group is so large that it is visible just with glasses designed to view last month's total solar eclipse.  This weekend, skygazing enthusiasts will be keenly watching the night skies all over the globe for bright and unusual auroras.   Gallery: Active Region 3664 on the Sun and Associated Aurora</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
