@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2405/AR3664Prom_Voltmer_960.jpg" width="500" height="500" alt="2024-05-15 AR 3664 at the Sun's Edge NASA">
+    <a href="https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2_600.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2_600.jpg" width="500" height="500" alt="2024-05-17 Aurora Banks Peninsula NASA">
     </a>
     <div>
-        <h4>AR 3664 at the Sun's Edge</h4>
-        <time>2024-05-15</time>
-        <p>What did the monster active region that created the recent auroras look like when at the Sun's edge? There, AR 3664 better showed its 3D structure. Pictured, a large multi-pronged solar prominence was captured extending from chaotic sunspot region AR 3664 out into space, just one example of the particle clouds ejected from this violent solar region. The Earth could easily fit under this long-extended prominence.  The featured image was captured two days ago from this constantly changing region. Yesterday, the strongest solar flare in years was expelled (not shown), a blast classified in the upper X-class. Ultraviolet light from that flare quickly hit the Earth's atmosphere and caused shortwave radio blackouts across both North and South America. Although now rotated to be facing slightly away from the Earth, particles from AR 3664 and subsequent coronal mass ejections (CMEs) might still follow curved magnetic field lines across the inner Solar System and create more Earthly auroras.    Gallery: Earth Aurora from Solar Active Region 6443</p>
+        <h4>Aurora Banks Peninsula</h4>
+        <time>2024-05-17</time>
+        <p>This well-composed composite panoramic view looks due south from Banks Peninsula near Christchurch on New Zealand's South Island. The base of a tower-like rocky sea stack is awash in the foreground, with stars of the Southern Cross at the top of the frame and planet Earth's south celestial pole near center. Still, captured on May 11, vibrant aurora australis dominate the starry southern sea and skyscape. The shimmering southern lights were part of extensive auroral displays that entertained skywatchers in northern and southern hemispheres around planet Earth, caused by intense geomagnetic storms. The extreme spaceweather was triggered by the impact of coronal mass ejections launched from powerful solar active region AR 3664.   AuroraSaurus: Report your aurora observations</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
