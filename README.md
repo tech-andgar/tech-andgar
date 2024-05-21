@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti1024.jpg" width="500" height="500" alt="2024-05-18 North Celestial Aurora NASA">
+    <a href="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2405/AuroraWisconsin_Liu_960.jpg" width="500" height="500" alt="2024-05-20 Aurora Dome Sky NASA">
     </a>
     <div>
-        <h4>North Celestial Aurora</h4>
-        <time>2024-05-18</time>
-        <p>Graceful star trail arcs reflect planet Earth's daily rotation in this colorful night skyscape. To create the timelapse composite, on May 12 consecutive exposures were recorded with a camera fixed to a tripod on the shores of the Ashokan Reservoir, in the Catskills region of New York, USA. North star Polaris is near the center of the star trail arcs. The broad trail of a waxing crescent Moon is on the left, casting a strong reflection across the reservoir waters. With intense solar activity driving recent geomagnetic storms, the colorful aurora borealis or northern lights, rare to the region, shine under Polaris and the north celestial pole.   AuroraSaurus: Report your aurora observations</p>
+        <h4>Aurora Dome Sky</h4>
+        <time>2024-05-20</time>
+        <p>It seemed like night, but part of the sky glowed purple.  It was the now famous night of May 10, 2024, when people over much of the world reported beautiful aurora-filled skies. The featured image was captured this night during early morning hours from Arlington, Wisconsin, USA. The panorama is a composite of several 6-second exposures covering two thirds of the visible sky, with north in the center, and processed to heighten the colors and remove electrical wires. The photographer (in the foreground) reported that the aurora appeared to flow from a point overhead but illuminated the sky only toward the north. The aurora's energetic particles originated from CMEs ejected from our Sun over sunspot AR 3664 a few days before. This large active region rotated to the far side of the Sun last week, but may well survive to rotate back toward the Earth next week.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
