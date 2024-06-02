@@ -28,7 +28,7 @@
 <!-- ✨ <b>Work Domain:</b> SaaS, Mobile Solutions (App, AR), Cloud Solutions (CRM, ERP, HRM), mobile Sales Force Automation (mSFA)
 -->
 
-✨ **Industries:** Offshore IT Industry, Digital Agency, Education, Finance.
+✨ **Industries:** Offshore IT Industry, Digital Agency, Health, Education, Finance.
 
 Things you should know -
 
