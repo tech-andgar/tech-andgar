@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg" width="500" height="500" alt="2024-06-15 Prominences and Filaments on the Active Sun NASA">
+    <a href="https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2406/SquidOu4_Linde_960.jpg" width="500" height="500" alt="2024-06-17 Ou4: The Giant Squid Nebula NASA">
     </a>
     <div>
-        <h4>Prominences and Filaments on the Active Sun</h4>
-        <time>2024-06-15</time>
-        <p>This colorized and digitally sharpened image of the Sun is composed of frames recording emission from hydrogen atoms in the solar chromosphere on May 15. Approaching the maximum of solar cycle 25, a multitude of planet-dwarfing active regions and twisting, snake-like solar filaments are seen to sprawl across the surface of the active Sun.  Suspended in the active regions' strong magnetic fields, the filaments of plasma lofted beyond the Sun's edge appear as bright solar prominences. The large prominences seen near 4 o'clock, and just before 9 o'clock around the solar limb are post flare loops from two powerful X-class solar flares that both occurred on that day. In fact, the 4 o'clock prominence is associated with the monster active region AR 3664 just rotating off the Sun's edge.</p>
+        <h4>Ou4: The Giant Squid Nebula</h4>
+        <time>2024-06-17</time>
+        <p>Squids on Earth aren't this big.  This mysterious squid-like cosmic cloud spans nearly three full moons on planet Earth's sky. Discovered in 2011 by French astro-imager Nicolas Outters, the Squid Nebula's bipolar shape is distinguished here by the telltale blue emission from doubly ionized oxygen atoms. Though apparently surrounded by the reddish hydrogen emission region Sh2-129, the true distance and nature of the Squid Nebula have been difficult to determine. Still, one investigation suggests Ou4 really does lie within Sh2-129 some 2,300 light-years away. Consistent with that scenario, the cosmic squid would represent a spectacular outflow of material driven by a triple system of hot, massive stars, cataloged as HR8119, seen near the center of the nebula. If so, this truly giant squid nebula would physically be over 50 light-years across.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
