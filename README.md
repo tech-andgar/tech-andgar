@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg" width="500" height="500" alt="2024-06-25 The Dark Doodad Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png">
+      <img src="https://apod.nasa.gov/apod/image/2406/STScI-SerpNorth1024.png" width="500" height="500" alt="2024-06-27 Protostellar Outflows in Serpens NASA">
     </a>
     <div>
-        <h4>The Dark Doodad Nebula</h4>
-        <time>2024-06-25</time>
-        <p>What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster's upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).</p>
+        <h4>Protostellar Outflows in Serpens</h4>
+        <time>2024-06-27</time>
+        <p>Jets of material blasting from newborn stars, are captured in this James Webb Space Telescope close-up of the Serpens Nebula. The powerful protostellar outflows are bipolar, twin jets spewing in opposite directions. Their directions are perpendicular to accretion disks formed around the spinning, collapsing stellar infants. In the NIRcam image, the reddish color represents emission from molecular hydrogen and carbon monoxide produced as the jets collide with the surrounding gas and dust. The sharp image shows for the first time that individual outflows detected in the Serpens Nebula are generally aligned along the same direction. That result was expected, but has only now come into clear view with Webb's detailed exploration of the active young star-forming region. Brighter foreground stars exhibit Webb's characteristic diffraction spikes. At the Serpens Nebula's estimated distance of 1,300 light-years, this cosmic close-up frame is about 1 light-year across.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
