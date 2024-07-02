@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg" width="500" height="500" alt="2024-06-29 A Solstice Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2407/TimeSpiral_Budassi_960.jpg" width="500" height="500" alt="2024-07-01 Time Spiral NASA">
     </a>
     <div>
-        <h4>A Solstice Moon</h4>
-        <time>2024-06-29</time>
-        <p>Rising opposite the setting Sun, June's Full Moon occurred within about 28 hours of the solstice. The Moon stays close to the Sun's path along the ecliptic plane and so while the solstice Sun climbed high in daytime skies, June's Full Moon remained low that night as seen from northern latitudes. In fact, the Full Moon hugs the horizon in this June 21 rooftop night sky view from Bursa, Turkey, constructed from exposures made every 10 minutes between moonrise and moonset. In 2024 the Moon also reached a major lunar standstill, an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon's orbit over an 18.6 year cycle. As a result, this June solstice Full Moon was at its southernmost moonrise and moonset along the horizon.</p>
+        <h4>Time Spiral</h4>
+        <time>2024-07-01</time>
+        <p>What's happened since the universe started? The time spiral shown here features a few notable highlights. At the spiral's center is the Big Bang, the place where time, as we know it, began about 13.8 billion years ago. Within a few billion years atoms formed, then stars formed from atoms, galaxies formed from stars and gas, our Sun formed, soon followed by our Earth, about 4.6 billion years ago.  Life on Earth begins about 3.8 billion years ago, followed by cells, then photosynthesis within a billion years.  About 1.7 billion years ago, multicellular life on Earth began to flourish.  Fish began to swim about 500 million years ago, and mammals began walking on land about 200 million years ago. Humans first appeared only about 6 million years ago, and made the first cities only about 10,000 years ago.  The time spiral illustrated stops there, but human spaceflight might be added, which started only 75 years ago, and useful artificial intelligence began to take hold within only the past few years.   Explore Your Universe: Random APOD Generator</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
