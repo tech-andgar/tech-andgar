@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg" width="500" height="500" alt="2024-07-16 Cometary Globules NASA">
+    <a href="https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_1024p.jpg" width="500" height="500" alt="2024-07-19 Anticrepuscular Rays at the Planet Festival NASA">
     </a>
     <div>
-        <h4>Cometary Globules</h4>
-        <time>2024-07-16</time>
-        <p>What are these unusual interstellar structures? Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Pupis and Vela. Composed of interstellar gas and dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars, whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (on the upper left) sports a small reddish glow near its head, a telltale sign of energetic jets from a star in the early stages of formation.</p>
+        <h4>Anticrepuscular Rays at the Planet Festival</h4>
+        <time>2024-07-19</time>
+        <p>For some, these subtle bands of light and shadow stretched across the sky as the Sun set on July 11. Known as anticrepuscular rays, the bands are formed as a large cloud bank near the western horizon cast long shadows through the atmosphere at sunset. Due to the camera's perspective, the bands of light and shadow seem to converge toward the eastern (opposite) horizon at a point seen just above a 14th century hilltop castle in Brno, Czech Republic. In the foreground, denizens of planet Earth are enjoying the region's annual Planet Festival in the park below the Brno Observatory and Planetarium. And while crepuscular and anticrepuscular rays are a relatively common atmospheric phenomenon, this festival's 10 meter diameter inflatable spheres representing bodies of the Solar System are less often seen on planet Earth.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
