@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2407/MoonSaturnOcc_Xu20240725_1024.jpg" width="500" height="500" alt="2024-07-27 Saturn at the Moon's Edge NASA">
+    <a href="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2407/UluruMilkyWay_Inwood_960.jpg" width="500" height="500" alt="2024-07-29 Milky Way over Uluru NASA">
     </a>
     <div>
-        <h4>Saturn at the Moon's Edge</h4>
-        <time>2024-07-27</time>
-        <p>Saturn now rises before midnight in planet Earth's sky. On July 24, the naked-eye planet was in close conjunction, close on the sky, to a waning gibbous Moon. But from some locations on planet Earth the ringed gas giant was occulted, disappearing behind the Moon for about an hour from skies over parts of Asia and Africa. Because the Moon and bright planets wander through the sky near the ecliptic plane, such occultation events are not uncommon, but they can be dramatic. In this telescopic view from Nanjing, Jiangsu, China, Saturn is caught moments before its disappearance behind the lunar disk. The snapshot gives the illusion that Saturn hangs just above Glushko crater, a 43 kilometer diameter, young, ray crater near the Moon's western edge. Of course, the Moon is 400 thousand kilometers away, compared to Saturn's distance of 1.4 billion kilometers.</p>
+        <h4>Milky Way over Uluru</h4>
+        <time>2024-07-29</time>
+        <p>What's happening above Uluru?  A United Nations World Heritage Site, Uluru  is an extraordinary 350-meter high mountain in central Australia that rises sharply from nearly flat surroundings. Composed of sandstone, Uluru has slowly formed over the past 300 million years as softer rock eroded away.  The Uluru region has been a home to humans for over 22,000 years. Recorded  last month, the starry sky above Uluru includes the central band of our Milky Way galaxy, complete with complex dark filaments of dust, bright red emission nebulas, and billions of stars.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
