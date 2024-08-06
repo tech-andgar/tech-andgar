@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png">
-      <img src="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png" width="500" height="500" alt="2024-08-03 Glory and Fog Bow NASA">
+    <a href="https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg" width="500" height="500" alt="2024-08-05 Milky Way Over Tunisia NASA">
     </a>
     <div>
-        <h4>Glory and Fog Bow</h4>
-        <time>2024-08-03</time>
-        <p>On a road trip up Mount Uludağ in Bursa province, Turkey these motorcyclists found themselves above low clouds and fog in late June. With the bright Sun directly behind them, the view down the side of the great mountain revealed a beautiful, atmospheric glory and fog bow. Known to some as the heiligenschein or the Specter of the Brocken, a glory can also sometimes be seen from airplanes or even high buildings. It often appears to be a dark giant surrounded by a bright halo. Of course the dark giant is just the shadow of the observer (90MB video) cast opposite the Sun. The clouds and fog are composed of very small water droplets, smaller than rain drops, that refract and reflect sunlight to create the glory's colorful halo and this more extensive fog bow.</p>
+        <h4>Milky Way Over Tunisia</h4>
+        <time>2024-08-05</time>
+        <p>That's no moon. On the ground, that's the Lars Homestead in Tunisia. And that's not just any galaxy. That's the central band of our own Milky Way galaxy. Last, that's not just any meteor. It is a bright fireball likely from last year's Perseids meteor shower. The featured image composite combines consecutive exposures taken by the same camera from the same location.  This year's Perseids peak during the coming weekend is expected to show the most meteors after the first quarter moon sets, near midnight.  To best experience a meteor shower, you should have clear and dark skies, a comfortable seat, and patience.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
