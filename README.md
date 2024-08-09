@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2408/DolomitesSky_Lioce_960.jpg" width="500" height="500" alt="2024-08-07 Milky Way Behind Three Merlons NASA">
+    <a href="https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2408/Rhemann799_109P_24_11_92_1100px.jpg" width="500" height="500" alt="2024-08-08 Periodic Comet Swift-Tuttle NASA">
     </a>
     <div>
-        <h4>Milky Way Behind Three Merlons</h4>
-        <time>2024-08-07</time>
-        <p>To some, they look like battlements, here protecting us against the center of the Milky Way. The Three Merlons, also called the Three Peaks of Lavaredo, stand tall today because they are made of dense dolomite rock which has better resisted erosion than surrounding softer rock. They formed about 250 million years ago and so are comparable in age with one of the great extinctions of life on Earth. A leading hypothesis is that this great extinction was triggered by an asteroid about 10-km across, larger in size than Mount Everest, impacting the Earth. Humans have gazed up at the stars in the Milky Way and beyond for centuries, making these battlefield-like formations, based in the Sexten Dolomites, a popular place for current and ancient astronomers.</p>
+        <h4>Periodic Comet Swift-Tuttle</h4>
+        <time>2024-08-08</time>
+        <p>A Halley-type comet with an orbital period of about 133 years, Comet 109P/Swift-Tuttle is recognized as the parent of the annual Perseid Meteor Shower. The comet's last visit to the inner Solar System was in 1992. Then, it did not become easily visible to the naked eye, but it did become bright enough to see from most locations with binoculars and small telescopes. This stunning color image of Swift-Tuttle's greenish coma, long ion tail and dust tail was recorded using film on November 24, 1992. That was about 16 days after the large periodic comet's closest approach to Earth. Comet Swift-Tuttle is expected to next make an impressive appearance in night skies in 2126. Meanwhile, dusty cometary debris left along the orbit of Swift-Tuttle will continue to be swept up creating planet Earth's best-known July and August meteor shower.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
