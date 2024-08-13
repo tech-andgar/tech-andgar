@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2408/M20OriginalLRGBHaO3S2_1024x735.jpg" width="500" height="500" alt="2024-08-10 The Light, Dark, and Dusty Trifid NASA">
+    <a href="https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2408/PerseidsStonehenge_Dury_960.jpg" width="500" height="500" alt="2024-08-12 Perseid Meteors over Stonehenge NASA">
     </a>
     <div>
-        <h4>The Light, Dark, and Dusty Trifid</h4>
-        <time>2024-08-10</time>
-        <p>Messier 20, popularly known as the Trifid Nebula, lies about 5,000 light-years away toward the nebula rich constellation Sagittarius. A star forming region in the plane of our galaxy, the Trifid does illustrate three different types of astronomical nebulae; red emission nebulae dominated by light from hydrogen atoms, blue reflection nebulae produced by dust reflecting starlight, and dark nebulae where dense dust clouds appear in silhouette. The reddish emission region, roughly separated into three parts by obscuring dust lanes, is what lends the Trifid its popular name. The cosmic cloud complex is over 40 light-years across and would cover the area of a full moon on planet Earth's sky. But the Trifid Nebula is too faint to be seen by the unaided eye. Over 75 hours of image data captured under dark night skies was used to create this stunning telescopic view.  Watch: The Perseid Meteor Shower</p>
+        <h4>Perseid Meteors over Stonehenge</h4>
+        <time>2024-08-12</time>
+        <p>What's happening in the sky above Stonehenge? A meteor shower: specifically, the Perseid meteor shower. A few nights ago, after the sky darkened, many images of meteors from this year's Perseids were captured separately and merged into a single frame. Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera. The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertical through the image center. The featured image was taken from Wiltshire, England, being careful to include, at the bottom, the famous astronomical monument of Stonehenge. Although the Perseids peaked last night, some Perseid meteors should still be visible for a few more nights.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
