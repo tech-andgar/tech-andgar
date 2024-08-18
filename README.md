@@ -323,11 +323,11 @@ Things you should know -
   <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Error Handling in Dart: Should You Use `try/catch`, Return Values, or Functional Approaches?](https://tech-andgar.me/posts/dart-try-catch-vs-records-values-vs-functional-approaches-for-error-handling/)
 - [Talks](https://tech-andgar.me/talks/)
 - [`http_status` Dart Package: A Comprehensive Guide](https://tech-andgar.me/posts/dart-http_status-package/)
 - [Dart - Use late allocation if possible](https://tech-andgar.me/posts/dart-late-keyword/)
 - [Flutter Test Coverage](https://tech-andgar.me/posts/flutter-test-coverage/)
-- [About](https://tech-andgar.me/about/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
