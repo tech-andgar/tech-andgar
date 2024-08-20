@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg" width="500" height="500" alt="2024-08-17 Sky Full of Arcs NASA">
+    <a href="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg" width="500" height="500" alt="2024-08-19 IC 5146: The Cocoon Nebula NASA">
     </a>
     <div>
-        <h4>Sky Full of Arcs</h4>
-        <time>2024-08-17</time>
-        <p>On August 11 a Rocket Lab Electron rocket launched from a rotating planet. With a small satellite on board its mission was dubbed A Sky Full of SARs (Synthetic Aperture Radar satellites), departing for low Earth orbit from Mahia Peninsula on New Zealand's north island. The fiery trace of the Electron's graceful launch arc is toward the east in this southern sea and skyscape, a composite of 50 consecutive frames taken over 2.5 hours. Fixed to a tripod, the camera was pointing directly at the South Celestial Pole, the extension of planet Earth's axis of rotation in to space. But no bright star marks that location in the southern hemisphere's night sky. Still, the South Celestial Pole is easy to spot. It lies at the center of the concentric star trail arcs that fill the skyward field of view.   Gallery: Perseid Meteor Shower 2024 and Aurorae</p>
+        <h4>IC 5146: The Cocoon Nebula</h4>
+        <time>2024-08-19</time>
+        <p>Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
