@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2408/EnceladusStripes_Cassini_960.jpg" width="500" height="500" alt="2024-08-25 Fresh Tiger Stripes on Saturn's Enceladus NASA">
+    <a href="https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2408/MoonEclipsesSaturn_Sanz_960.jpg" width="500" height="500" alt="2024-08-27 Moon Eclipses Saturn NASA">
     </a>
     <div>
-        <h4>Fresh Tiger Stripes on Saturn's Enceladus</h4>
-        <time>2024-08-25</time>
-        <p>Do underground oceans vent through canyons on Saturn's moon Enceladus?  Long features dubbed tiger stripes are known to be spewing ice from the moon's icy interior into space, creating a cloud of fine ice particles over the moon's South Pole and creating Saturn's mysterious E-ring.  Evidence for this has come from the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Pictured here, a high resolution image of Enceladus is shown from a close flyby.  The unusual surface features dubbed tiger stripes are visible in false-color blue.  Why Enceladus is active remains a mystery, as the neighboring moon Mimas, approximately the same size, appears quite dead. An analysis of ejected ice grains has yielded evidence that complex organic molecules exist inside Enceladus. These large carbon-rich molecules bolster -- but do not prove -- that oceans under Enceladus' surface could contain life.   Explore Your Universe: Random APOD Generator</p>
+        <h4>Moon Eclipses Saturn</h4>
+        <time>2024-08-27</time>
+        <p>What if Saturn disappeared?  Sometimes, it does.  It doesn't really go away, though, it just disappears from view when our Moon moves in front.  Such a Saturnian eclipse, more formally called an occultation, was visible along a long swath of Earth -- from Peru, across the Atlantic Ocean, to Italy -- only a few days ago.  The featured color image is a digital fusion of the clearest images captured during the event and rebalanced for color and relative brightness between the relatively dim Saturn and the comparatively bright Moon. Saturn and the comparative bright Moon.  The exposures were all taken from Breda, Catalonia, Spain, just before occultation. Eclipses of Saturn by our Moon will occur each month for the rest of this year. Each time, though, the fleeting event will be visible only to those with clear skies -- and the right location on Earth.   Gallery: Moon Eclipses Saturn in August 2024</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
