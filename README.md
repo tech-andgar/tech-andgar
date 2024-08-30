@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2408/Tulip_Shastry_1080.jpg" width="500" height="500" alt="2024-08-28 Tulip Nebula and Black Hole Cygnus X-1 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg" width="500" height="500" alt="2024-08-29 Star Factory Messier 17 NASA">
     </a>
     <div>
-        <h4>Tulip Nebula and Black Hole Cygnus X-1</h4>
-        <time>2024-08-28</time>
-        <p>When can you see a black hole, a tulip, and a swan all at once? At night -- if the timing is right, and if your telescope is pointed in the right direction.  The complex and beautiful Tulip Nebula blossoms about 8,000 light-years away toward the constellation of Cygnus the Swan.  Ultraviolet radiation from young energetic stars at the edge of the Cygnus OB3 association, including O star HDE 227018, ionizes the atoms and powers the emission from the Tulip Nebula.  Stewart Sharpless cataloged this nearly 70 light-years across reddish glowing cloud of interstellar gas and dust in 1959, as Sh2-101. Also in the featured field of view is the black hole Cygnus X-1, which is also a microquasar because it is one of strongest X-ray sources in planet Earth's sky. Blasted by powerful jets from a lurking black hole, its fainter bluish curved shock front is only faintly visible beyond the cosmic Tulip's petals, near the right side of the frame.   Back to School? Learn Science with NASA</p>
+        <h4>Star Factory Messier 17</h4>
+        <time>2024-08-29</time>
+        <p>A nearby star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1.5 degree wide field-of-view would span about 150 light-years. In the sharp color composite image faint details of the region's gas and dust clouds are highlighted with narrowband image data against a backdrop of central Milky Way stars. The stellar winds and energetic radiation from hot, massive stars already formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the nebula's cavernous appearance and the undulating shapes within. A popular stop on telescopic tours of the cosmos, M17 is also known as the Omega or the Swan Nebula.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
