@@ -16,3 +16,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://tech-andgar.me/index.xml"
+          user_agent: 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
+          item_exec: "if (!post.title) post = null;" #to skip post that dont have title
+
