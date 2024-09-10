@@ -18,4 +18,5 @@ jobs:
           feed_list: "https://tech-andgar.me/index.xml"
           user_agent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.6613.113 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
           item_exec: "if (!post.title) post = null;" #to skip post that dont have title
+          disable_item_validation: "true"
 
