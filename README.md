@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/NGC1333Webb1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2409/NGC1333Webb1024.jpg" width="500" height="500" alt="2024-09-12 Young Star Cluster NGC 1333 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg" width="500" height="500" alt="2024-09-13 Aurora Australis and the International Space Station NASA">
     </a>
     <div>
-        <h4>Young Star Cluster NGC 1333</h4>
-        <time>2024-09-12</time>
-        <p>This spectacular mosaic of images from the James Webb Space Telescope peers into the heart of young star cluster NGC 1333. A mere 1,000 light-years distant toward the heroic constellation Perseus, the nearby star cluster lies at the edge of the large Perseus molecular cloud. Part of Webb's deep exploration of the region to identify low mass brown dwarf stars and free floating planets, the space telescope's combined field of view spans nearly 2 light-years across the dusty cluster's turbulent stellar nursery. In fact, NGC 1333 is known to harbor stars less than a million years old, though most are hidden from optical telescopes by the pervasive stardust. The chaotic environment may be similar to one in which our own Sun formed over 4.5 billion years ago.</p>
+        <h4>Aurora Australis and the International Space Station</h4>
+        <time>2024-09-13</time>
+        <p>This snapshot from the International Space Station was taken on August 11 while orbiting about 430 kilometers above the Indian Ocean, Southern Hemisphere, planet Earth. The spectacular view looks south and east, down toward the planet's horizon and through red and green curtains of aurora australis. The auroral glow is caused by emission from excited oxygen atoms in the extremely rarefied upper atmosphere still present at the level of the orbiting outpost. Green emission from atomic oxygen dominates this scene at altitudes of 100 to 250 kilometers, while red emission from atomic oxygen can extend as high as 500 kilometers altitude. Beyond the glow of these southern lights, this view from low Earth orbit reveals the starry sky from a southern hemisphere perspective. Stars in Orion's belt and the Orion Nebula are near the Earth's limb just left of center. Sirius, alpha star of Canis Major and brightest star in planet Earth's night is above center along the right edge of the southern orbital skyscape.  Looking Up: International Observe the Moon Night</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
