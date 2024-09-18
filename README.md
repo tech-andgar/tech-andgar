@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2409/MercuryCaloris_BepiColombo_960.jpg" width="500" height="500" alt="2024-09-16 Mercury's Vivaldi Crater from BepiColombo NASA">
+    <a href="https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2409/HeartMelotte_McInnis_960.jpg" width="500" height="500" alt="2024-09-17 Melotte 15 in the Heart Nebula NASA">
     </a>
     <div>
-        <h4>Mercury's Vivaldi Crater from BepiColombo</h4>
-        <time>2024-09-16</time>
-        <p>Why does this large crater on Mercury have two rings and a smooth floor?  No one is sure.  The unusual feature called Vivaldi Crater spans 215 kilometers and was imaged again in great detail by ESA's and JAXA's robotic BepiColombo spacecraft on a flyby earlier this month. A large circular feature on a rocky planet or moon is usually caused by either an impact by a small asteroid or a comet fragment, or a volcanic eruption. In the case of Vivaldi, it is possible that both occurred -- a heavy strike that caused a smooth internal lava flow.  Double-ringed craters are rare, and the cause of the inner rings remains a topic of research.  The speed-slowing gravity-assisted flyby of Mercury by BepiColombo was in preparation for the spacecraft entering orbit around the Solar System's innermost planet in 2026.</p>
+        <h4>Melotte 15 in the Heart Nebula</h4>
+        <time>2024-09-17</time>
+        <p>Cosmic clouds form fantastic shapes in the central regions of emission nebula IC 1805. The clouds are sculpted by stellar winds and radiation from massive hot stars in the nebula's newborn star cluster, Melotte 15. About 1.5 million years young, the cluster stars are scattered in this colorful skyscape, along with dark dust clouds in silhouette against glowing atomic gas. A composite of narrowband and broadband telescopic images, the view spans about 15 light-years and includes emission from ionized hydrogen, sulfur, and oxygen atoms mapped to green, red, and blue hues in the popular Hubble Palette. Wider field images reveal that IC 1805's simpler, overall outline suggests its popular name - the Heart Nebula. IC 1805 is located about 7,500 light years away toward the boastful constellation Cassiopeia.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
