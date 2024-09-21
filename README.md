@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2409/LDN1082_px1024.jpg" width="500" height="500" alt="2024-09-19 The Dark Seahorse of Cepheus NASA">
+    <a href="https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1024c.png">
+      <img src="https://apod.nasa.gov/apod/image/2409/2024_09_18_ZM_Spis_50mm-Pano_Postupka_1024c.png" width="500" height="500" alt="2024-09-20 A Hazy Harvest Moon NASA">
     </a>
     <div>
-        <h4>The Dark Seahorse of Cepheus</h4>
-        <time>2024-09-19</time>
-        <p>Spanning light-years, this suggestive shape known as the Seahorse Nebula floats in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, dark nebula is part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful Milky Way stars of Cepheus add to this stunning galactic skyscape.   Growing Gallery: This week's supermoon eclipse</p>
+        <h4>A Hazy Harvest Moon</h4>
+        <time>2024-09-20</time>
+        <p>For northern hemisphere dwellers, September's Full Moon was the Harvest Moon. On September 17/18 the sunlit lunar nearside passed into shadow, just grazing Earth's umbra, the planet's dark, central shadow cone, in a partial lunar eclipse. Over the two and half hours before dawn a camera fixed to a tripod was used to record this series of exposures as the eclipsed Harvest Moon set behind Spiš Castle in the hazy morning sky over eastern Slovakia. Famed in festival, story, and song, Harvest Moon is just the traditional name of the full moon nearest the autumnal equinox.  According to lore the name is a fitting one. Despite the diminishing daylight hours as the growing season drew to a close, farmers could harvest crops by the light of a full moon shining on from dusk to dawn. This September's Harvest Moon was also known to some as a supermoon, a term becoming a traditional name for a full moon near perigee.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
