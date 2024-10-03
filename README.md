@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg" width="500" height="500" alt="2024-09-30 Comet Tsuchinshan-ATLAS over Mexico NASA">
+    <a href="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg" width="500" height="500" alt="2024-10-02 The Large Magellanic Cloud Galaxy NASA">
     </a>
     <div>
-        <h4>Comet Tsuchinshan-ATLAS over Mexico</h4>
-        <time>2024-09-30</time>
-        <p>The new comet has passed its closest to the Sun and is now moving closer to the Earth. C/2023 A3 (Tsuchinshan–ATLAS) is currently moving out from inside the orbit of Venus and on track to pass its nearest to the Earth in about two weeks.  Comet Tsuchinshan-ATLAS, pronounced "Choo-cheen-shahn At-less,", is near naked-eye visibility and easily picked up by long-exposure cameras.  The comet can also now be found by observers in Earth's northern hemisphere as well as the south.  The featured image was captured just a few days ago above Zacatecas, Mexico. Because clouds were obscuring much of the pre-dawn sky, the astrophotographer released a drone to take pictures from higher up, several of which were later merged to enhance the comet's visibility. Although the future brightness of comets is hard to predict, there is increasing hope that Comet Tsuchinshan-ATLAS will further brighten as it enters the early evening sky.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</p>
+        <h4>The Large Magellanic Cloud Galaxy</h4>
+        <time>2024-10-02</time>
+        <p>It is the largest satellite galaxy of our home Milky Way Galaxy. If you live in the south, the Large Magellanic Cloud (LMC) is quite noticeable, spanning about 10 degrees across the night sky, which is 20 times larger than the full moon towards the southern constellation of the dolphinfish (Dorado). Being only about 160,000 light years away, many details of the LMC's structure can be seen, such as its central bar and its single spiral arm. The LMC harbors numerous stellar nurseries where new stars are being born, which appear in pink in the featured image. It is home to the Tarantula Nebula, the currently most active star forming region in the entire Local Group, a small collection of nearby galaxies dominated by the massive Andromeda and Milky Way galaxies. Studies of the LMC and the Small Magellanic Cloud (SMC) by Henrietta Swan Leavitt led to the discovery of the period-luminosity relationship of Cepheid variable stars that are used to measure distances across the nearby universe.   Survey: Color Blindness and Astronomical Images</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
