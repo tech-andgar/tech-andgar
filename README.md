@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg" width="500" height="500" alt="2024-10-12 Northern Lights, West Virginia NASA">
+    <a href="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg" width="500" height="500" alt="2024-10-14 Comet Tsuchinshan-ATLAS Over the Lincoln Memorial NASA">
     </a>
     <div>
-        <h4>Northern Lights, West Virginia</h4>
-        <time>2024-10-12</time>
-        <p>A gravel country lane gently winds through this colorful rural night skyscape. Captured from Monroe County in southern West Virginia on the evening of October 10, the starry sky above is a familiar sight. Shimmering curtains of aurora borealis or northern lights definitely do not make regular appearances here, though. Surprisingly vivid auroral displays were present on that night at very low latitudes around the globe, far from their usual northern and southern high latitude realms. The extensive auroral activity was evidence of a severe geomagnetic storm triggered by the impact of a coronal mass ejection (CME), an immense magnetized cloud of energetic plasma. The CME was launched toward Earth from the active Sun following a powerful X-class solar flare.   Growing Gallery: Global aurora during October 10/11, 2024</p>
+        <h4>Comet Tsuchinshan-ATLAS Over the Lincoln Memorial</h4>
+        <time>2024-10-14</time>
+        <p>Go outside at sunset tonight and see a comet!  C/2023 A3 (Tsuchinshan–ATLAS) has become visible in the early evening sky in northern locations to the unaided eye. To see the comet, look west through a sky with a low horizon. If the sky is clear and dark enough, you will not even need binoculars -- the faint tail of the comet should be visible just above the horizon for about an hour.  Pictured, Comet Tsuchinshan-ATLAS was captured two nights ago over the Lincoln Memorial monument in Washington, DC, USA.  With each passing day at sunset, the comet and its changing tail should be higher and higher in the sky, although exactly how bright and how long its tails will be can only be guessed.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
