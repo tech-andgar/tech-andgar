@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg" width="500" height="500" alt="2024-10-14 Comet Tsuchinshan-ATLAS Over the Lincoln Memorial NASA">
+    <a href="https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2410/AuroraNz_McDonald_1080.jpg" width="500" height="500" alt="2024-10-16 Colorful Aurora over New Zealand NASA">
     </a>
     <div>
-        <h4>Comet Tsuchinshan-ATLAS Over the Lincoln Memorial</h4>
-        <time>2024-10-14</time>
-        <p>Go outside at sunset tonight and see a comet!  C/2023 A3 (Tsuchinshan–ATLAS) has become visible in the early evening sky in northern locations to the unaided eye. To see the comet, look west through a sky with a low horizon. If the sky is clear and dark enough, you will not even need binoculars -- the faint tail of the comet should be visible just above the horizon for about an hour.  Pictured, Comet Tsuchinshan-ATLAS was captured two nights ago over the Lincoln Memorial monument in Washington, DC, USA.  With each passing day at sunset, the comet and its changing tail should be higher and higher in the sky, although exactly how bright and how long its tails will be can only be guessed.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</p>
+        <h4>Colorful Aurora over New Zealand</h4>
+        <time>2024-10-16</time>
+        <p>Sometimes the night sky is full of surprises. Take the sky over Lindis Pass, South Island, New Zealand one-night last week.  Instead of a typically calm night sky filled with constant stars, a busy and dynamic night sky appeared. Suddenly visible were pervasive red aurora, green picket-fence aurora, a red SAR arc, a STEVE, a meteor, and the Moon. These outshone the center of our Milky Way Galaxy and both of its two satellite galaxies: the LMC and SMC. All of these were captured together on 28 exposures in five minutes, from which this panorama was composed.  Auroras lit up many skies last week, as a Coronal Mass Ejection from the Sun unleashed a burst of particles toward our Earth that created colorful skies over latitudes usually too far from the Earth's poles to see them.  More generally, night skies this month have other surprises, showing not only auroras -- but comets.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
