@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg" width="500" height="500" alt="2024-10-22 M16: Pillars of Star Creation NASA">
+    <a href="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png">
+      <img src="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png" width="500" height="500" alt="2024-10-24 NGC 7293: The Helix Nebula NASA">
     </a>
     <div>
-        <h4>M16: Pillars of Star Creation</h4>
-        <time>2024-10-22</time>
-        <p>These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
+        <h4>NGC 7293: The Helix Nebula</h4>
+        <time>2024-10-24</time>
+        <p>A mere seven hundred light years from Earth toward the constellation Aquarius, a star is dying. The once sun-like star's last few thousand years have produced the Helix Nebula. Also known as NGC 7293, the cosmic Helix is a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  Combining narrow band data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, this deep image shows tantalizing details of the Helix, including its bright inner region about 3 light-years across. The white dot at the Helix's center is this Planetary Nebula's hot, dying central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
