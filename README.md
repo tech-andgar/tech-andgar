@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png">
-      <img src="https://apod.nasa.gov/apod/image/2410/NGC7293_preview1024.png" width="500" height="500" alt="2024-10-24 NGC 7293: The Helix Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg" width="500" height="500" alt="2024-10-25 Globular Star Cluster NGC 6752 NASA">
     </a>
     <div>
-        <h4>NGC 7293: The Helix Nebula</h4>
-        <time>2024-10-24</time>
-        <p>A mere seven hundred light years from Earth toward the constellation Aquarius, a star is dying. The once sun-like star's last few thousand years have produced the Helix Nebula. Also known as NGC 7293, the cosmic Helix is a well studied and nearby example of a Planetary Nebula, typical of this final phase of stellar evolution.  Combining narrow band data from emission lines of hydrogen atoms in red and oxygen atoms in blue-green hues, this deep image shows tantalizing details of the Helix, including its bright inner region about 3 light-years across. The white dot at the Helix's center is this Planetary Nebula's hot, dying central star. A simple looking nebula at first glance, the Helix is now understood to have a surprisingly complex geometry.</p>
+        <h4>Globular Star Cluster NGC 6752</h4>
+        <time>2024-10-25</time>
+        <p>Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri, 47 Tucanae, and Messier 22 as the fourth brightest globular in planet Earth's night sky. It holds over 100 thousand stars in a sphere about 100 light-years in diameter. Telescopic explorations of NGC 6752 have found that a remarkable fraction of the stars near the cluster's core, are multiple star systems. They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. The blue stragglers are thought to be formed by star mergers and collisions in the dense stellar environment at the cluster's core. This sharp color composite also features the cluster's ancient red giant stars in yellowish hues. (Note: The bright, spiky blue star about 8 o'clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
