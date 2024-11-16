@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/IC348_B3_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2411/IC348_B3_1024.jpg" width="500" height="500" alt="2024-11-14 IC 348 and Barnard 3 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2411/KF-ApAn48-7133-4_1024.jpg" width="500" height="500" alt="2024-11-15 Apollo 12 and Surveyor 3 NASA">
     </a>
     <div>
-        <h4>IC 348 and Barnard 3</h4>
-        <time>2024-11-14</time>
-        <p>A great nebulous region near bright star omicron Persei offers this study in cosmic contrasts.  Captured in the telescopic frame the colorful complex of dust, gas, and stars spans about 3 degrees on the sky along the edge of the Perseus molecular cloud some 1000 light-years away. Surrounded by a bluish halo of dust reflected starlight, omicron Persei itself is just left of center. Immediately below it lies the intriguing young star cluster IC 348 recently explored by the James Webb Space Telescope. In silhouette against the diffuse reddish glow of hydrogen gas, dark and obscuring interstellar dust cloud Barnard 3 is at upper right. Of course the cosmic dust also tends to hide newly formed stars and young stellar objects or protostars from prying optical telescopes. At the Perseus molecular cloud's estimated distance, this field of view would span about 50 light-years.</p>
+        <h4>Apollo 12 and Surveyor 3</h4>
+        <time>2024-11-15</time>
+        <p>Put on your red/blue glasses and gaze across the western Ocean of Storms on the surface of the Moon. The 3D anaglyph features Apollo 12 astronaut Pete Conrad visiting the Surveyor 3 spacecraft in November of 1969. Surveyor 3 had landed at the site on the inside slope of a small crater about 2 1/2 years earlier in April of 1967. Visible on the horizon beyond the far crater wall, Apollo 12's Lunar Module Intrepid touched down less than 200 meters (650 feet) away, easy moonwalking distance from the robotic Surveyor spacecraft. This stereo image was carefully created from two separate pictures (AS12-48-7133, AS12-48-7134) captured on the lunar surface. They depict the scene from only slightly different viewpoints, approximating the separation between human eyes.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
