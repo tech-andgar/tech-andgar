@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1024c.jpg" width="500" height="500" alt="2024-11-23 Interplanetary Earth NASA">
+    <a href="https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_960.jpg" width="500" height="500" alt="2024-11-25 The Horsehead Nebula NASA">
     </a>
     <div>
-        <h4>Interplanetary Earth</h4>
-        <time>2024-11-23</time>
-        <p>In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.</p>
+        <h4>The Horsehead Nebula</h4>
+        <time>2024-11-25</time>
+        <p>One of the most identifiable nebulas in the sky, the Horsehead Nebula in Orion, is part of a large, dark, molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead's neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula's base are young stars just in the process of forming.  Light takes about 1,500 years to reach us from the Horsehead Nebula.  The featured image was taken from the Chilescope Observatory in the mountains of Chile.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
