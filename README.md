@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg" width="500" height="500" alt="2024-11-26 The Sombrero Galaxy from Webb and Hubble NASA">
+    <a href="https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_960.jpg" width="500" height="500" alt="2024-11-27 The Meteor and the Comet NASA">
     </a>
     <div>
-        <h4>The Sombrero Galaxy from Webb and Hubble</h4>
-        <time>2024-11-26</time>
-        <p>This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy is one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in visible light (bottom panel) actually glows brightly in infrared light (top panel).  The featured image shows the infrared glow in false blue, recorded recently by the space-based James Webb Space Telescope (JWST) and released yesterday,  pictured above an archival image taken by NASA's Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo.</p>
+        <h4>The Meteor and the Comet</h4>
+        <time>2024-11-27</time>
+        <p>How different are these two streaks?  The streak on the upper right is Comet Tsuchinshan-Atlas showing an impressive dust tail. The comet is a large and dirty iceberg that entered the inner Solar System and is shedding gas and dust as it is warmed by the Sun's light. The streak on the lower left is a meteor showing an impressive evaporation trail.  The meteor is a small and cold rock that entered the Earth's atmosphere and is shedding gas and dust as it is warmed by molecular collisions.  The meteor was likely once part of a comet or asteroid -- perhaps later composing part of its tail.  The meteor was gone in a flash and was only caught by coincidence during a series of exposures documenting the comet's long tail. The featured image was captured just over a month ago from Sichuan Province in China.   Gallery: Comet Tsuchinshan-ATLAS in 2024</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
