@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg" width="500" height="500" alt="2024-12-02 NGC 300: A Galaxy of Stars NASA">
+    <a href="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg" width="500" height="500" alt="2024-12-03 Ice Clouds over a Red Planet NASA">
     </a>
     <div>
-        <h4>NGC 300: A Galaxy of Stars</h4>
-        <time>2024-12-02</time>
-        <p>This galaxy is unusual for how many stars it seems that you can see. Stars are so abundantly evident in this deep exposure of the spiral galaxy NGC 300 because so many of these stars are bright blue and grouped into resolvable bright star clusters.  Additionally, NGC 300 is so clear because it is one of the closest spiral galaxies to Earth, as light takes only about 6 million years to get here.  Of course, galaxies are composed of many more faint stars than bright, and even more of a galaxy's mass is attributed to unseen dark matter.  NGC 300 spans nearly the same amount of sky as the full moon and is visible with a small telescope toward the southern constellation of the Sculptor. The featured image was captured in October from Rio Hurtado, Chile and is a composite of over 20 hours of exposure.</p>
+        <h4>Ice Clouds over a Red Planet</h4>
+        <time>2024-12-03</time>
+        <p>If you could stand on Mars -- what might you see?  You might look out over a vast orange landscape covered with rocks under a dusty orange sky, with a blue-tinted Sun over the horizon, and odd-shaped water clouds hovering high overhead. This was just the view captured last March by NASA's rolling explorer,  Perseverance. The orange coloring is caused by rusted iron in the Martian dirt, some of which is small enough to be swept up by winds into the atmosphere. The blue tint near the rising Sun is caused by blue light being preferentially scattered out from the Sun by the floating dust. The light-colored clouds on the right are likely composed of water-ice and appear high in the Martian atmosphere.  The shapes of some of these clouds are unusual for Earth and remain a topic of research.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
