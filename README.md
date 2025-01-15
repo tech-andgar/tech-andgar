@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/Mimas_Cassini_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2501/Mimas_Cassini_960.jpg" width="500" height="500" alt="2025-01-12 Mimas: Small Moon with a Big Crater NASA">
+    <a href="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg" width="500" height="500" alt="2025-01-14 North Star: Polaris and Surrounding Dust NASA">
     </a>
     <div>
-        <h4>Mimas: Small Moon with a Big Crater</h4>
-        <time>2025-01-12</time>
-        <p>Whatever hit Mimas nearly destroyed it.  What remains is one of the largest impact craters on one of Saturn's smallest round moons.  Analysis indicates that a slightly larger impact would have destroyed Mimas entirely.  The huge crater, named Herschel after the 1789 discoverer of Mimas, Sir William Herschel, spans about 130 kilometers and is featured here. Mimas' low mass produces a surface gravity just strong enough to create a spherical body but weak enough to allow such relatively large surface features. Mimas is made of mostly water ice with a smattering of rock - so it is accurately described as a big dirty snowball. The featured image was taken during the closest-ever flyby of the robot spacecraft Cassini past Mimas in 2010 while in orbit around Saturn.    Interactive: Take a trek across Mimas  January 14: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</p>
+        <h4>North Star: Polaris and Surrounding Dust</h4>
+        <time>2025-01-14</time>
+        <p>Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the five-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame. The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Today: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
