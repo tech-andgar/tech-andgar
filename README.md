@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2501/MarsLOc_Jan13_1024c.jpg" width="500" height="500" alt="2025-01-18 Full Moon, Full Mars NASA">
+    <a href="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg" width="500" height="500" alt="2025-01-20 Comet ATLAS Rounds the Sun NASA">
     </a>
     <div>
-        <h4>Full Moon, Full Mars</h4>
-        <time>2025-01-18</time>
-        <p>On January 13 a Full Moon and a Full Mars were close, both bright and opposite the Sun in planet Earth's sky. In fact Mars was occulted, passing behind the Moon, when viewed from some locations in North America and northwest Africa.  As seen from Richmond, Virginia, USA, this composite image sequence follows the evening lunar occultation before, during, and after the much anticipated celestial spectacle. The telescopic time series is constructed from an exposure made every two minutes while tracking the Moon over the hours encompassing the event. As a result, the Red Planet's trajectory seems to follow a gently curved path due to the Moon's slightly different rate of apparent motion. The next lunar occultation of bright planet Mars will be on February 9 when the moon is in a waxing gibbous phase. Lunar occultations are only ever visible from a fraction of the Earth's surface, though. The February 9 occultation of Mars will be seen from parts of Russia, China, eastern Canada, Greenland and other (mostly northern) locations, but a close conjunction of a bright Moon with Mars will be more widely visible from planet Earth.   Growing Gallery: Moon-Mars Occultation in January 2025</p>
+        <h4>Comet ATLAS Rounds the Sun</h4>
+        <time>2025-01-20</time>
+        <p>Why does Comet ATLAS have such colorful tails? Last week Comet C/2024 G3 (ATLAS) passed its closest to the Sun -- well inside the orbit of Mercury -- and brightened dramatically.  Unfortunately, the comet was then so angularly near the Sun that it was very hard for humans to see. But NASA's SOHO spacecraft saw it. Pictured is a SOHO (LASCO C3) image of Comet ATLAS that is a composite of several different color filters. Of the several tails visible, the central white tails are likely made of dust and just reflecting back sunlight. The red, blue, and green tails are likely ion tails with their colors dominated by light emitted by specific gases that were ejected from the comet and energized by the Sun.  Currently, Comet ATLAS is showing long tails in southern skies but fading as it moves out of the inner Solar System.   Growing Gallery: Comet ATLAS (G3)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
