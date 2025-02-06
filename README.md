@@ -314,7 +314,7 @@ Things you should know -
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/tech-andgar" target="_blank" rel="noopener noreferrer"><img alt="tech-andgar's scores on LAPRAS are as follows: Engineering: 3.71 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.05 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.71&b=3.48&i=3.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
+<p align="center"><a href="https://lapras.com/public/tech-andgar" target="_blank" rel="noopener noreferrer"><img alt="tech-andgar's scores on LAPRAS are as follows: Engineering: 3.68 out of 5.0, Business: 3.48 out of 5.0, Influence: 3.05 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.68&b=3.48&i=3.05&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 </details>
