@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2502/RainbowFan_Eiguren_1080.jpg" width="500" height="500" alt="2025-02-04 Anticrepuscular Rays: A Rainbow Fan over Spain NASA">
+    <a href="https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2502/289_lorand_fenyes_coddington_ic2574_nagy1024.jpg" width="500" height="500" alt="2025-02-06 IC 2574: Coddington's Nebula NASA">
     </a>
     <div>
-        <h4>Anticrepuscular Rays: A Rainbow Fan over Spain</h4>
-        <time>2025-02-04</time>
-        <p>Yes, but can your rainbow do this? Late in the day, the Sun set as usual toward the west. However, on this day, the more interesting display was 180 degrees around -- toward the east. There, not only was a rainbow visible, but an impressive display of anticrepuscular rays from the rainbow's center. In the featured image from Lekeitio in northern Spain, the Sun is behind the camera. The rainbow resulted from sunlight reflecting back from falling rain. Anticrepuscular rays result from sunlight, blocked by some clouds, going all the way around the sky, overhead, and appearing to converge on the opposite horizon -- an optical illusion.  Rainbows by themselves can be exciting to see, and anticrepuscular rays a rare treat, but capturing them both together is even more unusual -- and can look both serene and surreal.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
+        <h4>IC 2574: Coddington's Nebula</h4>
+        <time>2025-02-06</time>
+        <p>Grand spiral galaxies often seem to get all the glory, flaunting their young, bright, blue star clusters in beautiful, symmetric spiral arms. But small, irregular galaxies form stars too. In fact dwarf galaxy IC 2574 shows clear evidence of intense star forming activity in its telltale reddish regions of glowing hydrogen gas. Just as in spiral galaxies, the turbulent star-forming regions in IC 2574 are churned by stellar winds and supernova explosions spewing material into the galaxy's interstellar medium and triggering further star formation. A mere 12 million light-years distant, IC 2574 is part of the M81 group of galaxies, seen toward the northern constellation Ursa Major. Also known as Coddington's Nebula, the lovely island universe is about 50,000 light-years across, discovered by American astronomer Edwin Coddington in 1898.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
