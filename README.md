@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2502/SpiderFly_Boddington_1080.jpg" width="500" height="500" alt="2025-02-11 The Spider and the Fly NASA">
+    <a href="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2502/Vdb31_Astrobin1024.jpg" width="500" height="500" alt="2025-02-13 Reflections on VdB 31 NASA">
     </a>
     <div>
-        <h4>The Spider and the Fly</h4>
-        <time>2025-02-11</time>
-        <p>Will the spider ever catch the fly? Not if both are large emission nebulas toward the constellation of the Charioteer (Auriga).  The spider-shaped gas cloud in the image center is actually an emission nebula labelled IC 417, while the smaller fly-shaped cloud on the left is dubbed  NGC 1931 and is both an emission nebula and a reflection nebula.  About 10,000 light-years distant, both nebulas harbor young star clusters. For scale, the more compact NGC 1931 (Fly) is about 10 light-years across. The featured deep image, captured over 20 hours during late January in Berkshire UK, also shows more diffuse and red-glowing interstellar gas and dust.   Explore Your Universe: Random APOD Generator</p>
+        <h4>Reflections on VdB 31</h4>
+        <time>2025-02-13</time>
+        <p>Riding high in the constellation of Auriga, beautiful, blue VdB 31 is the 31st object in Sidney van den Bergh's 1966 catalog of reflection nebulae. It shares this well-composed celestial still life with dark, obscuring clouds B26, B27, and B28, recorded in Edward E. Barnard's 1919 catalog of dark markings in the sky. All are these nebulae are interstellar dust clouds. Barnard's dark nebulae block the light from background stars. For VdB 31 the dust preferentially reflects bluish starlight from embedded, hot, variable star AB Aurigae. Exploring the environs of AB Aurigae with the Hubble Space Telescope has revealed the several million year young star is itself surrounded by a flattened dusty disk with evidence for the ongoing formation of a planetary system. AB Aurigae is about 470 light-years away. At that distance this cosmic canvas would span about eight light-years.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
