@@ -338,13 +338,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg" width="500" height="500" alt="2025-02-15 Parhelia at Abisko NASA">
+    <a href="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg" width="500" height="500" alt="2025-02-17 SpaceX Rocket Launch Plume over California NASA">
     </a>
     <div>
-        <h4>Parhelia at Abisko</h4>
-        <time>2025-02-15</time>
-        <p>Three suns seem to hug the horizon in this otherworldly winterscape. But the evocative scene was captured during a February 3rd snowmobile exploration of the mountainous region around Abisko National Park, northern Sweden, planet Earth. The two bright spots on either side of Earth's Sun are parhelia (singular parhelion), also known as mock suns or sun dogs. The parhelia are caused by hexagonal ice crystals suspended in the hazy atmosphere that reflect and refract sunlight. Commonly seen in winter and at high latitudes, the bright parhelia lie along the visible 22 degree ice halo of the Sun.</p>
+        <h4>SpaceX Rocket Launch Plume over California</h4>
+        <time>2025-02-17</time>
+        <p>What's happened to the sky? Last Monday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. The Falcon 9 rocket successfully delivered to low Earth orbit 23 Starlink communications satellites.  The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Venus appears at the top of the frame, while a bright streetlight shines on the far right.  The featured image was captured toward the west after sunset from near Phoenix, Arizona.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
