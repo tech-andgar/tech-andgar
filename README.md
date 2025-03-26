@@ -343,13 +343,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2503/OgunquitBeach_Curiosity_960.jpg" width="500" height="500" alt="2025-03-23 Ancient Ogunquit Beach on Mars NASA">
+    <a href="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg" width="500" height="500" alt="2025-03-25 A Blue Banded Blood Moon NASA">
     </a>
     <div>
-        <h4>Ancient Ogunquit Beach on Mars</h4>
-        <time>2025-03-23</time>
-        <p>This was once a beach -- on ancient Mars. The featured 360-degree panorama, horizontally compressed, was taken in 2017 by the robotic Curiosity rover that explored the red planet. Named Ogunquit Beach after its terrestrial counterpart, evidence shows that at times long ago the area was underwater, while at other times it was at the edge of an ancient lake.  The light peak in the central background is the top of Mount Sharp, the central feature in Gale Crater where Curiosity explored. Portions of the dark sands in the foreground were  scooped up for analysis.  The light colored bedrock is composed of sediment that likely settled at the bottom of the now-dried lakebed.  The featured panorama (interactive version here) was created from over 100 images and seemingly signed by the rover on the lower left.</p>
+        <h4>A Blue Banded Blood Moon</h4>
+        <time>2025-03-25</time>
+        <p>What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
