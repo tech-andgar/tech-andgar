@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2504/PartialSolar_Gorecka_960.jpg" width="500" height="500" alt="2025-03-30 A Partial Solar Eclipse over Iceland NASA">
+    <a href="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2503/JupiterRing_WebbSchmidt_1080.jpg" width="500" height="500" alt="2025-04-02 Jupiter and Ring in Infrared from Webb NASA">
     </a>
     <div>
-        <h4>A Partial Solar Eclipse over Iceland</h4>
-        <time>2025-03-30</time>
-        <p>What if the Sun and Moon rose together? That happened yesterday over some northern parts of planet Earth as a partial solar eclipse occurred shortly after sunrise. Regions that experienced the Moon blocking part of the Sun included northeastern parts of North America and northwestern parts of Europe, Asia, and Africa.  The featured image was captured yesterday over the Grábrók volcanic crater in Iceland where much of the Sun became momentarily hidden behind the Moon. The image was taken through a cloudy sky but so well planned that the photographer's friend appeared to be pulling the Sun out from behind the Moon. No part of the Earth experienced a total solar eclipse this time. In the distant past, some of humanity was so surprised when an eclipse occurred that ongoing battles suddenly stopped.  Today, eclipses are not a surprise and are predicted with an accuracy of seconds.   Growing Gallery: Partial Solar Eclipse of 2025 March</p>
+        <h4>Jupiter and Ring in Infrared from Webb</h4>
+        <time>2025-04-02</time>
+        <p>Why does Jupiter have rings?  Jupiter's main ring was discovered in 1979 by NASA's passing Voyager 1 spacecraft, but its origin was then a mystery.  Data from NASA's Galileo spacecraft that orbited Jupiter from 1995 to 2003, however, confirmed the hypothesis that this ring was created by meteoroid impacts on small nearby moons.  As a small meteoroid strikes tiny Metis, for example, it will bore into the moon, vaporize, and explode dirt and dust off into a Jovian orbit. The featured image of Jupiter in infrared light by the James Webb Space Telescope shows not only Jupiter and its clouds, but this ring as well. Jupiter's Great Red Spot (GRS) -- in comparatively light color on the right, Jupiter's large moon Europa -- in the center of diffraction spikes on the left, and Europa's shadow -- next to the GRS -- are also visible. Several features in the image are not yet well understood, including the seemingly separated cloud layer on Jupiter's right limb.    Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
