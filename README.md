@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_960.jpg" width="500" height="500" alt="2025-04-23 An Almost Everything Sky NASA">
+    <a href="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg" width="500" height="500" alt="2025-04-24 NGC 6164: A Dragon's Egg NASA">
     </a>
     <div>
-        <h4>An Almost Everything Sky</h4>
-        <time>2025-04-23</time>
-        <p>This surprising sky has almost everything.  First, slanting down from the upper left and far in the distance is the central band of our Milky Way Galaxy.  More modestly, slanting down from the upper right and high in Earth's atmosphere is a bright meteor. The dim band of light across the central diagonal is zodiacal light: sunlight reflected from dust in the inner Solar System. The green glow on the far right is aurora high in Earth's atmosphere.  The bright zigzagging bright line near the bottom is just a light that was held by the scene-planning astrophotographer. This "almost everything" sky was captured over rocks on Castle Hill, New Zealand late last month.  The featured finished frame is a combination of 10 exposures all taken with the same camera and from the same location.  But what about the astrophotographer himself?  He's pictured too -- can you find him?   Jigsaw Fun: Astronomy Puzzle of the Day</p>
+        <h4>NGC 6164: A Dragon's Egg</h4>
+        <time>2025-04-24</time>
+        <p>Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
