@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2505/PlanetLines_Hervas_960.jpg" width="500" height="500" alt="2025-05-05 Planet Lines Across Water NASA">
+    <a href="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg" width="500" height="500" alt="2025-05-07 Galaxy Wars: M81 versus M82 NASA">
     </a>
     <div>
-        <h4>Planet Lines Across Water</h4>
-        <time>2025-05-05</time>
-        <p>What’s causing those lines? Objects in the sky sometimes appear reflected as lines across water — but why? If the water’s surface is smooth, then reflected objects would appear similarly -- as spots. But if the water is choppy, then there are many places where light from the object can reflect off the water and still come to you -- and so together form, typically, a line. The same effect is frequently seen for the Sun just before sunset and just after sunrise. Pictured about 10 days ago in Ibiza, Spain, images of the rising Moon, Venus (top), and Saturn (right, faint) were captured both directly and in line-reflected forms from the Mediterranean Sea. The other bright object on the right with a water-reflected line is a beacon on a rock to warn passing boats.   Explore Your Universe: Random APOD Generator</p>
+        <h4>Galaxy Wars: M81 versus M82</h4>
+        <time>2025-05-07</time>
+        <p>In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
