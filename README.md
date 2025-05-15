@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2505/MilkyWayTop_Gaia_960.jpg" width="500" height="500" alt="2025-05-13 Gaia Reconstructs a Top View of our Galaxy NASA">
+    <a href="https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2505/NGC1360_Chander_960.jpg" width="500" height="500" alt="2025-05-14 NGC 1360: The Robin's Egg Nebula NASA">
     </a>
     <div>
-        <h4>Gaia Reconstructs a Top View of our Galaxy</h4>
-        <time>2025-05-13</time>
-        <p>What does our Milky Way Galaxy look like from the top? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has distinct spiral arms.  Our Sun and most of the bright stars we see at night are in just one arm: Orion. Gaia data bolsters previous indications that our Milky Way has more than two spiral arms. Our Galaxy's center sports a prominent bar.  The colors of our Galaxy's thin disk derive mostly from dark dust, bright blue stars, and red emission nebula. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Jigsaw Challenge: Astronomy Puzzle of the Day</p>
+        <h4>NGC 1360: The Robin's Egg Nebula</h4>
+        <time>2025-05-14</time>
+        <p>This pretty nebula lies some 1,500 light-years away, its shape and color in this telescopic view reminiscent of a robin's egg. The cosmic cloud spans about 3 light-years, nestled securely within the boundaries of the southern constellation of the Furnace (Fornax). Recognized as a planetary nebula, egg-shaped NGC 1360 doesn't represent a beginning, though. Instead, it corresponds to a brief and final phase in the evolution of an aging star. In fact, visible at the center of the nebula, the central star of NGC 1360 is known to be a binary star system likely consisting of two evolved white dwarf stars, less massive but much hotter than the Sun.  Their intense and otherwise invisible ultraviolet radiation has stripped away electrons from the atoms in their mutually surrounding gaseous shroud. The blue-green hue inside of NGC 1360 seen here is the strong emission produced as electrons recombine with doubly ionized oxygen atoms.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
