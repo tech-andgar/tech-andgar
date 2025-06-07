@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2506/SavudrijaSTARTRAILS_Nadj1024.jpg" width="500" height="500" alt="2025-06-05 Savudrija Star Trails NASA">
+    <a href="https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg" width="500" height="500" alt="2025-06-06 NGC 6302: The Butterfly Nebula NASA">
     </a>
     <div>
-        <h4>Savudrija Star Trails</h4>
-        <time>2025-06-05</time>
-        <p>Savudrija lighthouse shines along the coast near the northern end of the Istrian peninsula in this well-composed night skyscape. A navigational aid for sailors on the Adriatic Sea, the historic lighthouse was constructed in the early 19th century. But an even older aid to navigation shines in the sky above, Polaris, alpha star of the constellation Ursa Minor and also known as the North Star. In this scene Polaris forms the shortest bright arc near the North Celestial Pole, the extension of Earth's axis of rotation into space. Of course, the North Celestial Pole lies exactly at the center of all the concentric startrails. The composite image is a digital stack of 400 exposures, each 30 seconds long, taken with camera and tripod fixed to a rotating planet.</p>
+        <h4>NGC 6302: The Butterfly Nebula</h4>
+        <time>2025-06-06</time>
+        <p>The bright clusters and nebulae of planet Earth's night sky are often given the names of flowers or insects, and its whopping 3 light-year wingspan, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of the planetary nebula is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light. The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula. In this sharp, telescopic view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of knots and filaments within the nebula's wing-like bipolar outflows. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
