@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2506/TwoWorldsOneSun_Bouic_1080.jpg" width="500" height="500" alt="2025-06-15 Two Worlds, One Sun NASA">
+    <a href="https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg" width="500" height="500" alt="2025-06-16 APOD is 30 Years Old Today NASA">
     </a>
     <div>
-        <h4>Two Worlds, One Sun</h4>
-        <time>2025-06-15</time>
-        <p>How different does sunset appear from Mars than from Earth? For comparison, two images of our common star were taken at sunset, one from Earth and one from Mars. These images were scaled to have the same angular width and are featured here side-by-side. A quick inspection will reveal that the Sun appears slightly smaller from Mars than from Earth. This makes sense since Mars is 50% further from the Sun than Earth. More striking, perhaps, is that the Martian sunset is noticeably bluer near the Sun than the typically orange colors near the setting Sun from Earth. The reason for the blue hues from Mars is not fully understood, but thought to be related to forward scattering properties of Martian dust. The terrestrial sunset was taken in 2012 March from Marseille, France, while the Martian sunset was captured in 2015 by NASA's robotic Curiosity rover from Gale crater on Mars.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24</p>
+        <h4>APOD is 30 Years Old Today</h4>
+        <time>2025-06-16</time>
+        <p>APOD is 30 years old today. In celebration, today's picture uses past APODs as tiles arranged to create a single pixelated image that might remind you of one of the most well-known and evocative depictions of planet Earth's night sky. In fact, this Starry Night consists of 1,836 individual images contributed to APOD over the last 5 years in a mosaic of 32,232 tiles. Today, APOD would like to offer a sincere thank you to our contributors, volunteers, and readers. Over the last 30 years your continuing efforts have allowed us to enjoy, inspire, and share a discovery of the cosmos.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
