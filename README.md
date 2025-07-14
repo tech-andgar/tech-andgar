@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2507/LUA_JULHO_25_1024.jpg" width="500" height="500" alt="2025-07-12 Clouds and the Golden Moon NASA">
+    <a href="https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2507/ant_hubble_1072.jpg" width="500" height="500" alt="2025-07-13 Planetary Nebula Mz3: The Ant Nebula NASA">
     </a>
     <div>
-        <h4>Clouds and the Golden Moon</h4>
-        <time>2025-07-12</time>
-        <p>As the Sun set, a bright Full Moon rose on July 10. Its golden light illuminates clouds drifting through southern hemisphere skies in this well-composed telephoto image from Conceição do Coité, Bahia, Brazil. The brightest lunar phase is captured here with both a short and long exposure. The two exposures were combined to reveal details of the lunar surface in bright moonlight and a subtle iridescence along the dramatically backlit cloudscape. Of course, July's Full Moon is a winter moon in the southern hemisphere.  But in the north it's known to some as the Thunder Moon, likely a nod to the sounds of this northern summer month's typically stormy weather.</p>
+        <h4>Planetary Nebula Mz3: The Ant Nebula</h4>
+        <time>2025-07-13</time>
+        <p>Why isn't this ant a big sphere?  Planetary nebula Mz3 is being cast off by a star similar to our Sun that is, surely, round.  Why then would the gas that is streaming away create an ant-shaped nebula that is distinctly not round?  Clues might include the high 1000-kilometer per second speed of the expelled gas, the light-year long length of the structure, and the magnetism of the star featured here at the nebula's center.  One possible answer is that Mz3 is hiding a second, dimmer star that orbits close in to the bright star.  A competing hypothesis holds that the central star's own spin and magnetic field are channeling the gas.  Since the central star appears to be so similar to our own Sun, astronomers hope that increased understanding of the history of this giant space ant can provide useful insight into the likely future of our own Sun and Earth.   Explore Your Universe: Random APOD Generator</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
