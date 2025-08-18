@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2508/IMG_20250813_202125v1.jpg" width="500" height="500" alt="2025-08-15 Moonlight, Planets, and Perseids NASA">
+    <a href="https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2508/asperatus_priester_1024.jpg" width="500" height="500" alt="2025-08-17 Asperitas Clouds Over New Zealand NASA">
     </a>
     <div>
-        <h4>Moonlight, Planets, and Perseids</h4>
-        <time>2025-08-15</time>
-        <p>In the predawn sky on August 13, two planets were close. And despite the glare of a waning gibbous Moon, bright Jupiter and even brighter Venus were hard to miss. Their brilliant close conjunction is poised above the eastern horizon in this early morning skyscape. The scene was captured in a single exposure from a site near Gansu, China, with light from both planets reflected in the still waters of a local pond. Also seen against the moonlight were flashes from the annual Perseid Meteor Shower, known for its bright, fast meteors. Near the much anticipated peak of activity, the shower meteors briefly combined with the two planets for a celestial spectacle even in moonlit skies.</p>
+        <h4>Asperitas Clouds Over New Zealand</h4>
+        <time>2025-08-17</time>
+        <p>What kind of clouds are these? Although their cause is presently unknown, such unusual atmospheric structures, as menacing as they might seem, do not appear to be harbingers of meteorological doom. Formally recognized as a distinct cloud type only last year, asperitas clouds can be stunning in appearance, unusual in occurrence, and are relatively unstudied. Whereas most low cloud decks are flat bottomed, asperitas clouds appear to have significant vertical structure underneath. Speculation therefore holds that asperitas clouds might be related to lenticular clouds that form near mountains, or mammatus clouds associated with thunderstorms, or perhaps a foehn -- a type of dry downward wind that flows off mountains. Clouds from such a wind called the Canterbury arch stream toward the east coast of New Zealand's South Island. The featured image, taken above Hanmer Springs in Canterbury, New Zealand in 2005, shows great detail partly because sunlight illuminates the undulating clouds from the side.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
