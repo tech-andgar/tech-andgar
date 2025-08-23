@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg" width="500" height="500" alt="2025-08-21 Mostly Perseids NASA">
+    <a href="https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg" width="500" height="500" alt="2025-08-22 A Tale of Two Nebulae NASA">
     </a>
     <div>
-        <h4>Mostly Perseids</h4>
-        <time>2025-08-21</time>
-        <p>In this predawn skyscape recorded during the early morning hours of August 13, mostly Perseid meteors are raining down on planet Earth. You can easily identify the Perseid meteor streaks. They're the ones with trails that seem to converge on the annual meteor shower's radiant, a spot in the heroic constellation Perseus, located off the top of the frame. That's the direction in Earth's sky that looks along the orbit of this meteor shower's parent, periodic Comet Swift-Tuttle. Of course the scene is a composite, a combination of about 500 digital exposures to capture meteors registered with a single base frame exposure. But all exposures were taken during a period of around 2.5 hours from a wind farm near Mönchhof, Burgenland, Austria. Red lights on the individual wind turbine towers dot the foreground. In their spectacular close conjunction, bright planets Jupiter and Venus are poised above the eastern horizon.</p>
+        <h4>A Tale of Two Nebulae</h4>
+        <time>2025-08-22</time>
+        <p>This colorful telescopic view towards the musical northern constellation Lyra reveals the faint outer halos and brighter central ring-shaped region of M57, popularly known as the Ring Nebula. To modern astronomers M57 is a well-known planetary nebula. With a central ring about one light-year across, M57 is definitely not a planet though, but the gaseous shroud of one of the Milky Way's dying sun-like stars. Roughly the same apparent size as M57, the fainter and more often overlooked barred spiral galaxy at the left is IC 1296. In fact, over 100 years ago IC 1296 would have been known as a spiral nebula. By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart. At a distance of a mere 2,000 light-years M57 is well within our own Milky Way galaxy. Extragalactic IC 1296 (aka PGC62532) is more like 200,000,000 light-years distant. That's about 100,000 times farther away than M57 but since they appear roughly similar in size, former spiral nebula IC 1296 must also be about 100,000 times larger than planetary nebula M57. Look closely at the sharp 21st century astroimage to spot even more distant background galaxies scattered through the frame.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
