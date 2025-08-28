@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg" width="500" height="500" alt="2025-08-25 The Meteor and the Star Cluster NASA">
+    <a href="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg" width="500" height="500" alt="2025-08-27 WISPIT 2b: Exoplanet Carves Gap in Birth Disk NASA">
     </a>
     <div>
-        <h4>The Meteor and the Star Cluster</h4>
-        <time>2025-08-25</time>
-        <p>Sometimes even the sky surprises you.  To see more stars and faint nebulosity in the Pleiades star cluster (M45), long exposures are made.  Many times, less interesting items appear on the exposures that were not intended -- but later edited out. These include stuck pixels, cosmic ray hits, frames with bright clouds or Earth's Moon, airplane trails, lens flares, faint satellite trails, and even insect trails.  Sometimes, though, something really interesting is caught by chance. That was just the case a few weeks ago in al-Ula, Saudi Arabia when a bright meteor streaked across during an hour-long exposure of the Pleiades. Along with the famous bright blue stars, less famous and less bright blue stars, and blue-reflecting dust surrounding the star cluster, the fast rock fragment created a distinctive green glow, likely due to vaporized metals.    Jigsaw Universe: Astronomy Puzzle of the Day</p>
+        <h4>WISPIT 2b: Exoplanet Carves Gap in Birth Disk</h4>
+        <time>2025-08-27</time>
+        <p>That yellow spot -- what is it? It's a young planet outside our Solar System. The featured image from the Very Large Telescope in Chile surprisingly captures a distant scene much like our own Solar System's birth, some 4.5 billion years ago.  Although we can't look into the past and see Earth's formation directly, telescopes let us watch similar processes unfolding around distant stars.  At the center of this frame lies a young Sun-like star, hidden behind a coronagraph that blocks its bright glare.  Surrounding the star is a bright, dusty protoplanetary disk -- the raw material of planets.  Gaps and concentric rings mark where a newborn world is gathering gas and dust under its gravity, clearing the way as it orbits the star.  Although astronomers have imaged disk-embedded planets before, this is the first-ever observation of an exoplanet actively carving a gap within a disk -- the earliest direct glimpse of planetary sculpting in action.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
