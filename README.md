@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg" width="500" height="500" alt="2025-09-13 Star Trails over One-Mile Radio Telescope NASA">
+    <a href="https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_960.jpg" width="500" height="500" alt="2025-09-16 New Comet SWAN25B over Mexico NASA">
     </a>
     <div>
-        <h4>Star Trails over One-Mile Radio Telescope</h4>
-        <time>2025-09-13</time>
-        <p>The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create radio maps of the sky at a resolution better than that of the human eye.</p>
+        <h4>New Comet SWAN25B over Mexico</h4>
+        <time>2025-09-16</time>
+        <p>A newly discovered comet is already visible with binoculars. The comet, C/2025 R2 (SWAN) and nicknamed SWAN25B, is brightening significantly as it emerges from the Sun's direction and might soon become visible on your smartphone -- if not your eyes. Although the brightnesses of comets are notoriously hard to predict, many comets appear brighter as they approach the Earth, with SWAN25B reaching only a quarter of the Earth-Sun distance near October 19.  Nighttime skygazers will also be watching for a SWAN25B-spawned meteor shower around October 5 when our Earth passes through the plane of the comet's orbit. The unexpectedly bright comet was discovered by an amateur astronomer in images of the SWAN instrument on NASA's SOHO satellite.  The comet is currently best observed in southern skies but is slowly moving north.  The featured image was captured at sunset three days ago just above the western horizon in Zacatecas, Mexico.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
