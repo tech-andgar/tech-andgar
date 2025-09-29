@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG">
-      <img src="https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001_1024.JPG" width="500" height="500" alt="2025-09-27 A Rocket in the Sun NASA">
+    <a href="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg" width="500" height="500" alt="2025-09-28 Leopard Spots on Martian Rocks NASA">
     </a>
     <div>
-        <h4>A Rocket in the Sun</h4>
-        <time>2025-09-27</time>
-        <p>On the morning of September 24 a rocket crosses the bright solar disk in this long range telescopic snapshot captured from Orlando, Florida. That's about 50 miles north of its Kennedy Space Center launch site. This rocket carried three new space weather missions to space. Signals have now been successfully acquired from all three - NASA's Interstellar Mapping and Acceleration Probe, NASA’s Carruthers Geocorona Observatory, and the National Oceanic and Atmospheric Administration (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) - as they begin their journey to L1, an Earth-Sun lagrange point. L1 is about 1.5 million kilometers in the sunward direction from planet Earth. Appropriately, major space weather influencers, aka dark sunspots in active regions across the Sun, are posing with the transiting rocket. In fact, large active region AR4225 is just right of the rocket's nose.</p>
+        <h4>Leopard Spots on Martian Rocks</h4>
+        <time>2025-09-28</time>
+        <p>What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered last year by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark biosignature ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations have not been ruled out,  speculation focusing on this potential biological origin is causing much intrigue.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
