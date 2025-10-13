@@ -329,11 +329,11 @@ Things you should know -
   <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Missing Dart? When TypeScript Feels Like a Desert](https://tech-andgar.me/posts/dart-vs-typescript-switch-expressions-collection-control-flow/)
 - [Ultimate Guide to Managing Multiple SSH Keys for Git and Server Access](https://tech-andgar.me/posts/2025-09-25-ssh-setup-guide/)
 - [Solving Artifacts with `ImageFilter.blur` in Flutter on Android, iOS and macOS](https://tech-andgar.me/posts/solving-artifacts-imagefilter-blur-flutter/)
 - [Innovation in Accessibility: Real Inclusion or Barrier for the Deaf Community?](https://tech-andgar.me/posts/innovation-accessibility-sign-language-deaf-community/)
 - [Error Handling in Dart: Should You Use `try/catch`, Return Values, or Functional Approaches?](https://tech-andgar.me/posts/dart-try-catch-vs-records-values-vs-functional-approaches-for-error-handling/)
-- [Talks](https://tech-andgar.me/talks/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
