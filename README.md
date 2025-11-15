@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025_1024.jpg" width="500" height="500" alt="2025-11-13 Orion and the Running Man NASA">
+    <a href="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg">
+      <img src="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg" width="500" height="500" alt="2025-11-14 Florida Northern Lights NASA">
     </a>
     <div>
-        <h4>Orion and the Running Man</h4>
-        <time>2025-11-13</time>
-        <p>Few cosmic vistas can excite the imagination like The Great Nebula in Orion. Visible as a faint, bland celestial smudge to the naked-eye, the nearest large star-forming region sprawls across this sharp colorful telescopic image. Designated M42 in the Messier Catalog, the Orion Nebula's glowing gas and dust surrounds hot, young stars. About 40 light-years across, M42 is at the edge of an immense interstellar molecular cloud only 1,500 light-years away that lies within the same spiral arm of our Milky Way galaxy as the Sun. Including dusty bluish reflection nebula NGC 1977, also known as the Running Man nebula at left in the frame, the natal nebulae represent only a small fraction of our galactic neighborhood's wealth of star-forming material. Within the well-studied stellar nursery, astronomers have also identified what appear to be numerous infant solar systems.</p>
+        <h4>Florida Northern Lights</h4>
+        <time>2025-11-14</time>
+        <p>Northern lights have come to Florida skies. In fact, the brilliant streak of a Northern Taurid meteor flashes through the starry night sky above the beach in this sea and skyscape, captured from Shired Island, Florida on November 11. Meteors from the annual Northern Taurid meteor shower are expected this time of year. But the digital camera exposure also records the shimmering glow of aurora, a phenomenon more often seen from our fair planet's higher geographical latitudes. Also known as aurora borealis, these northern lights are part of recent, wide spread auroral activity caused by strong geomagnetic storms. In the last few days, stormy spaceweather has been triggered by multiple Earth impacting coronal mass ejections and intense solar activity.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
