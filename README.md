@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2511/Chamaeleon_Houbo_960.jpg" width="500" height="500" alt="2025-11-19 Chamaeleon Dark Nebulas NASA">
+    <a href="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2511/NebularSymphonyOrionsBelt1024.jpg" width="500" height="500" alt="2025-11-20 Alnitak, Alnilam, Mintaka NASA">
     </a>
     <div>
-        <h4>Chamaeleon Dark Nebulas</h4>
-        <time>2025-11-19</time>
-        <p>Sometimes the dark dust of interstellar space has an angular elegance.  Such is the case toward the far-south constellation of Chamaeleon. Normally too faint to see, dark dust is best known for blocking visible light from stars and galaxies behind it. In this 11.4-hour exposure, however, the dust is seen mostly in light of its own, with its strong red and near-infrared colors creating a brown hue. Contrastingly blue, a bright star Beta Chamaeleontis is visible on the upper right of the V, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.  All of the pictured stars and dust occur in our own Milky Way Galaxy with one notable exception: a white spot just below Beta Chamaeleontis is the galaxy IC 3104, which lies far in the distance.  Interstellar dust is mostly created in the cool atmospheres of giant stars and dispersed into space by stellar light, stellar winds, and stellar explosions such as supernovas.</p>
+        <h4>Alnitak, Alnilam, Mintaka</h4>
+        <time>2025-11-20</time>
+        <p>Alnitak, Alnilam, and Mintaka are the bright bluish stars from east to west (upper right to lower left) along the diagonal in this cosmic vista. Otherwise known as the Belt of Orion, these three blue supergiant stars are hotter and much more massive than the Sun. They lie from 700 to 2,000 light-years away, born of Orion's well-studied interstellar clouds. In fact, clouds of gas and dust adrift in this region have some surprisingly familiar shapes, including the dark Horsehead Nebula and Flame Nebula near Alnitak at the upper right. The famous Orion Nebula itself is off the right edge of this colorful starfield. The telescopic frame spans almost 4 degrees on the sky.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
