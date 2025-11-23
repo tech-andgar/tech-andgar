@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4800&pause=500&color=36BCF7FF&center=true&vCenter=true&width=940&height=50&lines=Welcome+to+my+Profile!" align="middle" alt="Welcome to my Profile! animated typed out">
 
-<h4 align="center">💼 Software Engineer - 🏭 Flutter Developer FullStack</h4>
+<h4 align="center">💼 Senior Software Engineer - 🏭 Specialist Flutter & FullStack</h4>
 <p align="center">
   <a href="https://link.tech-andgar.me/linkedin" target="_blank">
   <img alt="Andrés García on Linkedin" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40" >
