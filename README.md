@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2511/M15Deep_AIP_960.jpg" width="500" height="500" alt="2025-11-26 Globular Cluster M15 Deep Field NASA">
+    <a href="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg" width="500" height="500" alt="2025-11-27 Portrait of NGC 1055 NASA">
     </a>
     <div>
-        <h4>Globular Cluster M15 Deep Field</h4>
-        <time>2025-11-26</time>
-        <p>Stars, like bees, swarm around the center of bright globular cluster M15.  The central ball of over 100,000 stars is a relic from the early years of our Galaxy, and continues to orbit the Milky Way's center.  M15, one of about 150 globular clusters remaining, is noted for being easily visible with only binoculars, having at its center one of the densest concentrations of stars known, and containing a high abundance of variable stars and pulsars.  The featured image of M15 was taken by combining very long exposures -- 122 hours in all -- and so brings up faint wisps of gas and dust in front of the giant ball of stars. M15 lies about 35,000 light years away toward the constellation of the Winged Horse (Pegasus).    Almost Hyperspace: Random APOD Generator</p>
+        <h4>Portrait of NGC 1055</h4>
+        <time>2025-11-27</time>
+        <p>Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But telltale pinkish star forming regions and young blue star clusters are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bulge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
