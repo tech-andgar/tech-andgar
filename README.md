@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg" width="500" height="500" alt="2025-11-28 NGC 6888: The Crescent Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2511/GHR1127sbarbaralunapicc1024.jpg" width="500" height="500" alt="2025-11-29 Moon Games NASA">
     </a>
     <div>
-        <h4>NGC 6888: The Crescent Nebula</h4>
-        <time>2025-11-28</time>
-        <p>NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light from hydrogen and oxygen atoms. The oxygen atoms produce the blue-green hue that seems to enshroud the nebula's detailed folds and filaments. Visible within the nebula, NGC 6888's central star is classified as a Wolf-Rayet star (WR 136). The star is shedding its outer envelope in a strong stellar wind, ejecting the equivalent of the Sun's mass every 10,000 years.  In fact, the Crescent Nebula's complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase. Burning fuel at a prodigious rate and near the end of its stellar life, this star should ultimately go out with a bang in a spectacular supernova explosion. Found in the nebula rich constellation Cygnus, NGC 6888 is about 5,000 light-years away.</p>
+        <h4>Moon Games</h4>
+        <time>2025-11-29</time>
+        <p>This is not a screen from a video game. Nestled below the treeline, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are partly reflecting light from terrestrial flood lights. Of course, the Moon is reflecting light from the Sun. At any given time the Sun illuminates fully half of the Moon's surface, also known as the lunar dayside, but on that night only a sliver of its sunlit surface was visible. About three days after New Moon, the Moon was in a waxing crescent phase. The single exposure was captured shortly after sunset in skies near Danta di Cadore, northern Italy, planet Earth.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
