@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_1080.jpg" width="500" height="500" alt="2025-12-07 The Sun and Its Missing Colors NASA">
+    <a href="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2512/Soul_Bugin_1080.jpg" width="500" height="500" alt="2025-12-09 The Heart of the Soul Nebula NASA">
     </a>
     <div>
-        <h4>The Sun and Its Missing Colors</h4>
-        <time>2025-12-07</time>
-        <p>It is still not known why the Sun's light is missing some colors.  Here are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our white-appearing Sun emits light of nearly every color, it appears brightest in yellow-green light.  The dark patches in the featured spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1868 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm</p>
+        <h4>The Heart of the Soul Nebula</h4>
+        <time>2025-12-09</time>
+        <p>This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation of the Queen of Aethiopia (Cassiopeia). An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
