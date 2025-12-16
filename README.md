@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2512/art001e002132_apod1024.jpg" width="500" height="500" alt="2025-12-13 Orion and the Ocean of Storms NASA">
+    <a href="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg" width="500" height="500" alt="2025-12-15 Gemini Meteors over Snow Capped Mountains NASA">
     </a>
     <div>
-        <h4>Orion and the Ocean of Storms</h4>
-        <time>2025-12-13</time>
-        <p>On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, the shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had returned to its home world. The historic Artemis 1 mission ended with Orion's successful splashdown in planet Earth's water-flooded Pacific Ocean.  Watch: The Geminid Meteor Shower</p>
+        <h4>Gemini Meteors over Snow Capped Mountains</h4>
+        <time>2025-12-15</time>
+        <p>Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken over the past few days through dark skies from Slovakia and capturing the snow-covered peaks of the Belianske Tatra mountains Numerous  bright meteor streaks from the Geminids meteor shower are visible.  Orion is visible above the horizon, while the bright star nearest the radiant is Castor.    APOD Review: RJN's Night Sky Network Lecture</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
