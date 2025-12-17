@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2512/GeminidWinter_Slovinsky_960.jpg" width="500" height="500" alt="2025-12-15 Gemini Meteors over Snow Capped Mountains NASA">
+    <a href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg" width="500" height="500" alt="2025-12-16 Andromeda and Sprites over Australia NASA">
     </a>
     <div>
-        <h4>Gemini Meteors over Snow Capped Mountains</h4>
-        <time>2025-12-15</time>
-        <p>Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Gemini.  That is why the major meteor shower in December is known as the Geminids -- because shower meteors all appear to come from a radiant toward Gemini. Three dimensionally, however, sand-sized debris expelled from the unusual asteroid 3200 Phaethon follows a well-defined orbit about our Sun, and the part of the orbit that approaches Earth is superposed in front of the constellation of Gemini. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Gemini. Featured here is a composite of many images taken over the past few days through dark skies from Slovakia and capturing the snow-covered peaks of the Belianske Tatra mountains Numerous  bright meteor streaks from the Geminids meteor shower are visible.  Orion is visible above the horizon, while the bright star nearest the radiant is Castor.    APOD Review: RJN's Night Sky Network Lecture</p>
+        <h4>Andromeda and Sprites over Australia</h4>
+        <time>2025-12-16</time>
+        <p>What’s happening over that tree? Two very different things. On the left is the Andromeda galaxy, an object that is older than humanity and will last billions of years into the future.  Andromeda (M31) is similar in size and shape to our own Milky Way Galaxy.  On the right is a red sprite, a type of lightning that lasts a fraction of a second and occurs above violent thunderstorms. Red sprites were verified as real atmospheric phenomena only about 35 years ago.  The tree in the center is a boab, which may live for as long as a thousand years.  Boab trees grow naturally in Australia and Africa and are known for being able to store large amounts of water: up to 100,000 liters.  The featured image was captured last month near Derby in Western Australia.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
