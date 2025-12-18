@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2512/AndromedaSprites_Rao_1080.jpg" width="500" height="500" alt="2025-12-16 Andromeda and Sprites over Australia NASA">
+    <a href="https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg" width="500" height="500" alt="2025-12-17 W5: The Soul Nebula NASA">
     </a>
     <div>
-        <h4>Andromeda and Sprites over Australia</h4>
-        <time>2025-12-16</time>
-        <p>What’s happening over that tree? Two very different things. On the left is the Andromeda galaxy, an object that is older than humanity and will last billions of years into the future.  Andromeda (M31) is similar in size and shape to our own Milky Way Galaxy.  On the right is a red sprite, a type of lightning that lasts a fraction of a second and occurs above violent thunderstorms. Red sprites were verified as real atmospheric phenomena only about 35 years ago.  The tree in the center is a boab, which may live for as long as a thousand years.  Boab trees grow naturally in Australia and Africa and are known for being able to store large amounts of water: up to 100,000 liters.  The featured image was captured last month near Derby in Western Australia.</p>
+        <h4>W5: The Soul Nebula</h4>
+        <time>2025-12-17</time>
+        <p>Stars are forming in the Soul of the Queen of Aethopia. More specifically, a large star forming region called the Soul Nebula can be found in the direction of the constellation Cassiopeia, whom Greek mythology credits as the vain wife of a King who long ago ruled lands surrounding the upper Nile river. Also known as Westerhout 5 (W5), the Soul Nebula houses several open clusters of stars, ridges and pillars darkened by cosmic dust, and huge evacuated bubbles formed by the winds of young massive stars. Located about 6,500 light years away, the Soul Nebula spans about 100 light years and is usually imaged next to its celestial neighbor the Heart Nebula (IC 1805). The featured image, taken from near Nashville, Tennessee, USA, is a composite of 234 hours of exposures made in different colors: red as emitted by hydrogen gas, yellow as emitted by sulfur, and blue as emitted by oxygen.   Explore the Universe: Random APOD Generator</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
