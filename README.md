@@ -329,11 +329,11 @@ Things you should know -
   <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Modernizing Monorepo Architectures: Principles &amp; Trade-offs](https://tech-andgar.me/posts/modernizing-monorepo-architecture/)
 - [A Comprehensive Guide to Flutter Widget Previews &lpar;Beta&rpar;](https://tech-andgar.me/posts/flutter-widget-previews-guide/)
 - [Silence Isn&#39;t a Barrier: My System for Redesigning Tech Leadership](https://tech-andgar.me/posts/silence-isnt-a-barrier-redesigning-tech-leadership/)
 - [Missing Dart? When TypeScript Feels Like a Desert](https://tech-andgar.me/posts/dart-vs-typescript-switch-expressions-collection-control-flow/)
 - [Ultimate Guide to Managing Multiple SSH Keys for Git and Server Access](https://tech-andgar.me/posts/2025-09-25-ssh-setup-guide/)
-- [Solving Artifacts with `ImageFilter.blur` in Flutter on Android, iOS and macOS](https://tech-andgar.me/posts/solving-artifacts-imagefilter-blur-flutter/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
