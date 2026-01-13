@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png">
-      <img src="https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a1024.png" width="500" height="500" alt="2026-01-02 NanoSail-D2 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg" width="500" height="500" alt="2026-01-12 Meteor Dust NASA">
     </a>
     <div>
-        <h4>NanoSail-D2</h4>
-        <time>2026-01-02</time>
-        <p>In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.</p>
+        <h4>Meteor Dust</h4>
+        <time>2026-01-12</time>
+        <p>What's happening to this meteor? It is shedding its outer layers as it passes through the Earth's atmosphere and heats up. The sudden high temperatures not only cause the bright glow along the dramatic streak but also melt and vaporize the meteor's component rock and ice, creating dust. Wind in the atmosphere typically blows this dust away  over the next few seconds, leaving no visible trace after only a few minutes.  Much of this dust will eventually settle down to the Earth. The featured image was captured in mid-December, coincident with the Geminids meteor shower. On the upper left is Sirius, the brightest star in the night sky, while in the foreground is fog-engulfed Huangshan, the Yellow Mountains of eastern China.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
