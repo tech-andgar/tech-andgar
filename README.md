@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2601/MeteorDust_XuChen_960.jpg" width="500" height="500" alt="2026-01-12 Meteor Dust NASA">
+    <a href="https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg" width="500" height="500" alt="2026-01-14 M51: The Whirlpool Galaxy NASA">
     </a>
     <div>
-        <h4>Meteor Dust</h4>
-        <time>2026-01-12</time>
-        <p>What's happening to this meteor? It is shedding its outer layers as it passes through the Earth's atmosphere and heats up. The sudden high temperatures not only cause the bright glow along the dramatic streak but also melt and vaporize the meteor's component rock and ice, creating dust. Wind in the atmosphere typically blows this dust away  over the next few seconds, leaving no visible trace after only a few minutes.  Much of this dust will eventually settle down to the Earth. The featured image was captured in mid-December, coincident with the Geminids meteor shower. On the upper left is Sirius, the brightest star in the night sky, while in the foreground is fog-engulfed Huangshan, the Yellow Mountains of eastern China.</p>
+        <h4>M51: The Whirlpool Galaxy</h4>
+        <time>2026-01-14</time>
+        <p>The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
