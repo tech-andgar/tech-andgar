@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2602/NGC1512_stern_960.jpg" width="500" height="500" alt="2026-02-04 Spiral Galaxy NGC 1512: Wide Field NASA">
+    <a href="https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster1024.jpg" width="500" height="500" alt="2026-02-05 NGC 1275 in the Perseus Cluster NASA">
     </a>
     <div>
-        <h4>Spiral Galaxy NGC 1512: Wide Field</h4>
-        <time>2026-02-04</time>
-        <p>Most galaxies don't have any rings -- why does this galaxy have three?  To begin, a ring that's near NGC 1512's center -- and so hard to see here -- is the nuclear ring which glows brightly with recently formed stars.  Next out is a ring of stars and dust appearing both red and blue, called, counter-intuitively, the inner ring.  This inner ring connects ends of a diffuse central bar of stars that runs horizontally across the galaxy.  Farthest out in this wide field image is a ragged structure that might be considered an outer ring. This outer ring appears spiral-like and is dotted with clusters of bright blue stars.  All these ring structures are thought to be affected by NGC 1512's own gravitational asymmetries in a drawn-out process called secular evolution.  The featured image was captured last month from a telescope at Deep Sky Chile in Chile.</p>
+        <h4>NGC 1275 in the Perseus Cluster</h4>
+        <time>2026-02-05</time>
+        <p>Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. Narrowband image data used in this sharp telescopic image highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 itself spans over 100,000 light years and lies about 230 million light years away.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
