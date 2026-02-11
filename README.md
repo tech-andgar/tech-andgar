@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg" width="500" height="500" alt="2026-02-09 Miranda Revisited NASA">
+    <a href="https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg" width="500" height="500" alt="2026-02-10 In Green Company: Aurora over Norway NASA">
     </a>
     <div>
-        <h4>Miranda Revisited</h4>
-        <time>2026-02-09</time>
-        <p>What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day</p>
+        <h4>In Green Company: Aurora over Norway</h4>
+        <time>2026-02-10</time>
+        <p>Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
