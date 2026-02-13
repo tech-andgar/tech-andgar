@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg" width="500" height="500" alt="2026-02-11 A Year of Sunspots NASA">
+    <a href="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg" width="500" height="500" alt="2026-02-12 The Bay of Rainbows NASA">
     </a>
     <div>
-        <h4>A Year of Sunspots</h4>
-        <time>2026-02-11</time>
-        <p>How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.</p>
+        <h4>The Bay of Rainbows</h4>
+        <time>2026-02-12</time>
+        <p>Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon, as a moon maiden seen in profile with long, flowing hair.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
