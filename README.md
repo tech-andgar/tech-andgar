@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg" width="500" height="500" alt="2026-02-14 Roses are Red NASA">
+    <a href="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg" width="500" height="500" alt="2026-02-15 To Fly Free in Space NASA">
     </a>
     <div>
-        <h4>Roses are Red</h4>
-        <time>2026-02-14</time>
-        <p>Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.</p>
+        <h4>To Fly Free in Space</h4>
+        <time>2026-02-15</time>
+        <p>What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an "untethered space walk". The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
