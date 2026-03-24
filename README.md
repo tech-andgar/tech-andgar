@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB_1024.jpg" width="500" height="500" alt="2026-03-21 Galaxies in the River: NGC 1300 and NGC 1297 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg" width="500" height="500" alt="2026-03-23 Light Pillars and Orion over Mohe NASA">
     </a>
     <div>
-        <h4>Galaxies in the River: NGC 1300 and NGC 1297</h4>
-        <time>2026-03-21</time>
-        <p>Spiral NGC 1300 and elliptical NGC 1297 are galaxies that lie on the banks of the southern constellation Eridanus (The River). At 70 million light-years distant or more, both are members of the Eridanus Galaxy Cluster. About 100,000 light-years across, at lower left in this sharp, galaxy group photo NGC 1300 is seen face-on with a prominent central bar and grand, sweeping spiral arms. Like other spiral galaxies, including our own barred spiral Milky Way Galaxy, NGC 1300 is thought to have a supermassive central black hole. A contrast in appearance and slightly more distant, NGC 1297 is the roughly spherical large elliptical galaxy near the top of the frame. With little active star formation, elliptical galaxies are composed of older populations of stars and are likely he result of multiple collisions and mergers with spirals.</p>
+        <h4>Light Pillars and Orion over Mohe</h4>
+        <time>2026-03-23</time>
+        <p>What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
