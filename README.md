@@ -329,11 +329,11 @@ Things you should know -
   <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Switching Between Multiple Claude Code Accounts &lpar;Bedrock SSO + Claude.ai Team&rpar;](https://tech-andgar.me/posts/2026-03-24-switching-between-multiple-claude-code-accounts-bedrock-sso-with-claude.ai-team/)
+- [Data Architecture’s Secret Weapon – RX vs. Protobuf](https://tech-andgar.me/posts/2026-03-23-data-architecture-secret-weapon-x-protobuf/)
 - [Modernizing Monorepo Architectures: Principles &amp; Trade-offs](https://tech-andgar.me/posts/modernizing-monorepo-architecture/)
 - [A Comprehensive Guide to Flutter Widget Previews &lpar;Beta&rpar;](https://tech-andgar.me/posts/flutter-widget-previews-guide/)
 - [Silence Isn&#39;t a Barrier: My System for Redesigning Tech Leadership](https://tech-andgar.me/posts/silence-isnt-a-barrier-redesigning-tech-leadership/)
-- [Missing Dart? When TypeScript Feels Like a Desert](https://tech-andgar.me/posts/dart-vs-typescript-switch-expressions-collection-control-flow/)
-- [Ultimate Guide to Managing Multiple SSH Keys for Git and Server Access](https://tech-andgar.me/posts/2025-09-25-ssh-setup-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
