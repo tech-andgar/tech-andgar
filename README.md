@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg" width="500" height="500" alt="2026-04-07 IC 4592: The Blue Horsehead Reflection Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg" width="500" height="500" alt="2026-04-11 Artemis II: Flight Day 6 NASA">
     </a>
     <div>
-        <h4>IC 4592: The Blue Horsehead Reflection Nebula</h4>
-        <time>2026-04-07</time>
-        <p>Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day</p>
+        <h4>Artemis II: Flight Day 6</h4>
+        <time>2026-04-11</time>
+        <p>On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the Artemis II crew, Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the Apollo 13 crew in 1970. From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side. Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb. The crew safely returned home on Artemis II mission flight day 10.   Artemis II: Splashdown</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
