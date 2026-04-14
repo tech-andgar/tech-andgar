@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg" width="500" height="500" alt="2026-04-12 Comet R3 (PanSTARRS) Brightens NASA">
+    <a href="https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg" width="500" height="500" alt="2026-04-13 NGC 602 and Beyond NASA">
     </a>
     <div>
-        <h4>Comet R3 (PanSTARRS) Brightens</h4>
-        <time>2026-04-12</time>
-        <p>Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026</p>
+        <h4>NGC 602 and Beyond</h4>
+        <time>2026-04-13</time>
+        <p>The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
