@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg" width="500" height="500" alt="2026-04-17 M82: Starburst Galaxy with a Superwind NASA">
+    <a href="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg" width="500" height="500" alt="2026-04-20 Comet R3 PanSTARRS over a Himalayan Valley NASA">
     </a>
     <div>
-        <h4>M82: Starburst Galaxy with a Superwind</h4>
-        <time>2026-04-17</time>
-        <p>Messier 82 is a starburst galaxy with a superwind. In fact, through supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy's central regions is clear in the sharp telescopic portrait. The composite image includes 33 hours of narrowband data, highlighting emission from long outflow filaments of atomic hydrogen gas in reddish hues. Some of the gas in the superwind, enriched in heavy elements forged in the massive stars, will eventually escape into intergalactic space. Triggered by a close encounter with nearby large galaxy M81, the furious burst of star formation in M82 should last about 100 million years or so. Also known as the Cigar Galaxy for its elongated visual appearance, M82 is about 30,000 light-years across. It lies 12 million light-years away near the northern boundary of Ursa Major.</p>
+        <h4>Comet R3 PanSTARRS over a Himalayan Valley</h4>
+        <time>2026-04-20</time>
+        <p>The best way to see comet R3 PanSTARRS’s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for a comet - it is primarily due to the Earth's nearly sideways view of the tail as it points away from the Sun.  In the featured image taken last week, Comet C/2025 R3 (PanSTARRS) showed off its flowing tail through a valley between two peaks in the Himalayan mountains of India.   The comet passed its closest to the Sun yesterday. As it nears its closest approach to Earth next week, a bushy dust tail may become visible.  The comet is slowly moving out of northern skies and by the end of the month will be visible after sunset in southern skies as it fades and leaves our Solar System.    Growing Gallery: Comet R3 PanSTARRS in 2026</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
