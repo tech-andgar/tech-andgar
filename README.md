@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg" width="500" height="500" alt="2026-04-21 Three Sky Arches over Snowy Alps NASA">
+    <a href="https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg" width="500" height="500" alt="2026-04-24 Young Moon and Sister Stars NASA">
     </a>
     <div>
-        <h4>Three Sky Arches over Snowy Alps</h4>
-        <time>2026-04-21</time>
-        <p>Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the inner arch looking in toward the center of our galaxy on the left, visible just before sunrise, and the outer arch on the right visible just after sunset.  But there were three arches. The surprised astrophotographer soon realized that the sky was so dark that an entire arc of faint zodiacal light was also noticeable -- sunlight scattered by inner Solar System dust.  And it artfully connected the two Milky Way arches!  The next morning a helicopter picked the astrophotographer back up, and after 40 hours of processing and combining that night's images, the featured triple-arch 360-degree panorama resulted.    Jigsaw Vistas: Astronomy Puzzle of the Day</p>
+        <h4>Young Moon and Sister Stars</h4>
+        <time>2026-04-24</time>
+        <p>Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial view from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by clouds the Pleiades sister stars gather below the Moon's bright crescent, seen through a faint but colorful lunar corona. The lunar night side is illuminated by earthshine, sunlight reflected from the Earth itself. The Moon's ashen glow, also known as the "old moon in the young moon's arms," tends to be bright in the northern hemisphere spring. And for now, the Moon's orbit takes it near the Pleiades stars each month in planet Earth's sky, though their close conjunctions are easiest to see when the Moon is near a crescent phase.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
