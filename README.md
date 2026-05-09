@@ -37,8 +37,8 @@
 
 Things you should know -
 
-- 🔭 **Currently working on:** Dart & Flutter
-- 🌱 **Getting better at:** Flutter, Swift, Kotlin, Agile Software Development, Technical Product Management
+- 🔭 **Currently working on:** TypeScript & React Native
+- 🌱 **Getting better at:** React Native, Flutter, Swift, Kotlin, Agile Software Development, Technical Product Management
 <!-- - 🤔 <b>Exploring:</b> Niche Service Industries, Cloud Solutions (CRM & ERP)
 - 👯 <b>Experimenting on:</b> Digitalizing Brand Incubation, Sales Force Automation -->
 <!-- - 💬 <b>Ask me about:</b> Software Architectural Patterns, Android Vitals, SaaS, Offline-first App Optimizations -->
