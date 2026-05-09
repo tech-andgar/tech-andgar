@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg" width="500" height="500" alt="2026-05-06 The Retrograde Dance of Saturn and Neptune NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg" width="500" height="500" alt="2026-05-08 Comet R3 PanSTARRS Before Rigel NASA">
     </a>
     <div>
-        <h4>The Retrograde Dance of Saturn and Neptune</h4>
-        <time>2026-05-06</time>
-        <p>What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appeared to move backward in the sky. This apparent backwards motion occurs when Earth overtakes the slower outer planets as they orbit the Sun. Imagine the Solar System is a running track. Earth "runs" faster along the inside of the track compared to the outer planets. As Earth approaches, aligns, and then "laps" the outer planets, they change position from ahead to behind from the Earth's perspective. This perspective shift is what causes the outer planets to change position in the night sky. An animation corresponding to today’s image shows Saturn and Neptune’s months-long dance across the northern night sky. Saturn stepped from the Pisces constellation into Aquarius and back again while Neptune remained in Pisces. This is the closest Saturn and Neptune have been in the sky since their last conjunction in 1989.</p>
+        <h4>Comet R3 PanSTARRS Before Rigel</h4>
+        <time>2026-05-08</time>
+        <p>Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
