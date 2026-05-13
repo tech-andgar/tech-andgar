@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg" width="500" height="500" alt="2026-05-10 Comet R3 PanSTARRS and Orion NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg" width="500" height="500" alt="2026-05-12 The Conjunction of Comet R3 PanSTARRS and the Orion Nebula NASA">
     </a>
     <div>
-        <h4>Comet R3 PanSTARRS and Orion</h4>
-        <time>2026-05-10</time>
-        <p>Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is now showing two distinct tails: a short dust tail pointing toward the top of the image and a long and wavy ion tail trailing off toward the upper left.  The ion tail points away from the Sun and glows blue from excited carbon monoxide.  Large particles in the dust tail somewhat resist the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit.  The dust tail shines by reflected sunlight. The featured image was taken a few days ago from France's Reunion Island in the southern Indian Ocean.   Growing Gallery: Comet R3 PanSTARRS in 2026</p>
+        <h4>The Conjunction of Comet R3 PanSTARRS and the Orion Nebula</h4>
+        <time>2026-05-12</time>
+        <p>Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
