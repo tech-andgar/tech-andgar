@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg" width="500" height="500" alt="2026-05-13 NGC 188: Old Cluster in the New General Catalog NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg" width="500" height="500" alt="2026-05-14 Messier Catalog at Uniform Scale NASA">
     </a>
     <div>
-        <h4>NGC 188: Old Cluster in the New General Catalog</h4>
-        <time>2026-05-13</time>
-        <p>The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its "NGC" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.</p>
+        <h4>Messier Catalog at Uniform Scale</h4>
+        <time>2026-05-14</time>
+        <p>What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visible from the southern half of the Earth.   The featured image shows all 110 objects in the catalog at uniform scale -- the same magnification.   Charles Messier created the catalog in the 18th century.   He was interested in comets, and his catalog was a list of known comet-like "objects to avoid" in the sky when observing or hunting for comets.   The deep sky objects in the catalog include a supernova remnant (the Crab Nebula, M1), other galaxies (such as Andromeda, M31), nebulae (e.g. the Orion Nebula, M42, a star-forming region) and stellar clusters (such as the Pleiades, M45, a bright young open cluster).</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
