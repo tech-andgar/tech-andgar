@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg" width="500" height="500" alt="2026-05-14 Messier Catalog at Uniform Scale NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg" width="500" height="500" alt="2026-05-15 R3 PanSTARRS: An Orion Comet NASA">
     </a>
     <div>
-        <h4>Messier Catalog at Uniform Scale</h4>
-        <time>2026-05-14</time>
-        <p>What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visible from the southern half of the Earth.   The featured image shows all 110 objects in the catalog at uniform scale -- the same magnification.   Charles Messier created the catalog in the 18th century.   He was interested in comets, and his catalog was a list of known comet-like "objects to avoid" in the sky when observing or hunting for comets.   The deep sky objects in the catalog include a supernova remnant (the Crab Nebula, M1), other galaxies (such as Andromeda, M31), nebulae (e.g. the Orion Nebula, M42, a star-forming region) and stellar clusters (such as the Pleiades, M45, a bright young open cluster).</p>
+        <h4>R3 PanSTARRS: An Orion Comet</h4>
+        <time>2026-05-15</time>
+        <p>Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
