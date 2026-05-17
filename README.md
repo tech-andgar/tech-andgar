@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg" width="500" height="500" alt="2026-05-15 R3 PanSTARRS: An Orion Comet NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg" width="500" height="500" alt="2026-05-16 Aurora Slathers Up the Sky NASA">
     </a>
     <div>
-        <h4>R3 PanSTARRS: An Orion Comet</h4>
-        <time>2026-05-15</time>
-        <p>Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <h4>Aurora Slathers Up the Sky</h4>
+        <time>2026-05-16</time>
+        <p>Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station's horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion's big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth's limb.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
