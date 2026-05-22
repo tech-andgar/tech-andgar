@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg" width="500" height="500" alt="2026-05-20 The Dark Wolf Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/a2029.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/a2029.jpg" width="500" height="500" alt="2026-05-21 A Collision of Galaxy Clusters NASA">
     </a>
     <div>
-        <h4>The Dark Wolf Nebula</h4>
-        <time>2026-05-20</time>
-        <p>A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.</p>
+        <h4>A Collision of Galaxy Clusters</h4>
+        <time>2026-05-21</time>
+        <p>This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
