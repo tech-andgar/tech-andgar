@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg" width="500" height="500" alt="2026-05-23 Messier 2 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg" width="500" height="500" alt="2026-05-25 Thackeray's Globules NASA">
     </a>
     <div>
-        <h4>Messier 2</h4>
-        <time>2026-05-23</time>
-        <p>After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.</p>
+        <h4>Thackeray's Globules</h4>
+        <time>2026-05-25</time>
+        <p>What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
