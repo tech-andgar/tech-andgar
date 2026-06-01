@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg" width="500" height="500" alt="2026-05-29 Messier 104 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg" width="500" height="500" alt="2026-05-31 Eagle Nebula Pillars in Infrared from Hubble NASA">
     </a>
     <div>
-        <h4>Messier 104</h4>
-        <time>2026-05-29</time>
-        <p>A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.</p>
+        <h4>Eagle Nebula Pillars in Infrared from Hubble</h4>
+        <time>2026-05-31</time>
+        <p>Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
