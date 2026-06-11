@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg" width="500" height="500" alt="2026-06-06 Charon: Moon of Pluto NASA">
+    <a href="https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg" width="500" height="500" alt="2026-06-10 The Eagle Nebula and Friends NASA">
     </a>
     <div>
-        <h4>Charon: Moon of Pluto</h4>
-        <time>2026-06-06</time>
-        <p>A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. The combined blue, red, and infrared image data was processed to enhance colors and follow variations in Charon's surface properties with a resolution of about 2.9 kilometers (1.8 miles). A stunning image of Charon's Pluto-facing hemisphere, it also features a clear view of an apparently moon-girdling belt of fractures and canyons that seems to separate smooth southern plains from varied northern terrain. Charon is 1,214 kilometers (754 miles) across. That's about 1/10th the size of planet Earth but a whopping 1/2 the diameter of Pluto itself, and makes it the largest satellite relative to its parent body in the Solar System. Still, the moon appears as a small bump at about the 1 o'clock position on Pluto's disk in the grainy, negative, telescopic picture inset at upper left. That image was used by James Christy and Robert Harrington at the U.S. Naval Observatory in Flagstaff to discover Charon in June of 1978.</p>
+        <h4>The Eagle Nebula and Friends</h4>
+        <time>2026-06-10</time>
+        <p>What looks as if it is going to swallow the great Pillars of Creation? The Eagle Nebula (M16) is not a bird, a plane, or Superman. M16 is actually a combination of several celestial objects. NGC 6611 is the young star cluster that appears to peak out beneath the Eagle’s “wings”. The ultraviolet light from these stars ionizes the surrounding gas, creating the emission nebula IC 4703. The Stellar Spire is seen reaching towards the Pillars of Creation from the left. Both are structures of cold gas and dust that are optimal for star formation. Some astronomers previously thought the Pillars of Creation had been evaporated away by a supernova. Because M16 is 6,000 light years away, we would not be able to see the Pillars’ destruction for thousands more years. However, there is no conclusive evidence of the theorized supernova, so the Pillars of Creation will likely continue to create stars for millions of years.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
