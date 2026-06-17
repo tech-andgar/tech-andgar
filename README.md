@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg" width="500" height="500" alt="2026-06-14 10 Days of Venus and Jupiter NASA">
+    <a href="https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg" width="500" height="500" alt="2026-06-16 Moons, Rings, Shadows, Clouds: Saturn (Cassini) NASA">
     </a>
     <div>
-        <h4>10 Days of Venus and Jupiter</h4>
-        <time>2026-06-14</time>
-        <p>Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. At their closest on June 9, the celestial pair appeared to be only about three times the width of a full moon apart. Of course, on that date, the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days, Jupiter will slowly settle into the sunset glare, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Gallery: Venus - Jupiter Conjunction of 2026 June</p>
+        <h4>Moons, Rings, Shadows, Clouds: Saturn (Cassini)</h4>
+        <time>2026-06-16</time>
+        <p>While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
