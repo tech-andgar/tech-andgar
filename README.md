@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg" width="500" height="500" alt="2026-06-16 Moons, Rings, Shadows, Clouds: Saturn (Cassini) NASA">
+    <a href="https://apod.nasa.gov/apod/image/2606/sgrc.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2606/sgrc.jpg" width="500" height="500" alt="2026-06-18 Possible Supernova Remnant in Galactic Center NASA">
     </a>
     <div>
-        <h4>Moons, Rings, Shadows, Clouds: Saturn (Cassini)</h4>
-        <time>2026-06-16</time>
-        <p>While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator</p>
+        <h4>Possible Supernova Remnant in Galactic Center</h4>
+        <time>2026-06-18</time>
+        <p>Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
