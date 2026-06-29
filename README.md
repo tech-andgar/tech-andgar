@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg" width="500" height="500" alt="2026-06-20 Daytime Moon Meets Evening Star NASA">
+    <a href="https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg" width="500" height="500" alt="2026-06-28 AR 4478: Giant Sunspot Group NASA">
     </a>
     <div>
-        <h4>Daytime Moon Meets Evening Star</h4>
-        <time>2026-06-20</time>
-        <p>Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.</p>
+        <h4>AR 4478: Giant Sunspot Group</h4>
+        <time>2026-06-28</time>
+        <p>Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge.  When impacting Earth's upper atmosphere, these particles can produce beautiful auroras. Pictured here, AR 4478 and its dark sunspots were captured in visible light a few days ago from Barcelona, Spain.  Almost as large as AR 3664 was in 2024, the AR 4478 sunspot group is so big that it is visible just with glasses specially designed to view solar eclipses.  This week, skygazing enthusiasts all over the globe will not only be tracking AR 4478 during the day -- but keenly watching night skies for its corresponding bright auroras.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
