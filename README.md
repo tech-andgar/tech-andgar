@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg" width="500" height="500" alt="2026-07-15 Red Sprites in the Tatacoa Desert NASA">
+    <a href="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg" width="500" height="500" alt="2026-07-17 The Dust Trail of Comet Tempel 2 NASA">
     </a>
     <div>
-        <h4>Red Sprites in the Tatacoa Desert</h4>
-        <time>2026-07-15</time>
-        <p>Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!</p>
+        <h4>The Dust Trail of Comet Tempel 2</h4>
+        <time>2026-07-17</time>
+        <p>Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
