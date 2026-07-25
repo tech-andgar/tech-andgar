@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg" width="500" height="500" alt="2026-07-22 The Corona Australis Molecular Cloud and the Chandelier Cluster NASA">
+    <a href="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg" width="500" height="500" alt="2026-07-24 RCW 86: Historical Supernova Remnant NASA">
     </a>
     <div>
-        <h4>The Corona Australis Molecular Cloud and the Chandelier Cluster</h4>
-        <time>2026-07-22</time>
-        <p>The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.</p>
+        <h4>RCW 86: Historical Supernova Remnant</h4>
+        <time>2026-07-24</time>
+        <p>In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
