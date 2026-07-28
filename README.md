@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg" width="500" height="500" alt="2026-07-25 Tranquility and Serenity NASA">
+    <a href="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg" width="500" height="500" alt="2026-07-27 NGC 7635: The Bubble Nebula NASA">
     </a>
     <div>
-        <h4>Tranquility and Serenity</h4>
-        <time>2026-07-25</time>
-        <p>The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar "seas" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.</p>
+        <h4>NGC 7635: The Bubble Nebula</h4>
+        <time>2026-07-27</time>
+        <p>What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
