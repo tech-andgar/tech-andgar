@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg" width="500" height="500" alt="2026-07-28 Barnards Loop over Twin Volcanoes NASA">
+    <a href="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg" width="500" height="500" alt="2026-07-31 NGC 4372 and the Dark Doodad NASA">
     </a>
     <div>
-        <h4>Barnards Loop over Twin Volcanoes</h4>
-        <time>2026-07-28</time>
-        <p>What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</p>
+        <h4>NGC 4372 and the Dark Doodad</h4>
+        <time>2026-07-31</time>
+        <p>The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
