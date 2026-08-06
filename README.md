@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg" width="500" height="500" alt="2026-08-04 Curious Cometary Knots in the Helix Nebula NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif">
+      <img src="https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif" width="500" height="500" alt="2026-08-05 Spokes on Saturn's B Ring NASA">
     </a>
     <div>
-        <h4>Curious Cometary Knots in the Helix Nebula</h4>
-        <time>2026-08-04</time>
-        <p>What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library</p>
+        <h4>Spokes on Saturn's B Ring</h4>
+        <time>2026-08-05</time>
+        <p>Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. If you look closely, a ghoulish shadow appears and disappears as  Saturn’s B ring  rotates. Decades of observation with  Voyager 2,  Cassini, and Hubble  show the appearance of Saturn’s spokes varies with  the planet’s seasons. Like Earth, Saturn’s  spin axis  is tilted compared to the plane of its orbit around the Sun. During Saturn’s  equinox, the rings are  less tilted  toward the Sun and they receive sunlight at a shallower angle. Saturn’s spokes may be electrically charged dust and ice temporarily levitated above the rings by electromagnetic forces. It is still uncertain, but the ring plasma and charge environment may be influenced by changing ultraviolet illumination, meteoroid impacts, or indirect effects from interactions between the solar wind and the planet’s magnetic field.   Note: The text of this APOD has been revised. Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
