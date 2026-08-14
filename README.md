@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg" width="500" height="500" alt="2026-08-11 Six Moons of Saturn NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg" width="500" height="500" alt="2026-08-13 Total Solar Eclipse Over Spain NASA">
     </a>
     <div>
-        <h4>Six Moons of Saturn</h4>
-        <time>2026-08-11</time>
-        <p>How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons are small, irregular satellites. Many are only few kilometers to a fraction of a kilometer across and grouped in tilted outer orbits. Six of its largest satellites can be seen here, though, in this sharp telescopic Saturnian family portrait taken on August 5. Larger than Earth's Moon and even slightly larger than inner planet Mercury, Titan, with a diameter of 5,150 kilometers, is at lower right. You can also spot icy major moons Mimas, Tethys, Enceladus, Dione, and Rhea in the frame. Saturn's first known natural satellite, Titan was discovered in 1655 by Dutch astronomer Christiaan Huygens. During the space age Voyager and Cassini discoveries have added to the swelling ranks of Saturnian moons.  NASA Stream: August 12 Total Solar Eclipse.</p>
+        <h4>Total Solar Eclipse Over Spain</h4>
+        <time>2026-08-13</time>
+        <p>On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
