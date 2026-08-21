@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg" width="500" height="500" alt="2026-08-18 Perseids from Perseus NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg">
+      <img src="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg" width="500" height="500" alt="2026-08-20 The Elephant's Trunk in Cepheus NASA">
     </a>
     <div>
-        <h4>Perseids from Perseus</h4>
-        <time>2026-08-18</time>
-        <p>This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth collides with a stream of Sun-orbiting debris cast off by Comet Swift-Tuttle. Perseid meteors, although typically only the size of a sand grain, tend to be fast and bright because Swift-Tuttle's debris orbits the Sun in a direction partly opposite Earth's orbital motion. In the featured image compilation, accumulated over several nights from Jizerka in the Czech Republic, the Perseids meteor streaks can be traced back to a single location on the sky -- its radiant in Perseus.    Gallery: Perseids Meteor Shower of 2026</p>
+        <h4>The Elephant's Trunk in Cepheus</h4>
+        <time>2026-08-20</time>
+        <p>Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
