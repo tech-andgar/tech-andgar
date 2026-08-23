@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg">
-      <img src="https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg" width="500" height="500" alt="2026-08-20 The Elephant's Trunk in Cepheus NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg" width="500" height="500" alt="2026-08-22 Mostly Perseids NASA">
     </a>
     <div>
-        <h4>The Elephant's Trunk in Cepheus</h4>
-        <time>2026-08-20</time>
-        <p>Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.</p>
+        <h4>Mostly Perseids</h4>
+        <time>2026-08-22</time>
+        <p>Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
