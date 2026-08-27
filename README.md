@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg" width="500" height="500" alt="2026-08-25 Earth's Shadow Visualized with Lunar Eclipses NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg" width="500" height="500" alt="2026-08-27 Colorful Aurora over Icelandic Waterfall NASA">
     </a>
     <div>
-        <h4>Earth's Shadow Visualized with Lunar Eclipses</h4>
-        <time>2026-08-25</time>
-        <p>What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete shadow.  The featured image compilation by a perseistent astrophotographer is constructed from 22 years of lunar eclipses.  The Moon is not eclipsed every month (moon-th) because the Moon's orbit is slightly tilted relative to Earth's orbit.  Close inspection of some lunar eclipse images shows a faint blue band where  Earth’s atmosphere filters out more red sunlight than blue.  Later this week, a new lunar eclipse will occur and will be best visible in parts of North and South America, Europe, and Africa.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>Colorful Aurora over Icelandic Waterfall</h4>
+        <time>2026-08-27</time>
+        <p>What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
