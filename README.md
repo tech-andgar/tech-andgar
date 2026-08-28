@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg" width="500" height="500" alt="2026-08-27 Colorful Aurora over Icelandic Waterfall NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg" width="500" height="500" alt="2026-08-28 The Sky Turns Above Paranal NASA">
     </a>
     <div>
-        <h4>Colorful Aurora over Icelandic Waterfall</h4>
-        <time>2026-08-27</time>
-        <p>What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>The Sky Turns Above Paranal</h4>
+        <time>2026-08-28</time>
+        <p>At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
