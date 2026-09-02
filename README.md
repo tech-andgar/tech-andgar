@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg" width="500" height="500" alt="2026-08-30 M74: A Grand Design Spiral NASA">
+    <a href="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg" width="500" height="500" alt="2026-09-01 A Plane Lunar Eclipse NASA">
     </a>
     <div>
-        <h4>M74: A Grand Design Spiral</h4>
-        <time>2026-08-30</time>
-        <p>If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>A Plane Lunar Eclipse</h4>
+        <time>2026-09-01</time>
+        <p>Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
