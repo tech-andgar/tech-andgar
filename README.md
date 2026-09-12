@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg" width="500" height="500" alt="2026-09-08 Hubble: Decagon Around Saturn's South Pole NASA">
+    <a href="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg" width="500" height="500" alt="2026-09-11 M83: The Southern Pinwheel NASA">
     </a>
     <div>
-        <h4>Hubble: Decagon Around Saturn's South Pole</h4>
-        <time>2026-09-08</time>
-        <p>Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>M83: The Southern Pinwheel</h4>
+        <time>2026-09-11</time>
+        <p>Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
