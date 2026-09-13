@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg" width="500" height="500" alt="2026-09-11 M83: The Southern Pinwheel NASA">
+    <a href="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" width="500" height="500" alt="2026-09-12 Apollo 11: Catching Some Sun NASA">
     </a>
     <div>
-        <h4>M83: The Southern Pinwheel</h4>
-        <time>2026-09-11</time>
-        <p>Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp, groundbased telescopic view also features foreground Milky Way stars and distant background galaxies.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>Apollo 11: Catching Some Sun</h4>
+        <time>2026-09-12</time>
+        <p>Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
