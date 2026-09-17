@@ -329,11 +329,11 @@ Things you should know -
   <summary>📕 Latest Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix: memory and Mach port leak in HP APMAgent &lpar;macOS&rpar;](https://tech-andgar.me/posts/hp-apmagent-memory-leak-fix/)
+- [Fix: plaintext credentials in ~/.zshrc → macOS Keychain](https://tech-andgar.me/posts/hp-apmagent-memory-leak-fix/)
 - [Intent-Driven Development vs Spec-Driven Development: Compass and Map](https://tech-andgar.me/posts/intent-driven-development-vs-sdd/)
 - [From &quot;Wow It Works!&quot; to &quot;Wow It Still Works&quot;](https://tech-andgar.me/posts/from-wow-it-works-to-wow-it-still-works/)
 - [React Native on Android: Live Font-Scale Changes Don&#39;t Re-render What You Think](https://tech-andgar.me/posts/react-native-font-scale-changes-re-render/)
-- [Switching Between Multiple Claude Code Accounts &lpar;Bedrock SSO + Claude.ai Team&rpar;](https://tech-andgar.me/posts/2026-03-24-switching-between-multiple-claude-code-accounts-bedrock-sso-with-claude.ai-team/)
-- [Data Architecture’s Secret Weapon – RX vs. Protobuf](https://tech-andgar.me/posts/2026-03-23-data-architecture-secret-weapon-x-protobuf/)
 <!-- BLOG-POST-LIST:END -->
 
 </details>
