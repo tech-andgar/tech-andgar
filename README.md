@@ -330,7 +330,7 @@ Things you should know -
 
 <!-- BLOG-POST-LIST:START -->
 - [Fix: memory and Mach port leak in HP APMAgent &lpar;macOS&rpar;](https://tech-andgar.me/posts/hp-apmagent-memory-leak-fix/)
-- [Fix: plaintext credentials in ~/.zshrc → macOS Keychain](https://tech-andgar.me/posts/hp-apmagent-memory-leak-fix/)
+- [Fix: plaintext credentials in ~/.zshrc → macOS Keychain](https://tech-andgar.me/posts/zshrc-secrets-keychain-fix/)
 - [Intent-Driven Development vs Spec-Driven Development: Compass and Map](https://tech-andgar.me/posts/intent-driven-development-vs-sdd/)
 - [From &quot;Wow It Works!&quot; to &quot;Wow It Still Works&quot;](https://tech-andgar.me/posts/from-wow-it-works-to-wow-it-still-works/)
 - [React Native on Android: Live Font-Scale Changes Don&#39;t Re-render What You Think](https://tech-andgar.me/posts/react-native-font-scale-changes-re-render/)
