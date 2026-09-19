@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg" width="500" height="500" alt="2026-09-16 Webb's View of M64 NASA">
+    <a href="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" width="500" height="500" alt="2026-09-18 Messier 33: The Triangulum Galaxy NASA">
     </a>
     <div>
-        <h4>Webb's View of M64</h4>
-        <time>2026-09-16</time>
-        <p>Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>Messier 33: The Triangulum Galaxy</h4>
+        <time>2026-09-18</time>
+        <p>The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
