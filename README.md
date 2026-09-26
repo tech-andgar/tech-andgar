@@ -344,13 +344,13 @@ Things you should know -
 
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
-    <a href="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg">
-      <img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" width="500" height="500" alt="2026-09-23 A New Lunar Crater: McGetchin NASA">
+    <a href="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg">
+      <img src="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg" width="500" height="500" alt="2026-09-25 Globular Cluster Omega Centauri NASA">
     </a>
     <div>
-        <h4>A New Lunar Crater: McGetchin</h4>
-        <time>2026-09-23</time>
-        <p>A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
+        <h4>Globular Cluster Omega Centauri</h4>
+        <time>2026-09-25</time>
+        <p>Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
