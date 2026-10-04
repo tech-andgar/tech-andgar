@@ -345,12 +345,12 @@ Things you should know -
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
     <a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png">
-      <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="500" height="500" alt="2026-10-01 NASA Science NASA">
+      <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="500" height="500" alt="2026-10-04 NASA Science NASA">
     </a>
     <div>
         <h4>NASA Science</h4>
-        <time>2026-10-01</time>
-        <p>Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen directly below the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: a harvest						</p>
+        <time>2026-10-04</time>
+        <p>On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date January 23, 2018. Also composed as an interactive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the small car-sized rover's Mars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, the laser-firing ChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp. On Earth date August 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: Sunday's Childe</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
