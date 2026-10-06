@@ -345,12 +345,12 @@ Things you should know -
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
     <a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png">
-      <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="500" height="500" alt="2026-10-04 NASA Science NASA">
+      <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="500" height="500" alt="2026-10-06 NASA Science NASA">
     </a>
     <div>
         <h4>NASA Science</h4>
-        <time>2026-10-04</time>
-        <p>On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date January 23, 2018. Also composed as an interactive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the small car-sized rover's Mars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, the laser-firing ChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp. On Earth date August 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.APOD's email for image submissions has changed. Please see: APOD Submissions.Tomorrow's picture: Sunday's Childe</p>
+        <time>2026-10-06</time>
+        <p>A deep image of the Sombrero galaxy reveals surprises. M104 is named the Sombrero galaxy because, on shorter exposures, it looks like a hat. A key defining feature of this huge galaxy is a dark brim of dust that circles the disk galaxy's center. A much longer exposure, however, brings up a hairy past where a bright, hazy halo is revealed that extends well past the central disk and contains many unresolved stars. Surprisingly, in this stellar haze, structures can be seen that include a diagonal ring. These structures and tidal streams provide fresh evidence that M104 had a violent past and is surely the result of collisions and mergers of smaller galaxies. Light takes about 30 million years to reach us from the Sombrero galaxy, which fully spans about 150 thousand light years across. The featured image was taken over seven days in mid-2026 from Namibia.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: a smile						</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
