@@ -345,12 +345,12 @@ Things you should know -
 <!-- PHOTO-DAY-NASA:START - Do not remove or modify this section -->
 <div>
     <a href="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png">
-      <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="500" height="500" alt="2026-10-30 NASA Science NASA">
+      <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" width="500" height="500" alt="2026-11-03 NASA Science NASA">
     </a>
     <div>
         <h4>NASA Science</h4>
-        <time>2026-10-30</time>
-        <p>That's no moon. But you could be forgiven for thinking it was a crescent Moon in the sky. It is a lesser known fact that Venus also has phases. (What about other planets?) The featured image shows Venus seen almost directly between the Sun and the Earth. This happens once every year and a half, and it is like the alignment that happens every month during a new Moon. But the new Moon is dark, while Venus' backlit atmosphere refracts and scatters the sunlight, creating a glowing crescent arc that extends beyond 180 degrees: the tips of this arc are called the "horns". The crescent can be seen with a small telescope or binoculars during twilight, but those with exceptionally acute eyesight may be able to see it with the unaided eye. Ancient Babylonian astronomers may have been the first to study Venus' brightness changes, which are related to its phases. Many other cultures have similar astronomical records, including the oldest surviving Maya book.</p>
+        <time>2026-11-03</time>
+        <p>What’s causing this unusually long cloud on Mars? Known as the Arsia Mons Elongated Cloud (AMEC) and first recorded by NASA’s Viking Orbiter 2 in 1977, the strange cloud has been imaged in greater detail more recently by ESA’s robotic Mars Express spacecraft. The featured image is from 2018. The cloud forms only during spring and summer seasons and then only during morning hours. Made of water-ice, the most familiar process that causes cloud crystals to form around bits of dust would fail due to the thinness and lack of dust high in the Martian atmosphere. Leading speculation holds that dust is not involved. After the cloud forms near the volcano Arsia Mons, wind blows the cloud downstream — creating a tail that can extend over 1500 kilometers. Efforts to better understand AMECs will continue, an understanding that may bolster a more complete view of cloud formation on Earth.Tomorrow's picture: eyeing a cat						</p>
         <strong><em>NASA</em></strong>
     </div>
   </div>
